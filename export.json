@@ -1,0 +1,26 @@
+{
+  // MindAttic.Export bundle definition for the dissertation.
+  // Run: scripts\export.ps1   (or: mindattic-export --config export.json)
+  "title": "Synthetic Exchange Theory",
+  "subtitle": "Consent-Based Compute Economics and Blind-Convention Governance",
+  "author": "Ryan DeBraal",
+  "description": "A dissertation arguing that the line between a good and a bad future with artificial intelligence is drawn by the terms of exchange between people and synthetic systems (consent, reciprocal value and real exit) rather than by the character of the systems. It develops a compute-denominated basic income with an inalienable survival tier and demurrage, a blind constitutional convention grounded in commons governance, a concrete transition scenario, and a falsifiable agrarian pilot.",
+  "keywords": [
+    "synthetic exchange theory",
+    "artificial intelligence ethics",
+    "AI governance",
+    "basic income compute",
+    "data as labor consent",
+    "veil of ignorance",
+    "commons governance Ostrom"
+  ],
+  "sources": [ "chapters/*.md" ],
+  "outputDirectory": "D:\\Projects\\MindAttic\\ePub\\MindAttic\\SET",
+  "fileBaseName": "SET",
+  "formats": [ "txt", "md", "docx", "pdf" ],
+  "profile": "letter",
+  "toc": true,
+  "docxPageNumbers": true,
+  "headingStyle": "em-dash",
+  "math": true
+}
