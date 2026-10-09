@@ -2,7 +2,7 @@
 
 *Consent-Based Compute Economics and Blind-Convention Governance*
 
-**Author:** Ryan DeBraal. Developed as a human–AI collaborative project; see the Statement on Authorship and Method in the front matter.
+**Author:** MindAttic. Developed as a human–AI collaborative project; see the Statement on Authorship and Method in the front matter.
 **Status:** Complete dissertation manuscript (October 2026). About 48,000 words of body text across ten chapters (about 64,000 with front matter, references and four appendices), with about 250 references whose verification level is recorded in Appendix D.
 
 ## Thesis in one paragraph
