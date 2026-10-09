@@ -17,7 +17,7 @@
   "sources": [ "chapters/*.md" ],
   "outputDirectory": "D:\\Projects\\MindAttic\\ePub\\MindAttic\\SET",
   "fileBaseName": "SET",
-  "formats": [ "txt", "md", "docx", "pdf" ],
+  "formats": [ "txt", "md", "docx", "pdf", "epub" ],
   "profile": "letter",
   "toc": true,
   "docxPageNumbers": true,
