@@ -364,7 +364,7 @@ National Academies of Sciences, Engineering, and Medicine. (2021). *The emerging
 
 National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research. (1979). *The Belmont report: Ethical principles and guidelines for the protection of human subjects of research*. U.S. Department of Health, Education, and Welfare.
 
-Neuralink Corp. (2024). *PRIME: Early feasibility study of a precise robotically implanted brain-computer interface* (ClinicalTrials.gov Identifier NCT06429735). https://clinicaltrials.gov/study/NCT06429735
+Neuralink Corp. (2024). *PRIME: An early feasibility study of a precise robotically implanted brain-computer interface for the control of external devices* (ClinicalTrials.gov Identifier NCT06429735). https://clinicaltrials.gov/study/NCT06429735
 
 Ngo, R., Chan, L., & Mindermann, S. (2024). The alignment problem from a deep learning perspective. In *The Twelfth International Conference on Learning Representations*. https://doi.org/10.48550/arXiv.2209.00626
 
