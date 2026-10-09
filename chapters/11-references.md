@@ -26,7 +26,9 @@ Armstrong, S., Bostrom, N., & Shulman, C. (2016). Racing to the precipice: A mod
 
 Arrieta-Ibarra, I., Goff, L., Jiménez-Hernández, D., Lanier, J., & Weyl, E. G. (2018). Should we treat data as labor? Moving beyond "free." *AEA Papers and Proceedings, 108*, 38–42. https://doi.org/10.1257/pandp.20181003
 
-Arute, F., Arya, K., Babbush, R., et al. (2019). Quantum supremacy using a programmable superconducting processor. *Nature, 574*(7779), 505–510. https://doi.org/10.1038/s41586-019-1666-5
+Arrow, K. J. (2001). John C. Harsanyi, 1920–2000. In *Biographical memoirs* (Vol. 80). National Academy Press. https://www.nasonline.org/wp-content/uploads/2024/06/harsanyi-john.pdf
+
+Arute, F., Arya, K., Babbush, R., Bacon, D., Bardin, J. C., Barends, R., Biswas, R., Boixo, S., Brandão, F. G. S. L., Buell, D. A., Burkett, B., Chen, Y., Chen, Z., Chiaro, B., Collins, R., Courtney, W., Dunsworth, A., Farhi, E., Foxen, B., . . . Martinis, J. M. (2019). Quantum supremacy using a programmable superconducting processor. *Nature, 574*(7779), 505–510. https://doi.org/10.1038/s41586-019-1666-5
 
 Autor, D. H. (2015). Why are there still so many jobs? The history and future of workplace automation. *Journal of Economic Perspectives, 29*(3), 3–30. https://doi.org/10.1257/jep.29.3.3
 
@@ -39,6 +41,8 @@ Barron-Gafford, G. A., Pavao-Zuckerman, M. A., Minor, R. L., Sutter, L. F., Barn
 Bengio, Y., Hinton, G., Yao, A., Song, D., Abbeel, P., Darrell, T., Harari, Y. N., Zhang, Y.-Q., Xue, L., Shalev-Shwartz, S., Hadfield, G., Clune, J., Maharaj, T., Hutter, F., Baydin, A. G., McIlraith, S., Gao, Q., Acharya, A., Krueger, D., . . . Mindermann, S. (2024). Managing extreme AI risks amid rapid progress. *Science, 384*(6698), 842–845. https://doi.org/10.1126/science.adn0117
 
 Bengio, Y., et al. (2025). *International AI safety report* (DSIT Research Series No. 2025/001). UK Department for Science, Innovation and Technology. https://doi.org/10.48550/arXiv.2501.17805
+
+Bernanke, B. S. (2002, November 8). *On Milton Friedman's ninetieth birthday* [Speech]. Board of Governors of the Federal Reserve System. https://www.federalreserve.gov/boarddocs/speeches/2002/20021108/
 
 Bestvater, S., Smith, A., TerBush, C., Baronavski, C., & Chavda, J. (2026, August 20). *How much of the internet is written with AI?* Pew Research Center. https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/
 
@@ -98,7 +102,7 @@ Cook, K. S., & Emerson, R. M. (1978). Power, equity and commitment in exchange n
 
 Cook, K. S., Emerson, R. M., Gillmore, M. R., & Yamagishi, T. (1983). The distribution of power in exchange networks: Theory and experimental results. *American Journal of Sociology, 89*(2), 275–305. https://doi.org/10.1086/227866
 
-Cook, R. I. (1998). *How complex systems fail* [Unpublished technical report]. Cognitive Technologies Laboratory, University of Chicago.
+Cook, R. I. (1998). *How complex systems fail* [Unpublished treatise; revised 2000]. Cognitive Technologies Laboratory, University of Chicago. https://how.complexsystems.fail/
 
 Cox, M., Arnold, G., & Villamayor Tomás, S. (2010). A review of design principles for community-based natural resource management. *Ecology and Society, 15*(4), Article 38. https://doi.org/10.5751/ES-03704-150438
 
@@ -128,7 +132,7 @@ Egger, D., Haushofer, J., Miguel, E., Niehaus, P., & Walker, M. (2022). General 
 
 Eloundou, T., Manning, S., Mishkin, P., & Rock, D. (2024). GPTs are GPTs: Labor market impact potential of LLMs. *Science, 384*(6702), 1306–1308. https://doi.org/10.1126/science.adj0998
 
-Elster, J. (1995). Forces and mechanisms in the constitution-making process. *Duke Law Journal, 45*(2), 364–396.
+Elster, J. (1995). Forces and mechanisms in the constitution-making process. *Duke Law Journal, 45*(2), 364–396. https://doi.org/10.2307/1372906
 
 Elster, J. (2000). *Ulysses unbound: Studies in rationality, precommitment, and constraints*. Cambridge University Press. https://doi.org/10.1017/CBO9780511625008
 
@@ -154,7 +158,9 @@ Fisher, I. (1911). *The purchasing power of money: Its determination and relatio
 
 Fisher, I. (1933). *Stamp scrip*. Adelphi Company.
 
-Friedman, M. (1982). Preface. In *Capitalism and freedom* (pp. vii–ix). University of Chicago Press. (Original work published 1962)
+Freeman, S. (2023). Original position. In E. N. Zalta & U. Nodelman (Eds.), *The Stanford encyclopedia of philosophy* (substantive revision October 24, 2023). https://plato.stanford.edu/entries/original-position/
+
+Friedman, M. (2002). *Capitalism and freedom* (40th anniversary ed.). University of Chicago Press. (Original work published 1962)
 
 Friedman, M., & Schwartz, A. J. (1963). *A monetary history of the United States, 1867–1960*. Princeton University Press.
 
@@ -194,7 +200,7 @@ Guo, Y., Shang, G., Vazirgiannis, M., & Clavel, C. (2024). The curious decline o
 
 H.B. 24-1058, 74th Gen. Assemb., 2d Reg. Sess. (Colo. 2024) (Protect Privacy of Biological Data).
 
-Ha, D., & Schmidhuber, J. (2018). Recurrent world models facilitate policy evolution. In *Advances in Neural Information Processing Systems 31* (pp. 2450–2462).
+Ha, D., & Schmidhuber, J. (2018). Recurrent world models facilitate policy evolution. In S. Bengio, H. Wallach, H. Larochelle, K. Grauman, N. Cesa-Bianchi, & R. Garnett (Eds.), *Advances in Neural Information Processing Systems 31*. Curran Associates. https://proceedings.neurips.cc/paper/2018/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html
 
 Hadfield, G. K., & Clark, J. (2026). Regulatory markets: The future of AI governance. *Jurimetrics, 65*, 195–240.
 
@@ -240,7 +246,7 @@ Hu, E. J., Shen, Y., Wallis, P., Allen-Zhu, Z., Li, Y., Wang, S., Wang, L., & Ch
 
 Hubinger, E., van Merwijk, C., Mikulik, V., Skalse, J., & Garrabrant, S. (2019). *Risks from learned optimization in advanced machine learning systems* (arXiv:1906.01820) [Preprint]. arXiv. https://doi.org/10.48550/arXiv.1906.01820
 
-Hume, D. (1987). Of the independency of parliament. In E. F. Miller (Ed.), *Essays, moral, political, and literary*. Liberty Fund. (Original work published 1742)
+Hume, D. (1987). Of the independency of parliament. In E. F. Miller (Ed.), *Essays, moral, political, and literary* (Rev. ed., pp. 42–46). Liberty Fund. (Original work published 1742)
 
 Hyun, I., Scharf-Deering, J. C., & Lunshof, J. E. (2020). Ethical issues related to brain organoid research. *Brain Research, 1732*, Article 146653. https://doi.org/10.1016/j.brainres.2020.146653
 
@@ -348,7 +354,7 @@ Mueller, M. L. (1997). *Universal service: Competition, interconnection, and mon
 
 Mueller, M. L. (2002). *Ruling the root: Internet governance and the taming of cyberspace*. MIT Press.
 
-Muennighoff, N., Rush, A. M., Barak, B., Le Scao, T., Piktus, A., Tazi, N., Pyysalo, S., Wolf, T., & Raffel, C. (2023). Scaling data-constrained language models. In *Advances in Neural Information Processing Systems 36*. https://doi.org/10.48550/arXiv.2305.16264
+Muennighoff, N., Rush, A. M., Barak, B., Le Scao, T., Tazi, N., Piktus, A., Pyysalo, S., Wolf, T., & Raffel, C. (2023). Scaling data-constrained language models. In A. Oh, T. Naumann, A. Globerson, K. Saenko, M. Hardt, & S. Levine (Eds.), *Advances in Neural Information Processing Systems 36* (pp. 50358–50376). Curran Associates. https://doi.org/10.52202/075280-2191
 
 Narechania, T. N., & Sitaraman, G. (2024). An antimonopoly approach to governing artificial intelligence. *Yale Law & Policy Review, 43*(1), 95–170.
 
@@ -362,7 +368,7 @@ Neuralink Corp. (2024). *PRIME: Early feasibility study of a precise robotically
 
 Ngo, R., Chan, L., & Mindermann, S. (2024). The alignment problem from a deep learning perspective. In *The Twelfth International Conference on Learning Representations*. https://doi.org/10.48550/arXiv.2209.00626
 
-Nissenbaum, H. (2010). *Privacy in context: Technology, policy, and the integrity of social life*. Stanford University Press. https://doi.org/10.1515/9780804772891
+Nissenbaum, H. (2009). *Privacy in context: Technology, policy, and the integrity of social life*. Stanford University Press. https://doi.org/10.1515/9780804772891
 
 Nosek, B. A., Ebersole, C. R., DeHaven, A. C., & Mellor, D. T. (2018). The preregistration revolution. *Proceedings of the National Academy of Sciences, 115*(11), 2600–2606. https://doi.org/10.1073/pnas.1708274114
 
@@ -482,7 +488,7 @@ Steil, B. (2013). *The battle of Bretton Woods: John Maynard Keynes, Harry Dexte
 
 Stigler, G. J. (1971). The theory of economic regulation. *The Bell Journal of Economics and Management Science, 2*(1), 3–21. https://doi.org/10.2307/3003160
 
-Streeck, W., & Thelen, K. (Eds.). (2005). *Beyond continuity: Institutional change in advanced political economies*. Oxford University Press.
+Streeck, W., & Thelen, K. (2005). Introduction: Institutional change in advanced political economies. In W. Streeck & K. Thelen (Eds.), *Beyond continuity: Institutional change in advanced political economies* (pp. 1–39). Oxford University Press. https://doi.org/10.1093/oso/9780199280452.003.0001
 
 Susser, D., Roessler, B., & Nissenbaum, H. (2019). Technology, autonomy, and manipulation. *Internet Policy Review, 8*(2). https://doi.org/10.14763/2019.2.1410
 
@@ -504,6 +510,8 @@ Universal service, 47 U.S.C. § 254 (2018).
 
 U.S. National Science Foundation. (2023). *Emerging Frontiers in Research and Innovation (EFRI): Biocomputing through EnGINeering Organoid Intelligence (BEGIN OI)* (NSF 24-508).
 
+Van Parijs, P. (2006). Basic income: A simple and powerful idea for the twenty-first century. In E. O. Wright (Ed.), *Redesigning distribution: Basic income and stakeholder grants as cornerstones for an egalitarian capitalism* (pp. 7–38). Verso. https://onlabor.org/wp-content/uploads/2016/06/Chap1.Simple_and_Powerful.pdf
+
 Van Parijs, P., & Vanderborght, Y. (2017). *Basic income: A radical proposal for a free society and a sane economy*. Harvard University Press.
 
 Verho, J., Hämäläinen, K., & Kanninen, O. (2022). Removing welfare traps: Employment responses in the Finnish basic income experiment. *American Economic Journal: Economic Policy, 14*(1), 501–522. https://doi.org/10.1257/pol.20200143
@@ -520,7 +528,7 @@ Vincent, N., Li, H., Tilly, N., Chancellor, S., & Hecht, B. (2021). Data leverag
 
 Vipra, J., & Korinek, A. (2023). *Market concentration implications of foundation models: The invisible hand of ChatGPT* (Center on Regulation and Markets Working Paper No. 9). Brookings Institution. https://doi.org/10.48550/arXiv.2311.01550
 
-Vivalt, E., Rhodes, E., Bartik, A. W., Broockman, D. E., Krause, P., & Miller, S. (2024). *The employment effects of a guaranteed income: Experimental evidence from two U.S. states* (NBER Working Paper No. 32719; rev. 2026). National Bureau of Economic Research. https://doi.org/10.3386/w32719
+Vivalt, E., Rhodes, E., Bartik, A. W., Broockman, D. E., Krause, P., & Miller, S. (2024). *The employment effects of a guaranteed income: Experimental evidence from two U.S. states* (NBER Working Paper No. 32719; rev. August 2026). National Bureau of Economic Research. https://doi.org/10.3386/w32719
 
 Weidinger, L., McKee, K. R., Everett, R., Huang, S., Zhu, T. O., Chadwick, M. J., Summerfield, C., & Gabriel, I. (2023). Using the Veil of Ignorance to align AI systems with principles of justice. *Proceedings of the National Academy of Sciences, 120*(18), Article e2213709120. https://doi.org/10.1073/pnas.2213709120
 
