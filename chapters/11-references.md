@@ -14,9 +14,11 @@ Acquisti, A., Brandimarte, L., & Loewenstein, G. (2015). Privacy and human behav
 
 Ada Lovelace Institute. (2021). *Exploring legal mechanisms for data stewardship* [Report]. https://www.adalovelaceinstitute.org/report/legal-mechanisms-data-stewardship/
 
-Adler, S., Hitzig, Z., Jain, S., Brewer, C., Chang, W., DiResta, R., Lazzarin, E., McGregor, S., Seltzer, W., Siddarth, D., et al. (2024). *Personhood credentials: Artificial intelligence and the value of privacy-preserving tools to distinguish who is real online* (arXiv:2408.07892) [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2408.07892
+Adler, S., Hitzig, Z., Jain, S., Brewer, C., Chang, W., DiResta, R., Lazzarin, E., McGregor, S., Seltzer, W., Siddarth, D., Soliman, N., South, T., Spelliscy, C., Sporny, M., Srivastava, V., Bailey, J., Christian, B., Critch, A., Falcon, R., . . . Zick, T. (2024). *Personhood credentials: Artificial intelligence and the value of privacy-preserving tools to distinguish who is real online* (arXiv:2408.07892) [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2408.07892
 
 Agarwal, A., Dahleh, M., & Sarkar, T. (2019). A marketplace for data: An algorithmic solution. In *Proceedings of the 2019 ACM Conference on Economics and Computation* (pp. 701–726). ACM. https://doi.org/10.1145/3328526.3329589
+
+Agustinoy, A. (2026, July 28). *Digital Omnibus on AI: Key changes to the AI Act*. Cuatrecasas. https://www.cuatrecasas.com/en/spain/intellectual-property/art/key-aspects-ai-omnibus-regulation
 
 Alemohammad, S., Casco-Rodriguez, J., Luzi, L., Humayun, A. I., Babaei, H., LeJeune, D., Siahkoohi, A., & Baraniuk, R. G. (2024). Self-consuming generative models go MAD. In *Proceedings of the Twelfth International Conference on Learning Representations*. https://doi.org/10.48550/arXiv.2307.01850
 
@@ -38,7 +40,7 @@ Barron-Gafford, G. A., Pavao-Zuckerman, M. A., Minor, R. L., Sutter, L. F., Barn
 
 Bengio, Y., Hinton, G., Yao, A., Song, D., Abbeel, P., Darrell, T., Harari, Y. N., Zhang, Y.-Q., Xue, L., Shalev-Shwartz, S., Hadfield, G., Clune, J., Maharaj, T., Hutter, F., Baydin, A. G., McIlraith, S., Gao, Q., Acharya, A., Krueger, D., . . . Mindermann, S. (2024). Managing extreme AI risks amid rapid progress. *Science, 384*(6698), 842–845. https://doi.org/10.1126/science.adn0117
 
-Bengio, Y., et al. (2025). *International AI safety report* (DSIT Research Series No. 2025/001). UK Department for Science, Innovation and Technology. https://doi.org/10.48550/arXiv.2501.17805
+Bengio, Y., Mindermann, S., Privitera, D., Besiroglu, T., Bommasani, R., Casper, S., Choi, Y., Fox, P., Garfinkel, B., Goldfarb, D., Heidari, H., Ho, A., Kapoor, S., Khalatbari, L., Longpre, S., Manning, S., Mavroudis, V., Mazeika, M., Michael, J., . . . Zeng, Y. (2025). *International AI safety report* (arXiv:2501.17805). UK Department for Science, Innovation and Technology. https://doi.org/10.48550/arXiv.2501.17805
 
 Bernanke, B. S. (2002, November 8). *On Milton Friedman's ninetieth birthday* [Speech]. Board of Governors of the Federal Reserve System. https://www.federalreserve.gov/boarddocs/speeches/2002/20021108/
 
@@ -56,7 +58,7 @@ Blau, P. M. (1964). *Exchange and power in social life*. Wiley.
 
 Bommasani, R., Creel, K. A., Kumar, A., Jurafsky, D., & Liang, P. (2022). Picking on the same person: Does algorithmic monoculture lead to outcome homogenization? In *Advances in Neural Information Processing Systems 35*. https://doi.org/10.48550/arXiv.2211.13972
 
-Bommasani, R., Hudson, D. A., Adeli, E., et al. (2021). *On the opportunities and risks of foundation models* (arXiv:2108.07258) [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2108.07258
+Bommasani, R., Hudson, D. A., Adeli, E., Altman, R., Arora, S., von Arx, S., Bernstein, M. S., Bohg, J., Bosselut, A., Brunskill, E., Brynjolfsson, E., Buch, S., Card, D., Castellon, R., Chatterji, N., Chen, A., Creel, K., Davis, J. Q., Demszky, D., . . . Liang, P. (2021). *On the opportunities and risks of foundation models* (arXiv:2108.07258) [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2108.07258
 
 Bommasani, R., Klyman, K., Longpre, S., Kapoor, S., Maslej, N., Xiong, B., Zhang, D., & Liang, P. (2023). *The Foundation Model Transparency Index* (arXiv:2310.12941) [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2310.12941
 
@@ -138,6 +140,8 @@ Emanuel, E. J., Wendler, D., & Grady, C. (2000). What makes clinical research et
 
 Emerson, R. M. (1962). Power-dependence relations. *American Sociological Review, 27*(1), 31–41. https://doi.org/10.2307/2089716
 
+ERTICO. (2026, August 7). *Digital Omnibus on AI enters into force*. https://ertico.com/digital-omnibus-on-ai-enters-into-force
+
 Faden, R. R., & Beauchamp, T. L. (with King, N. M. P.). (1986). *A history and theory of informed consent*. Oxford University Press.
 
 Farrell, J., & Klemperer, P. (2007). Coordination and lock-in: Competition with switching costs and network effects. In M. Armstrong & R. Porter (Eds.), *Handbook of industrial organization* (Vol. 3, pp. 1967–2072). Elsevier. https://doi.org/10.1016/S1573-448X(06)03031-7
@@ -156,7 +160,7 @@ Fisher, I. (1911). *The purchasing power of money: Its determination and relatio
 
 Fisher, I. (1933). *Stamp scrip*. Adelphi Company.
 
-Freeman, S. (2023). Original position. In E. N. Zalta & U. Nodelman (Eds.), *The Stanford encyclopedia of philosophy* (substantive revision October 24, 2023). https://plato.stanford.edu/entries/original-position/
+Freeman, S. (2023). Original position. In E. N. Zalta & U. Nodelman (Eds.), *The Stanford encyclopedia of philosophy* (Winter 2023 ed.). https://plato.stanford.edu/archives/win2023/entries/original-position/
 
 Friedman, M. (2002). *Capitalism and freedom* (40th anniversary ed.). University of Chicago Press. (Original work published 1962)
 
@@ -190,7 +194,7 @@ Greco, T. H., Jr. (2002, May 9). *Comment on the Wörgl experiment with communit
 
 Greenblatt, R., Shlegeris, B., Sachan, K., & Roger, F. (2024). AI control: Improving safety despite intentional subversion. In *Proceedings of the 41st International Conference on Machine Learning* (Vol. 235, pp. 16295–16336). PMLR.
 
-Guo, D., Yang, D., Zhang, H., et al. (2025). DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning. *Nature, 645*, 633–638. https://doi.org/10.1038/s41586-025-09422-z
+Guo, D., Yang, D., Zhang, H., Song, J., Wang, P., Zhu, Q., Xu, R., Zhang, R., Ma, S., Bi, X., Zhang, X., Yu, X., Wu, Y., Wu, Z. F., Gou, Z., Shao, Z., Li, Z., Gao, Z., Liu, A., . . . Zhang, Z. (2025). DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning. *Nature, 645*(8081), 633–638. https://doi.org/10.1038/s41586-025-09422-z
 
 Guo, T., Chen, X., Wang, Y., Chang, R., Pei, S., Chawla, N. V., Wiest, O., & Zhang, X. (2024). Large language model based multi-agents: A survey of progress and challenges. In *Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence* (pp. 8048–8057). https://doi.org/10.24963/ijcai.2024/890
 
@@ -210,9 +214,13 @@ Hardin, G. (1968). The tragedy of the commons. *Science, 162*(3859), 1243–1248
 
 Hardjono, T., & Pentland, A. (2019). *Data cooperatives: Towards a foundation for decentralized personal data management* (arXiv:1905.08819) [Preprint]. arXiv. https://doi.org/10.48550/arXiv.1905.08819
 
+Harsanyi, J. C. (1953). Cardinal utility in welfare economics and in the theory of risk-taking. *Journal of Political Economy, 61*(5), 434–435. https://doi.org/10.1086/257416
+
+Harsanyi, J. C. (1955). Cardinal welfare, individualistic ethics, and interpersonal comparisons of utility. *Journal of Political Economy, 63*(4), 309–321. https://doi.org/10.1086/257678
+
 Harsanyi, J. C. (1975). Can the maximin principle serve as a basis for morality? A critique of John Rawls's theory. *American Political Science Review, 69*(2), 594–606. https://doi.org/10.2307/1959090
 
-Hartung, T., Smirnova, L., Morales Pantoja, I. E., Akwaboah, A., Alam El Din, D.-M., et al. (2023). The Baltimore declaration toward the exploration of organoid intelligence. *Frontiers in Science, 1*, Article 1068159. https://doi.org/10.3389/fsci.2023.1068159
+Hartung, T., Smirnova, L., Morales Pantoja, I. E., Akwaboah, A., Alam El Din, D.-M., Berlinicke, C. A., Boyd, J. L., Caffo, B. S., Cappiello, B., Cohen-Karni, T., Curley, J. L., Etienne-Cummings, R., Dastgheyb, R., Gracias, D. H., Gilbert, F., Habela, C. W., Han, F., Harris, T. D., Herrmann, K., . . . Zack, D. J. (2023). The Baltimore declaration toward the exploration of organoid intelligence. *Frontiers in Science, 1*, Article 1068159. https://doi.org/10.3389/fsci.2023.1068159
 
 Haushofer, J., & Shapiro, J. (2016). The short-term impact of unconditional cash transfers to the poor: Experimental evidence from Kenya. *The Quarterly Journal of Economics, 131*(4), 1973–2042. https://doi.org/10.1093/qje/qjw025
 
@@ -240,7 +248,7 @@ Hu, E. J., Shen, Y., Wallis, P., Allen-Zhu, Z., Li, Y., Wang, S., Wang, L., & Ch
 
 Hubinger, E., van Merwijk, C., Mikulik, V., Skalse, J., & Garrabrant, S. (2019). *Risks from learned optimization in advanced machine learning systems* (arXiv:1906.01820) [Preprint]. arXiv. https://doi.org/10.48550/arXiv.1906.01820
 
-Hume, D. (1987). Of the independency of parliament. In E. F. Miller (Ed.), *Essays, moral, political, and literary* (Rev. ed., pp. 42–46). Liberty Fund. (Original work published 1742)
+Hume, D. (1987). Of the independency of parliament. In E. F. Miller (Ed.), *Essays, moral, political, and literary* (Rev. ed., pp. 42–46). Liberty Fund. (Original work published 1741)
 
 Hyun, I., Scharf-Deering, J. C., & Lunshof, J. E. (2020). Ethical issues related to brain organoid research. *Brain Research, 1732*, Article 146653. https://doi.org/10.1016/j.brainres.2020.146653
 
@@ -270,7 +278,7 @@ Kazdan, J., Schaeffer, R., Dey, A., Gerstgrasser, M., Rafailov, R., Donoho, D. L
 
 Keynes, J. M. (1936). *The general theory of employment, interest and money*. Macmillan.
 
-Khazatsky, A., Pertsch, K., Nair, S., Balakrishna, A., et al. (2024). *DROID: A large-scale in-the-wild robot manipulation dataset* (arXiv:2403.12945) [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2403.12945
+Khazatsky, A., Pertsch, K., Nair, S., Balakrishna, A., Dasari, S., Karamcheti, S., Nasiriany, S., Srirama, M. K., Chen, L. Y., Ellis, K., Fagan, P. D., Hejna, J., Itkina, M., Lepert, M., Ma, Y. J., Miller, P. T., Wu, J., Belkhale, S., Dass, S., . . . Finn, C. (2024). *DROID: A large-scale in-the-wild robot manipulation dataset* (arXiv:2403.12945) [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2403.12945
 
 Kim, E. M., Garg, A., Peng, K., & Garg, N. (2025). Correlated errors in large language models. In *Proceedings of the 42nd International Conference on Machine Learning* (Vol. 267, pp. 30038–30066). PMLR.
 
@@ -378,6 +386,8 @@ Ostrom, E. (2010). Beyond markets and states: Polycentric governance of complex 
 
 Ostrom, V., Tiebout, C. M., & Warren, R. (1961). The organization of government in metropolitan areas: A theoretical inquiry. *American Political Science Review, 55*(4), 831–842. https://doi.org/10.2307/1952530
 
+Ottacher, G. (2007). *Der Welt ein Zeichen geben: Das Freigeldexperiment von Wörgl/Tirol 1932/33*. Gauke, Verlag für Sozialökonomie. https://www.silvio-gesell.de/files/luxe/img/Download-Dateien/Ottacher.W%C3%B6rgl.1932-33.korr24.pdf
+
 Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C., Mishkin, P., Zhang, C., Agarwal, S., Slama, K., Ray, A., Schulman, J., Hilton, J., Kelton, F., Miller, L., Simens, M., Askell, A., Welinder, P., Christiano, P. F., Leike, J., & Lowe, R. (2022). Training language models to follow instructions with human feedback. In *Advances in Neural Information Processing Systems 35*. https://doi.org/10.48550/arXiv.2203.02155
 
 Pan, F., Chen, K., & Zhang, P. (2022). Solving the sampling problem of the Sycamore quantum circuits. *Physical Review Letters, 129*(9), Article 090502. https://doi.org/10.1103/PhysRevLett.129.090502
@@ -416,13 +426,15 @@ Radin, M. J. (1987). Market-inalienability. *Harvard Law Review, 100*(8), 1849�
 
 Rawls, J. (1971). *A theory of justice*. Belknap Press of Harvard University Press. https://doi.org/10.4159/9780674042605
 
-Reddi, V. J., Cheng, C., Kanter, D., Mattson, P., Schmuelling, G., et al. (2020). MLPerf inference benchmark. In *2020 ACM/IEEE 47th Annual International Symposium on Computer Architecture* (pp. 446–459). IEEE. https://doi.org/10.1109/ISCA45697.2020.00045
+Reddi, V. J., Cheng, C., Kanter, D., Mattson, P., Schmuelling, G., Wu, C.-J., Anderson, B., Breughe, M., Charlebois, M., Chou, W., Chukka, R., Coleman, C., Davis, S., Deng, P., Diamos, G., Duke, J., Fick, D., Gardner, J. S., Hubara, I., . . . Zhou, Y. (2020). MLPerf inference benchmark. In *2020 ACM/IEEE 47th Annual International Symposium on Computer Architecture* (pp. 446–459). IEEE. https://doi.org/10.1109/ISCA45697.2020.00045
 
 Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation). (2016). *Official Journal of the European Union, L 119*, 1–88.
 
 Regulation (EU) 2023/2854 of the European Parliament and of the Council of 13 December 2023 on harmonised rules on fair access to and use of data (Data Act). (2023). *Official Journal of the European Union, L, 2023/2854*.
 
 Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act). (2024). *Official Journal of the European Union, L, 2024/1689*.
+
+Regulation (EU) 2026/1744 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) 2024/1689, (EU) 2018/1139 and (EU) 2023/1230 as regards the simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI). (2026). *Official Journal of the European Union, L, 2026/1744*. http://data.europa.eu/eli/reg/2026/1744/oj
 
 Robbins, A., Schweiger, H. E., Hernandez, S., Spaeth, A., Voitiuk, K., Parks, D. F., van der Molen, T., Geng, J., Cline, I., Kosik, K. S., Salama, S. R., Sharf, T., Mostajo-Radji, M. A., Haussler, D., & Teodorescu, M. (2026). Goal-directed learning in cortical organoids. *Cell Reports, 45*(2), Article 116984. https://doi.org/10.1016/j.celrep.2026.116984
 
@@ -486,7 +498,7 @@ Susser, D., Roessler, B., & Nissenbaum, H. (2019). Technology, autonomy, and man
 
 Thibaut, J. W., & Kelley, H. H. (1959). *The social psychology of groups*. Wiley.
 
-Touvron, H., Martin, L., Stone, K., Albert, P., Almahairi, A., et al. (2023). *Llama 2: Open foundation and fine-tuned chat models* (arXiv:2307.09288) [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2307.09288
+Touvron, H., Martin, L., Stone, K., Albert, P., Almahairi, A., Babaei, Y., Bashlykov, N., Batra, S., Bhargava, P., Bhosale, S., Bikel, D., Blecher, L., Canton Ferrer, C., Chen, M., Cucurull, G., Esiobu, D., Fernandes, J., Fu, J., Fu, W., . . . Scialom, T. (2023). *Llama 2: Open foundation and fine-tuned chat models* (arXiv:2307.09288) [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2307.09288
 
 TrendForce. (2025, December 26). *AI reportedly to consume 20% of global DRAM wafer capacity in 2026, HBM and GDDR7 lead demand* [News]. https://www.trendforce.com/news/2025/12/26/news-ai-reportedly-to-consume-20-of-global-dram-wafer-capacity-in-2026
 
@@ -502,7 +514,7 @@ Universal service, 47 U.S.C. § 254 (2018).
 
 U.S. National Science Foundation. (2023). *Emerging Frontiers in Research and Innovation (EFRI): Biocomputing through EnGINeering Organoid Intelligence (BEGIN OI)* (NSF 24-508).
 
-Van Parijs, P. (2006). Basic income: A simple and powerful idea for the twenty-first century. In E. O. Wright (Ed.), *Redesigning distribution: Basic income and stakeholder grants as cornerstones for an egalitarian capitalism* (pp. 7–38). Verso. https://onlabor.org/wp-content/uploads/2016/06/Chap1.Simple_and_Powerful.pdf
+Van Parijs, P. (2006). Basic income: A simple and powerful idea for the twenty-first century. In E. O. Wright (Ed.), *Redesigning distribution: Basic income and stakeholder grants as alternative cornerstones for a more egalitarian capitalism* (pp. 7–38). Verso. https://onlabor.org/wp-content/uploads/2016/06/Chap1.Simple_and_Powerful.pdf
 
 Van Parijs, P., & Vanderborght, Y. (2017). *Basic income: A radical proposal for a free society and a sane economy*. Harvard University Press.
 
@@ -530,7 +542,7 @@ Willett, F. R., Kunz, E. M., Fan, C., Avansino, D. T., Wilson, G. H., Choi, E. Y
 
 Wilson, D. S., Ostrom, E., & Cox, M. E. (2013). Generalizing the core design principles for the efficacy of groups. *Journal of Economic Behavior & Organization, 90*(Suppl.), S21–S32. https://doi.org/10.1016/j.jebo.2012.12.010
 
-Wu, Q., Bansal, G., Zhang, J., Wu, Y., Li, B., Zhu, E., Jiang, L., Zhang, X., Zhang, S., Liu, J., Awadallah, A. H., White, R. W., Burger, D., & Wang, C. (2024). AutoGen: Enabling next-gen LLM applications via multi-agent conversation. In *Proceedings of the First Conference on Language Modeling*. https://doi.org/10.48550/arXiv.2308.08155
+Wu, Q., Bansal, G., Zhang, J., Wu, Y., Li, B., Zhu, E., Jiang, L., Zhang, X., Zhang, S., Liu, J., Awadallah, A. H., White, R. W., Burger, D., & Wang, C. (2024). AutoGen: Enabling next-gen LLM applications via multi-agent conversation. In *Proceedings of the First Conference on Language Modeling*. https://openreview.net/forum?id=BAakY1hNKS
 
 Wu, Y., Jiang, N., Pham, H. V., Lutellier, T., Davis, J., Tan, L., Babkin, P., & Shah, S. (2023). How effective are neural networks for fixing security vulnerabilities. In *Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis* (pp. 1282–1294). ACM. https://doi.org/10.1145/3597926.3598135
 
