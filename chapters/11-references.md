@@ -32,8 +32,6 @@ Arute, F., Arya, K., Babbush, R., Bacon, D., Bardin, J. C., Barends, R., Biswas,
 
 Autor, D. H. (2015). Why are there still so many jobs? The history and future of workplace automation. *Journal of Economic Perspectives, 29*(3), 3–30. https://doi.org/10.1257/jep.29.3.3
 
-Balcı, F., Ben Hamed, S., Boraud, T., Bouret, S., Brochier, T., Brun, C., Cohen, J. Y., Coutureau, E., Deffains, M., Doyère, V., Gregoriou, G. G., Heimel, J. A., Kilavik, B. E., Lee, D., Leuthardt, E. C., Mainen, Z. F., Mathis, M. W., Monosov, I. E., Naudé, J., . . . Zimmermann, J. (2023). A response to claims of emergent intelligence and sentience in a dish. *Neuron, 111*(5), 604–605. https://doi.org/10.1016/j.neuron.2023.02.009
-
 Barocas, S., & Nissenbaum, H. (2014). Big data's end run around anonymity and consent. In J. Lane, V. Stodden, S. Bender, & H. Nissenbaum (Eds.), *Privacy, big data, and the public good: Frameworks for engagement* (pp. 44–75). Cambridge University Press. https://doi.org/10.1017/CBO9781107590205.004
 
 Barron-Gafford, G. A., Pavao-Zuckerman, M. A., Minor, R. L., Sutter, L. F., Barnett-Moreno, I., Blackett, D. T., Thompson, M., Dimond, K., Gerlak, A. K., Nabhan, G. P., & Macknick, J. E. (2019). Agrivoltaics provide mutual benefits across the food–energy–water nexus in drylands. *Nature Sustainability, 2*(9), 848–855. https://doi.org/10.1038/s41893-019-0364-5
@@ -212,10 +210,6 @@ Hardin, G. (1968). The tragedy of the commons. *Science, 162*(3859), 1243–1248
 
 Hardjono, T., & Pentland, A. (2019). *Data cooperatives: Towards a foundation for decentralized personal data management* (arXiv:1905.08819) [Preprint]. arXiv. https://doi.org/10.48550/arXiv.1905.08819
 
-Harsanyi, J. C. (1953). Cardinal utility in welfare economics and in the theory of risk-taking. *Journal of Political Economy, 61*(5), 434–435. https://doi.org/10.1086/257416
-
-Harsanyi, J. C. (1955). Cardinal welfare, individualistic ethics, and interpersonal comparisons of utility. *Journal of Political Economy, 63*(4), 309–321. https://doi.org/10.1086/257678
-
 Harsanyi, J. C. (1975). Can the maximin principle serve as a basis for morality? A critique of John Rawls's theory. *American Political Science Review, 69*(2), 594–606. https://doi.org/10.2307/1959090
 
 Hartung, T., Smirnova, L., Morales Pantoja, I. E., Akwaboah, A., Alam El Din, D.-M., et al. (2023). The Baltimore declaration toward the exploration of organoid intelligence. *Frontiers in Science, 1*, Article 1068159. https://doi.org/10.3389/fsci.2023.1068159
@@ -265,8 +259,6 @@ Jiang, A. Q., Sablayrolles, A., Mensch, A., Bamford, C., Chaplot, D. S., de las 
 Jones, D., & Marinescu, I. (2022). The labor market impacts of universal and permanent cash transfers: Evidence from the Alaska Permanent Fund. *American Economic Journal: Economic Policy, 14*(2), 315–340. https://doi.org/10.1257/pol.20190299
 
 Kagan, B. J., Kitchen, A. C., Tran, N. T., Habibollahi, F., Khajehnejad, M., Parker, B. J., Bhat, A., Rollo, B., Razi, A., & Friston, K. J. (2022). In vitro neurons learn and exhibit sentience when embodied in a simulated game-world. *Neuron, 110*(23), 3952–3969.e8. https://doi.org/10.1016/j.neuron.2022.09.001
-
-Kagan, B. J., Razi, A., Bhat, A., Kitchen, A. C., Tran, N. T., Habibollahi, F., Khajehnejad, M., Parker, B. J., Rollo, B., & Friston, K. J. (2023). Scientific communication and the semantics of sentience. *Neuron, 111*(5), 606–607. https://doi.org/10.1016/j.neuron.2023.02.008
 
 Kanter, R. M. (1972). *Commitment and community: Communes and utopias in sociological perspective*. Harvard University Press.
 
@@ -531,8 +523,6 @@ Vipra, J., & Korinek, A. (2023). *Market concentration implications of foundatio
 Vivalt, E., Rhodes, E., Bartik, A. W., Broockman, D. E., Krause, P., & Miller, S. (2024). *The employment effects of a guaranteed income: Experimental evidence from two U.S. states* (NBER Working Paper No. 32719; rev. August 2026). National Bureau of Economic Research. https://doi.org/10.3386/w32719
 
 Weidinger, L., McKee, K. R., Everett, R., Huang, S., Zhu, T. O., Chadwick, M. J., Summerfield, C., & Gabriel, I. (2023). Using the Veil of Ignorance to align AI systems with principles of justice. *Proceedings of the National Academy of Sciences, 120*(18), Article e2213709120. https://doi.org/10.1073/pnas.2213709120
-
-Wertheimer, A. (1996). *Exploitation*. Princeton University Press.
 
 Weston, D. (2024, July 20). *Helping our customers through the CrowdStrike outage* [Blog post]. Microsoft. https://blogs.microsoft.com/blog/2024/07/20/helping-our-customers-through-the-crowdstrike-outage/
 
