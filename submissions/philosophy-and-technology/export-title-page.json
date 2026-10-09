@@ -1,0 +1,20 @@
+{
+  "title": "Terms, Not Character: The Priority of Exit in Exchange Between People and Artificial Systems",
+  "author": "Ryan DeBraal",
+  "sources": [
+    "title-page.md"
+  ],
+  "outputDirectory": "D:\\Projects\\MindAttic\\ePub\\MindAttic\\SET\\Philosophy and Technology\\Title Page",
+  "fileBaseName": "Title Page",
+  "formats": [
+    "docx",
+    "pdf"
+  ],
+  "sidecars": false,
+  "profile": "letter",
+  "toc": false,
+  "docxPageNumbers": true,
+  "headingStyle": "as-written",
+  "firstHeadingIsTitle": true,
+  "math": true
+}

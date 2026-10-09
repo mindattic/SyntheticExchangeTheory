@@ -1,0 +1,20 @@
+{
+  "title": "Cover Letter",
+  "author": "Ryan DeBraal",
+  "sources": [
+    "cover-letter.md"
+  ],
+  "outputDirectory": "D:\\Projects\\MindAttic\\ePub\\MindAttic\\SET\\Philosophy and Technology\\Cover Letter",
+  "fileBaseName": "Cover Letter",
+  "formats": [
+    "docx",
+    "pdf"
+  ],
+  "sidecars": false,
+  "profile": "letter",
+  "toc": false,
+  "docxPageNumbers": true,
+  "headingStyle": "as-written",
+  "firstHeadingIsTitle": true,
+  "math": true
+}

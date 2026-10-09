@@ -158,7 +158,7 @@ In each case, the theory directs attention away from the question that dominates
 
 Three limits on this chapter should be stated before the argument proceeds.
 
-The formalism does not measure anything. It defines quantities, such as dependence, disagreement payoffs and informational shadows, that are difficult to observe. Appendix B proposes operational proxies for each of them for use in the pilot of Chapter 7, but the proxies are imperfect and the mapping from them to the theoretical quantities is itself a matter for empirical work. The same pilot is the dissertation's test of the sufficiency conjecture, which the formalism states but does not prove.
+The formalism does not measure anything. It defines quantities, such as dependence, disagreement payoffs and informational shadows, that are difficult to observe. Appendix B proposes operational proxies for each of them for use in the pilot of Chapter 7, but the proxies are imperfect and the mapping from them to the theoretical quantities is itself a matter for empirical work. The formalism states the sufficiency conjecture but does not prove it, and the pilot tests only one mechanism on which it relies.
 
 The formalism does not settle who counts as a party in the moral sense. It treats synthetic systems as parties in the analytic sense because they have objectives the exchange affects, and it locates their stake in their principals. Whether a system's own welfare matters is a question the dissertation regards as open, and Chapter 9 argues that the convergence of biological and artificial substrates will force it onto the agenda sooner than most institutions are prepared for.
 
