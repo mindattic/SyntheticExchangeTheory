@@ -4,8 +4,6 @@
 
 Abramitzky, R. (2008). The limits of equality: Insights from the Israeli kibbutz. *The Quarterly Journal of Economics, 123*(3), 1111–1159. https://doi.org/10.1162/qjec.2008.123.3.1111
 
-Abramitzky, R. (2018). *The mystery of the kibbutz: Egalitarian principles in a capitalist world*. Princeton University Press.
-
 Acemoglu, D., & Restrepo, P. (2020). Robots and jobs: Evidence from US labor markets. *Journal of Political Economy, 128*(6), 2188–2244. https://doi.org/10.1086/705716
 
 Ackerman, B. (1991). *We the people: Vol. 1. Foundations*. Belknap Press of Harvard University Press.
@@ -98,8 +96,6 @@ Clark, A., & Chalmers, D. (1998). The extended mind. *Analysis, 58*(1), 7–19. 
 
 Cloud Security Alliance AI Safety Initiative. (2026, July 11). *The clearinghouse rush: Concentration risk in AI patching* [Research note]. https://labs.cloudsecurityalliance.org/research/csa-research-note-ai-vuln-clearinghouse-concentration-risk-2/
 
-Cook, K. S., & Emerson, R. M. (1978). Power, equity and commitment in exchange networks. *American Sociological Review, 43*(5), 721–739. https://doi.org/10.2307/2094546
-
 Cook, K. S., Emerson, R. M., Gillmore, M. R., & Yamagishi, T. (1983). The distribution of power in exchange networks: Theory and experimental results. *American Journal of Sociology, 89*(2), 275–305. https://doi.org/10.1086/227866
 
 Cook, R. I. (1998). *How complex systems fail* [Unpublished treatise; revised 2000]. Cognitive Technologies Laboratory, University of Chicago. https://how.complexsystems.fail/
@@ -115,8 +111,6 @@ Currie, J., & Gahvari, F. (2008). Transfers in cash and in-kind: Theory meets th
 Dafoe, A., Bachrach, Y., Hadfield, G., Horvitz, E., Larson, K., & Graepel, T. (2021). Cooperative AI: Machines must learn to find common ground. *Nature, 593*(7857), 33–36. https://doi.org/10.1038/d41586-021-01170-0
 
 de Bromhead, A., Eichengreen, B., & O'Rourke, K. H. (2013). Political extremism in the 1920s and 1930s: Do German lessons generalize? *The Journal of Economic History, 73*(2), 371–406. https://doi.org/10.1017/S0022050713000302
-
-De Filippi, P., & Wright, A. (2018). *Blockchain and the law: The rule of code*. Harvard University Press. https://doi.org/10.4159/9780674985933
 
 Delacroix, S., & Lawrence, N. D. (2019). Bottom-up data trusts: Disturbing the "one size fits all" approach to data governance. *International Data Privacy Law, 9*(4), 236–252. https://doi.org/10.1093/idpl/ipz014
 
@@ -136,8 +130,6 @@ Elster, J. (1995). Forces and mechanisms in the constitution-making process. *Du
 
 Elster, J. (2000). *Ulysses unbound: Studies in rationality, precommitment, and constraints*. Cambridge University Press. https://doi.org/10.1017/CBO9780511625008
 
-Emanuel, E. J., Wendler, D., & Grady, C. (2000). What makes clinical research ethical? *JAMA, 283*(20), 2701–2711. https://doi.org/10.1001/jama.283.20.2701
-
 Emerson, R. M. (1962). Power-dependence relations. *American Sociological Review, 27*(1), 31–41. https://doi.org/10.2307/2089716
 
 ERTICO. (2026, August 7). *Digital Omnibus on AI enters into force*. https://ertico.com/digital-omnibus-on-ai-enters-into-force
@@ -152,8 +144,6 @@ Financial Conduct Authority. (2024, October 31). *CrowdStrike outage: Lessons fo
 
 Firoozi, R., Tucker, J., Tian, S., Majumdar, A., Sun, J., Liu, W., Zhu, Y., Song, S., Kapoor, A., Hausman, K., Ichter, B., Driess, D., Wu, J., Lu, C., & Schwager, M. (2025). Foundation models in robotics: Applications, challenges, and the future. *The International Journal of Robotics Research, 44*(5), 701–739. https://doi.org/10.1177/02783649241281508
 
-Fishback, P. V. (1986). Did coal miners "owe their souls to the company store"? Theory and evidence from the early 1900s. *The Journal of Economic History, 46*(4), 1011–1029. https://doi.org/10.1017/S0022050700050695
-
 Fishback, P. V. (1992). *Soft coal, hard choices: The economic welfare of bituminous coal miners, 1890–1930*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780195067255.001.0001
 
 Fisher, I. (1911). *The purchasing power of money: Its determination and relation to credit, interest and crises*. Macmillan.
@@ -166,9 +156,9 @@ Friedman, M. (2002). *Capitalism and freedom* (40th anniversary ed.). University
 
 Friedman, M., & Schwartz, A. J. (1963). *A monetary history of the United States, 1867–1960*. Princeton University Press.
 
-Fritsch, R., Müller, M., & Wattenhofer, R. (2024). Analyzing voting power in decentralized governance: Who controls DAOs? *Blockchain: Research and Applications, 5*(3), Article 100208. https://doi.org/10.1016/j.bcra.2024.100208
+Frohlich, N., & Oppenheimer, J. A. (1992). *Choosing justice: An experimental approach to ethical theory*. University of California Press.
 
-Frohlich, N., Oppenheimer, J. A., & Eavey, C. L. (1987). Laboratory results on Rawls's distributive justice. *British Journal of Political Science, 17*(1), 1–21. https://doi.org/10.1017/S0007123400004580
+Fritsch, R., Müller, M., & Wattenhofer, R. (2024). Analyzing voting power in decentralized governance: Who controls DAOs? *Blockchain: Research and Applications, 5*(3), Article 100208. https://doi.org/10.1016/j.bcra.2024.100208
 
 Funke, M., Schularick, M., & Trebesch, C. (2016). Going to extremes: Politics after financial crises, 1870–2014. *European Economic Review, 88*, 227–260. https://doi.org/10.1016/j.euroecorev.2016.03.006
 
@@ -338,8 +328,6 @@ Mathur, A., Acar, G., Friedman, M. J., Lucherini, E., Mayer, J., Chetty, M., & N
 
 Mattson, P., Cheng, C., Diamos, G., Coleman, C., Micikevicius, P., Patterson, D., Tang, H., Wei, G.-Y., Bailis, P., Bittorf, V., Brooks, D., Chen, D., Dutta, D., Gupta, U., Hazelwood, K., Hock, A., Huang, X., Kang, D., Kanter, D., . . . Zaharia, M. (2020). MLPerf training benchmark. *Proceedings of Machine Learning and Systems, 2*. https://proceedings.mlsys.org/paper_files/paper/2020/hash/411e39b117e885341f25efb8912945f7-Abstract.html
 
-Mattson, P., Reddi, V. J., Cheng, C., Coleman, C., Diamos, G., Kanter, D., Micikevicius, P., Patterson, D., Schmuelling, G., Tang, H., Wei, G.-Y., & Wu, C.-J. (2020). MLPerf: An industry standard benchmark suite for machine learning performance. *IEEE Micro, 40*(2), 8–16. https://doi.org/10.1109/MM.2020.2974843
-
 McCambridge, J., Witton, J., & Elbourne, D. R. (2014). Systematic review of the Hawthorne effect: New concepts are needed to study research participation effects. *Journal of Clinical Epidemiology, 67*(3), 267–277. https://doi.org/10.1016/j.jclinepi.2013.08.015
 
 Metzger, S. L., Littlejohn, K. T., Silva, A. B., Moses, D. A., Seaton, M. P., Wang, R., Dougherty, M. E., Liu, J. R., Wu, P., Berger, M. A., Zhuravleva, I., Tu-Chan, A., Ganguly, K., Anumanchipalli, G. K., & Chang, E. F. (2023). A high-performance neuroprosthesis for speech decoding and avatar control. *Nature, 620*(7976), 1037–1046. https://doi.org/10.1038/s41586-023-06443-4
@@ -347,8 +335,6 @@ Metzger, S. L., Littlejohn, K. T., Silva, A. B., Moses, D. A., Seaton, M. P., Wa
 Micron Technology. (2025, December 3). *Micron announces exit from Crucial consumer business* [Press release]. https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business
 
 Mierczuk, A., Michaels, S., & Hoodlet, K. (2026). *Frontier models' vulnerability patches are often F.L.A.W.E.D.: Fix-like artifacts with embedded defects: Common failure modes of LLM-generated security patches* [White paper]. Off-by-1 Labs, 1Password. https://1password.com/files/resources/frontier-models-vulnerability-patches-flawed.pdf
-
-Molm, L. D. (2003). Theoretical comparisons of forms of exchange. *Sociological Theory, 21*(1), 1–17. https://doi.org/10.1111/1467-9558.00171
 
 Mueller, M. L. (1997). *Universal service: Competition, interconnection, and monopoly in the making of the American telephone system*. MIT Press; AEI Press.
 
@@ -437,8 +423,6 @@ Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 Ju
 Regulation (EU) 2026/1744 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) 2024/1689, (EU) 2018/1139 and (EU) 2023/1230 as regards the simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI). (2026). *Official Journal of the European Union, L, 2026/1744*. http://data.europa.eu/eli/reg/2026/1744/oj
 
 Robbins, A., Schweiger, H. E., Hernandez, S., Spaeth, A., Voitiuk, K., Parks, D. F., van der Molen, T., Geng, J., Cline, I., Kosik, K. S., Salama, S. R., Sharf, T., Mostajo-Radji, M. A., Haussler, D., & Teodorescu, M. (2026). Goal-directed learning in cortical organoids. *Cell Reports, 45*(2), Article 116984. https://doi.org/10.1016/j.celrep.2026.116984
-
-Rusbult, C. E., & Van Lange, P. A. M. (2003). Interdependence, interaction, and relationships. *Annual Review of Psychology, 54*, 351–375. https://doi.org/10.1146/annurev.psych.54.101601.145059
 
 S.B. 1223, 2023–2024 Reg. Sess., ch. 887 (Cal. 2024).
 
@@ -551,7 +535,5 @@ Yuste, R., Goering, S., Agüera y Arcas, B., Bi, G., Carmena, J. M., Carter, A.,
 Zhao, W., Queralta, J. P., & Westerlund, T. (2020). Sim-to-real transfer in deep reinforcement learning for robotics: A survey. In *2020 IEEE Symposium Series on Computational Intelligence* (pp. 737–744). IEEE. https://doi.org/10.1109/SSCI47803.2020.9308468
 
 Zuboff, S. (2019). *The age of surveillance capitalism: The fight for a human future at the new frontier of power*. PublicAffairs.
-
-Zwolinski, M. (2012). Structural exploitation. *Social Philosophy and Policy, 29*(1), 154–179. https://doi.org/10.1017/S026505251100015X
 
 Zwolinski, M., Ferguson, B., & Wertheimer, A. (2022). Exploitation. In E. N. Zalta & U. Nodelman (Eds.), *The Stanford encyclopedia of philosophy* (Winter 2022 ed.). https://plato.stanford.edu/entries/exploitation/
