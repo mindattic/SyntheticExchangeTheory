@@ -28,3 +28,4 @@ updated: 2026-10-13
 | SET-T3 | 2026-10-13 | docs | open | Blocked on SET-T2. Draft the staged-validation framing chosen in SET-T2 (new section or chapter): simulation stage, lab-experiment stage, digital-native pilot stage, and how each feeds into or precedes the physical settlement. | — |
 | SET-T4 | 2026-10-13 | docs | open | Blocked on SET-T3. Revise Ch. 7 §7.11 and Appendix B (design summary, hypotheses, replication plan) to reflect the chosen validation strategy and its staging. | — |
 | SET-T5 | 2026-10-15 | chore | closed | Remove duplicate command copies (/quickload, /quicksave) now centralized at the user level (~/.claude/commands) | M.FLOW-T14 |
+| SET-T6 | 2026-10-16 | chore | closed | install.ps1 adds this repo's 15 .prose/commands stubs for the shared global commands, so any LLM client finds them | mindattic-agent-standard/install.ps1 run 2026-10-16 |
