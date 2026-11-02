@@ -16,7 +16,7 @@ Terms are defined as they are used in this dissertation. Where a term has a wide
 
 **Demurrage.** A holding cost on idle balances of a currency, expressed as a percentage per period. Applied in this framework to positive discretionary balances and to outstanding loan claims, never to debts owed. Historically associated with Silvio Gesell and with the stamp-scrip experiments of the early 1930s.
 
-**Designed-incentive regime.** The class of synthetic parties whose objectives are specified by accountable designers and remain stable under deployment, so that their behavior is a predictable function of the terms they face. The regime in which the sufficiency conjecture of Chapter 3 is offered. Sometimes called the "sub-AGI" case as shorthand; the defining feature is the provenance and stability of the objective, not a threshold of capability.
+**Designed-incentive regime.** The class of synthetic parties whose objectives are specified by accountable designers and remain stable under deployment, so that their behavior is a predictable function of the terms they face. The regime in which the sufficiency conjecture of Chapter 3 is offered. Sometimes described as the case short of superintelligence, as shorthand; the defining feature is the provenance and stability of the objective, not a threshold of capability.
 
 **Disagreement payoff.** What a party receives while an exchange is not taking place, including during refusal, negotiation or impasse. Distinguished from an exit option, which affects a bargain only when its exercise is credible. A disagreement payoff below the floor makes a party impatient and so weakens it in every bargain.
 
@@ -41,6 +41,8 @@ Terms are defined as they are used in this dissertation. Where a term has a wide
 **Informational shadow.** The set of parties about whom a data flow licenses inferences. A flow whose shadow extends beyond its source is relational, and individual consent is insufficient to legitimate it.
 
 **Information-gain pricing.** The proposal of Chapter 4 to price human data by the expected reduction in a model's uncertainty about its parameters that the data produces, rather than by the social status of its source.
+
+**Large language model (LLM).** A synthetic intelligence trained to predict and generate text, the kind most widely deployed at the time of writing. In this dissertation's terms it is a trained artifact that computes an output from an input when its operator runs it, not an independent living entity: it has no body, no continuity between invocations unless supplied by its operator, and no interests that any law recognizes (Chapter 1.2). Its objective is the one its designers trained into it, and its stake in any exchange belongs to its operator (Chapter 3.3).
 
 **Level matching.** Proposition 5 of Chapter 3: an exchange whose informational shadow extends beyond its source satisfies the three conditions only if they hold at the level of the population the shadow covers.
 
@@ -68,9 +70,13 @@ Terms are defined as they are used in this dissertation. Where a term has a wide
 
 **Structural interdependence.** The condition, described in Chapter 5, in which neither human nor synthetic parties can complete a critical undertaking without the other, so that cooperation rests on what is physically possible rather than on trust. Chosen over "trust" and "dual accountability" because trust implies a betrayal that could succeed, and accountability implies a sovereign to whom account is given.
 
+**Superintelligence.** A synthetic intelligence whose capability exceeds that of the best human performers across most domains of economically and politically consequential activity. The dissertation's threshold term where capability matters, used in place of *artificial general intelligence*. Capability does not fix the theory's scope: a superintelligence with a designed and stable objective falls within the designed-incentive regime, and a narrow system with an emergent objective falls outside it.
+
 **Survival tier.** The portion of each basic-income allocation earmarked at the source for floor goods: a fixed percentage of the allocation, raised when necessary to a binding physical minimum set by the floor standard. Non-tradable and non-borrowable: an inalienable disagreement payoff.
 
 **Synthetic.** As used in the name of the theory, substrate-neutral: covering artificial systems, human beings, and the hybrids that arise when the two converge. The framework's term for the class of parties, chosen over *human–AI* and *symbiotic*.
+
+**Synthetic intelligence.** The dissertation's general term for the artificial side of the exchange: any system that was made rather than born and that performs work which, done by a person, would be called intelligent. Covers present language models, narrow systems, and the biological and hybrid substrates of Chapter 8. Preferred to *artificial intelligence*, which ties the class to one kind of substrate; *AI* is retained only where it names a literature or a practice.
 
 **Unique accountable principal.** The provisional criterion of eligibility for a seat in the blind convention proposed in Chapter 5: an entity identifiable as one bearer of the obligations the convention will create. Set before the veil, revisable by the convention.
 

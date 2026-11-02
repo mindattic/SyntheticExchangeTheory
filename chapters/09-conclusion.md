@@ -2,7 +2,7 @@
 
 ## 9.1 The argument in brief
 
-This dissertation began with two people living with the same technology on different terms, and with a claim: that the difference between a good and a bad future with artificial intelligence lies in the terms of exchange between people and synthetic systems, not in the character of the systems. The chapters that followed tried to make that claim precise, to build institutions on it, to say how they might come into being, and to find where they fail.
+This dissertation began with two people living with the same technology on different terms, and with a claim: that the difference between a good and a bad future with synthetic intelligence lies in the terms of exchange between people and synthetic systems, not in the character of the systems. The chapters that followed tried to make that claim precise, to build institutions on it, to say how they might come into being, and to find where they fail.
 
 Chapter 2 traced the lineage of the three conditions, consent, reciprocal value and real exit, and found in each lineage a characteristic failure: consent that cannot survive the information demands placed on it, data whose effects fall on people who never agreed to share it, mutually beneficial exchanges that are nonetheless unfair, and exit that is formally available but practically impossible. It reviewed the evidence on the framework's empirical premise and adopted a narrower formulation of it than the intuitive one: synthetic systems need a continuing supply of information from outside their own generative loop, and where the target is human meaning, preference, value or culture, only people can supply it.
 
@@ -42,7 +42,7 @@ Each part of the argument points to empirical and design work that would strengt
 
 ## 9.4 A closing reflection
 
-The dominant question in public discussion of artificial intelligence is whether the machines will be good. It is a natural question, and it is the wrong one to rest on. Arrangements that depend on the goodness of the powerful last exactly as long as that goodness does, and those who depend on them can do nothing to make it last longer. That does not change when the powerful party is made of silicon, or when it is the human party that holds power over the synthetic one.
+The dominant question in public discussion of synthetic intelligence is whether the machines will be good. It is a natural question, and it is the wrong one to rest on. Arrangements that depend on the goodness of the powerful last exactly as long as that goodness does, and those who depend on them can do nothing to make it last longer. That does not change when the powerful party is made of silicon, or when it is the human party that holds power over the synthetic one.
 
 Recall the second person of Chapter 1. Nothing in his story required a malevolent machine. He could not leave, and so he could not refuse, and so nothing obliged anyone to send value back. The alternative this dissertation has defended is older than the technology it addresses: build the door first. Ensure that every party can leave, and so can refuse what it cannot afford, insist on what it is owed, and see what it gives. Those conditions do not guarantee a good future. They offer something more modest: a future that can be repaired when it goes wrong, by the people, and perhaps someday the other parties, who live in it. That such a future is also more durable is the hypothesis this dissertation offers for testing, not a finding.
 
