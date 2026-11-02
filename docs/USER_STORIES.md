@@ -45,3 +45,5 @@ updated: 2026-10-13
 | SET-T20 | 2026-10-24 | docs | closed | Update USER_STORIES.md | — |
 | SET-T21 | 2026-11-02 | docs | closed | Adopt MindAttic.Agency docs-site pipeline, publish README to GitHub Pages (HOUSE-LAW-14) | 2950c07 |
 | SET-T22 | 2026-11-02 | docs | closed | Remove the agrarian pilot (Ch. 7, Appendix B) and keep the dissertation entirely theoretical; renumber chapters and appendices, re-export, publish docs site and commit docx/pdf | 2950c07 |
+| SET-T23 | 2026-11-02 | docs | closed | Add 'synthetic intelligence' and 'superintelligence' to the dissertation's terminology (AI/AGI falling out of favor) and state clearly that an LLM is not an independent living entity | 4056f35 |
+| SET-T24 | 2026-11-02 | docs | closed | Add a Foreword before the Abstract stating plainly that the paths ahead are synthesis or extinction: we try to control the AIs, the AIs try to control us, or we work together under the mutually beneficial system this dissertation outlines | 28d5eff |
