@@ -7,7 +7,7 @@
 
 ## Thesis in one paragraph
 
-The line between a good and a bad future with artificial intelligence is drawn by the **terms of exchange** between people and synthetic systems (consent, reciprocal value and real exit), not by the character of the systems. The three conditions are ordered, and exit is foundational: consent presupposes the ability to refuse without falling below a survival floor. Fair terms are self-enforcing only in proportion to how much each synthetic party depends on human input. The theory is implemented through a basic income paid in **compute**, split at source into an inalienable survival tier and a tradable discretionary tier subject to **demurrage**, and governed through a **blind constitutional convention** grounded in Ostrom's commons-governance principles. The theory is stated so that it can fail, but it is untested: designing the experiment is the first item of future work.
+The line between a good and a bad future with **synthetic intelligence** (the dissertation's term for anything made rather than born, from today's language models, which it treats as trained artifacts rather than independent living entities, to a possible superintelligence) is drawn by the **terms of exchange** between people and synthetic systems (consent, reciprocal value and real exit), not by the character of the systems. The foreword states the choice plainly: we try to control the systems, the systems control us, or we build a mutually beneficial synthesis; the first two are the same relation of domination with the roles exchanged. The three conditions are ordered, and exit is foundational: consent presupposes the ability to refuse without falling below a survival floor. Fair terms are self-enforcing only in proportion to how much each synthetic party depends on human input. The theory is implemented through a basic income paid in **compute**, split at source into an inalienable survival tier and a tradable discretionary tier subject to **demurrage**, and governed through a **blind constitutional convention** grounded in Ostrom's commons-governance principles. The theory is stated so that it can fail, but it is untested: designing the experiment is the first item of future work.
 
 ## Read it
 
@@ -18,7 +18,7 @@ The line between a good and a bad future with artificial intelligence is drawn b
 
 | File | Contents |
 |---|---|
-| `00-front-matter.md` | Abstract, authorship statement, abbreviations |
+| `00-front-matter.md` | Foreword, abstract, authorship statement, abbreviations |
 | `01-introduction.md` | 1. Introduction: The Terms of Exchange |
 | `02-literature.md` | 2. Literature and Grounding |
 | `03-formal-statement.md` | 3. A Formal Statement of Synthetic Exchange Theory |
