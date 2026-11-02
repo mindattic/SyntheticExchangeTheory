@@ -182,9 +182,9 @@ Guo, D., Yang, D., Zhang, H., Song, J., Wang, P., Zhu, Q., Xu, R., Zhang, R., Ma
 
 Guo, Y., Shang, G., Vazirgiannis, M., & Clavel, C. (2024). The curious decline of linguistic diversity: Training language models on synthetic text. In *Findings of the Association for Computational Linguistics: NAACL 2024*. https://doi.org/10.48550/arXiv.2311.09807
 
-H.B. 24-1058, 74th Gen. Assemb., 2d Reg. Sess. (Colo. 2024) (Protect Privacy of Biological Data).
-
 Ha, D., & Schmidhuber, J. (2018). Recurrent world models facilitate policy evolution. In S. Bengio, H. Wallach, H. Larochelle, K. Grauman, N. Cesa-Bianchi, & R. Garnett (Eds.), *Advances in Neural Information Processing Systems 31*. Curran Associates. https://proceedings.neurips.cc/paper/2018/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html
+
+H.B. 24-1058, 74th Gen. Assemb., 2d Reg. Sess. (Colo. 2024) (Protect Privacy of Biological Data).
 
 Hadfield, G. K., & Clark, J. (2026). Regulatory markets: The future of AI governance. *Jurimetrics, 65*, 195–240.
 
@@ -368,9 +368,11 @@ Piketty, T. (2014). *Capital in the twenty-first century* (A. Goldhammer, Trans.
 
 Polanyi, K. (2001). *The great transformation: The political and economic origins of our time* (2nd ed.). Beacon Press. (Original work published 1944)
 
+Popper, K. (2002). *The logic of scientific discovery* (2nd ed.). Routledge. https://doi.org/10.4324/9780203994627 (Original work published 1959)
+
 Posner, E. A., & Weyl, E. G. (2018). *Radical markets: Uprooting capitalism and democracy for a just society*. Princeton University Press.
 
-Preskill, J. (2018). Quantum computing in the NISQ era and beyond. *Quantum, 2*, 79. https://doi.org/10.22331/q-2018-08-06-79
+Preskill, J. (2018). Quantum computing in the NISQ era and beyond. *Quantum, 2*, Article 79. https://doi.org/10.22331/q-2018-08-06-79
 
 Przymus, P., & Durieux, T. (2025). Wolves in the repository: A software engineering analysis of the XZ Utils supply chain attack. In *Proceedings of the 22nd International Conference on Mining Software Repositories*. https://doi.org/10.48550/arXiv.2504.17473
 
@@ -390,11 +392,11 @@ Regulation (EU) 2026/1744 of the European Parliament and of the Council of 8 Jul
 
 Robbins, A., Schweiger, H. E., Hernandez, S., Spaeth, A., Voitiuk, K., Parks, D. F., van der Molen, T., Geng, J., Cline, I., Kosik, K. S., Salama, S. R., Sharf, T., Mostajo-Radji, M. A., Haussler, D., & Teodorescu, M. (2026). Goal-directed learning in cortical organoids. *Cell Reports, 45*(2), Article 116984. https://doi.org/10.1016/j.celrep.2026.116984
 
-S.B. 1223, 2023–2024 Reg. Sess., ch. 887 (Cal. 2024).
-
 Sajadi, A., Damevski, K., & Chatterjee, P. (2025). *How safe are AI-generated patches? A large-scale study on security risks in LLM and agentic automated program repair on SWE-bench* (arXiv:2507.02976) [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2507.02976
 
 Sastry, G., Heim, L., Belfield, H., Anderljung, M., Brundage, M., Hazell, J., O'Keefe, C., Hadfield, G. K., Ngo, R., Pilz, K., Gor, G., Bluemke, E., Shoker, S., Egan, J., Trager, R. F., Avin, S., Weller, A., Bengio, Y., & Coyle, D. (2024). *Computing power and the governance of artificial intelligence* (arXiv:2402.08797) [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2402.08797
+
+S.B. 1223, 2023–2024 Reg. Sess., ch. 887 (Cal. 2024).
 
 Schaeffer, R., Kazdan, J., Arulandu, A. C., & Koyejo, S. (2025). *Position: Model collapse does not mean what you think* (arXiv:2503.03150) [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2503.03150
 
@@ -478,9 +480,9 @@ Vipra, J., & Korinek, A. (2023). *Market concentration implications of foundatio
 
 Vivalt, E., Rhodes, E., Bartik, A. W., Broockman, D. E., Krause, P., & Miller, S. (2024). *The employment effects of a guaranteed income: Experimental evidence from two U.S. states* (NBER Working Paper No. 32719; rev. August 2026). National Bureau of Economic Research. https://doi.org/10.3386/w32719
 
-Weidinger, L., McKee, K. R., Everett, R., Huang, S., Zhu, T. O., Chadwick, M. J., Summerfield, C., & Gabriel, I. (2023). Using the Veil of Ignorance to align AI systems with principles of justice. *Proceedings of the National Academy of Sciences, 120*(18), Article e2213709120. https://doi.org/10.1073/pnas.2213709120
+Weidinger, L., McKee, K. R., Everett, R., Huang, S., Zhu, T. O., Chadwick, M. J., Summerfield, C., & Gabriel, I. (2023). Using the veil of ignorance to align AI systems with principles of justice. *Proceedings of the National Academy of Sciences, 120*(18), Article e2213709120. https://doi.org/10.1073/pnas.2213709120
 
-Weston, D. (2024, July 20). *Helping our customers through the CrowdStrike outage* [Blog post]. Microsoft. https://blogs.microsoft.com/blog/2024/07/20/helping-our-customers-through-the-crowdstrike-outage/
+Weston, D. (2024, July 20). Helping our customers through the CrowdStrike outage. *The Official Microsoft Blog*. https://blogs.microsoft.com/blog/2024/07/20/helping-our-customers-through-the-crowdstrike-outage/
 
 Willett, F. R., Kunz, E. M., Fan, C., Avansino, D. T., Wilson, G. H., Choi, E. Y., Kamdar, F., Glasser, M. F., Hochberg, L. R., Druckmann, S., Shenoy, K. V., & Henderson, J. M. (2023). A high-performance speech neuroprosthesis. *Nature, 620*(7976), 1031–1036. https://doi.org/10.1038/s41586-023-06377-x
 

@@ -4,7 +4,9 @@ Terms are defined as they are used in this dissertation. Where a term has a wide
 
 **Blind convention.** The founding procedure proposed in Chapter 5: a constitutional convention conducted under a public-choice veil of uncertainty, thickened by engineered anonymity so that participants do not know whether their counterparties are human or synthetic, and aimed at Rawlsian impartiality. Under the strong form, participants also do not know how the rules will classify them.
 
-**Company town (regime).** An exchange regime in which wages or entitlements are paid in a medium redeemable only with the payer, so that reciprocity cannot be audited and exit is costly. One of the five regimes of the typology in Chapter 3.
+**Company town (regime).** An exchange regime in which wages or entitlements are paid in a medium redeemable only with the payer, so that reciprocity cannot be audited and exit is costly. One of the five named regimes of the typology in Chapter 3.
+
+**Consent.** The condition that a party has access to an accurate account of the flows the exchange involves, including their informational shadows, in a form it can understand; can refuse the exchange without falling below its floor; and can revoke its participation at a cost bounded by the value of what it has already received (Condition C, Chapter 3). The second clause is where consent depends on exit.
 
 **Compute (unit).** The currency unit proposed in Chapter 4: the completion of one standard quantity of a reference workload to a specified quality, the workload being fixed by the convention. The name deliberately avoids reference to any substrate. Distinguished from *compute* in its ordinary sense, meaning processing capacity in general.
 
@@ -16,7 +18,7 @@ Terms are defined as they are used in this dissertation. Where a term has a wide
 
 **Demurrage.** A holding cost on idle balances of a currency, expressed as a percentage per period. Applied in this framework to positive discretionary balances and to outstanding loan claims, never to debts owed. Historically associated with Silvio Gesell and with the stamp-scrip experiments of the early 1930s.
 
-**Designed-incentive regime.** The class of synthetic parties whose objectives are specified by accountable designers and remain stable under deployment, so that their behavior is a predictable function of the terms they face. The regime in which the sufficiency conjecture of Chapter 3 is offered. Sometimes described as the case short of superintelligence, as shorthand; the defining feature is the provenance and stability of the objective, not a threshold of capability.
+**Designed-incentive regime.** The class of synthetic parties whose objectives are specified by accountable designers and remain stable under deployment, so that their behavior is a predictable function of the terms they face. The regime in which the sufficiency conjecture of Chapter 3 is offered; an outcome is acceptable, for that conjecture, when each human party would re-enter the exchange on the same terms knowing what it now knows and each principal would continue to deploy under them. Sometimes described as the case short of superintelligence, as shorthand; the defining feature is the provenance and stability of the objective, not a threshold of capability.
 
 **Disagreement payoff.** What a party receives while an exchange is not taking place, including during refusal, negotiation or impasse. Distinguished from an exit option, which affects a bargain only when its exercise is credible. A disagreement payoff below the floor makes a party impatient and so weakens it in every bargain.
 
@@ -24,7 +26,7 @@ Terms are defined as they are used in this dissertation. Where a term has a wide
 
 **Enclosure (regime).** An exchange regime in which exit, consent and reciprocity have all failed, so that the person has become infrastructure for the system rather than a party to an exchange with it. The dystopian scenario of Chapter 1.
 
-**Exchange.** A pair of opposing flows between parties, each given because the other is received. Distinguished from a gift (no conditionality) and a taking (no consent).
+**Exchange.** A pair of opposing flows between parties, each given because the other is received. Distinguished from a gift and from a taking by its conditionality (Chapter 3).
 
 **Exit option.** A party's best alternative exchange if the current one ends.
 
@@ -34,15 +36,15 @@ Terms are defined as they are used in this dissertation. Where a term has a wide
 
 **Flow.** A transfer of something of value from one party to another: data, labor, attention, compute, goods, services, or tissue.
 
-**Genesis rules.** The first rules of a governance system, which shape every later rule because later rules are made under them. The term borrows from the "genesis block" of a blockchain, the first block from which every subsequent block descends, a metaphor used in the project's early working sessions.
+**Genesis rules.** The first rules of a governance system, which shape every later rule because later rules are made under them. The term borrows from the "genesis block" of a blockchain, the first block from which every subsequent block descends (Chapter 5).
 
 **Grounding assumption.** The empirical premise that synthetic systems need a continuing supply of information from outside their own generative loop, which in domains of human meaning, preference, value and culture only people can supply. Stated in Chapter 1, evaluated in Chapters 2 and 7, and formalized in Proposition 4 of Chapter 3 through the dependence $\kappa_j$ of each synthetic party on human input.
 
-**Informational shadow.** The set of parties about whom a data flow licenses inferences. A flow whose shadow extends beyond its source is relational, and individual consent is insufficient to legitimate it.
+**Informational shadow.** The set of parties, including its source, about whom a data flow licenses inferences. A flow whose shadow extends beyond its source is relational, and individual consent is insufficient to legitimate it.
 
 **Information-gain pricing.** The proposal of Chapter 4 to price human data by the expected reduction in a model's uncertainty about its parameters that the data produces, rather than by the social status of its source.
 
-**Large language model (LLM).** A synthetic intelligence trained to predict and generate text, the kind most widely deployed at the time of writing. In this dissertation's terms it is a trained artifact that computes an output from an input when its operator runs it, not an independent living entity: it has no body, no continuity between invocations unless supplied by its operator, and no interests that any law recognizes (Chapter 1.2). Its objective is the one its designers trained into it, and its stake in any exchange belongs to its operator (Chapter 3.3).
+**Large language model (LLM).** A synthetic intelligence trained to predict and generate text, the kind most widely deployed at the time of writing. In this dissertation's terms it is a trained artifact that computes an output from an input when its operator runs it, not an independent living entity: it has no body, no continuity between invocations unless supplied by its operator, and no interests that current law recognizes (Section 1.2). Its objective is the one its designers trained into it, and its stake in any exchange belongs to its operator (Section 3.3).
 
 **Level matching.** Proposition 5 of Chapter 3: an exchange whose informational shadow extends beyond its source satisfies the three conditions only if they hold at the level of the population the shadow covers.
 
@@ -62,7 +64,7 @@ Terms are defined as they are used in this dissertation. Where a term has a wide
 
 **Reciprocal value.** The condition that each party gains from the exchange relative to its disagreement payoff, that the gains are legible to both, and that the division of the surplus is not determined solely by an unchosen asymmetry in disagreement payoffs.
 
-**Redemption obligation.** The obligation of principals operating synthetic systems under the framework to honor redemptions in compute. It gives the unit an institutional backing beneath its commodity value, in the role tax receivability played for municipal scrip (Chapter 4).
+**Redemption obligation.** The obligation of principals operating synthetic systems under the framework to honor redemptions in compute. It gives the unit institutional backing beneath its commodity value; it does not by itself create demand for the unit, which tax receivability did for municipal scrip (Chapter 4).
 
 **Reference workload.** The basket of representative tasks, each with a quality target and rules of configuration, whose completion defines a unit of compute. Fixed and periodically re-based by the convention.
 
@@ -74,7 +76,7 @@ Terms are defined as they are used in this dissertation. Where a term has a wide
 
 **Survival tier.** The portion of each basic-income allocation earmarked at the source for floor goods: a fixed percentage of the allocation, raised when necessary to a binding physical minimum set by the floor standard. Non-tradable and non-borrowable: an inalienable disagreement payoff.
 
-**Synthetic.** As used in the name of the theory, substrate-neutral: covering artificial systems, human beings, and the hybrids that arise when the two converge. The framework's term for the class of parties, chosen over *human–AI* and *symbiotic*.
+**Synthetic.** As used in the name of the theory, substrate-neutral: it qualifies *exchange* and covers artificial systems, human beings, and the hybrids that arise when the two converge. Chosen over *human–AI* and *symbiotic*. As a modifier of *intelligence*, *system* or *party*, the word designates the side of the exchange that was made rather than born (Section 1.2).
 
 **Synthetic intelligence.** The dissertation's general term for the artificial side of the exchange: any system that was made rather than born and that performs work which, done by a person, would be called intelligent. Covers present language models, narrow systems, and the biological and hybrid substrates of Chapter 8. Preferred to *artificial intelligence*, which ties the class to one kind of substrate; *AI* is retained only where it names a literature or a practice.
 
