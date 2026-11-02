@@ -150,9 +150,9 @@ Friedman, M. (2002). *Capitalism and freedom* (40th anniversary ed.). University
 
 Friedman, M., & Schwartz, A. J. (1963). *A monetary history of the United States, 1867–1960*. Princeton University Press.
 
-Frohlich, N., & Oppenheimer, J. A. (1992). *Choosing justice: An experimental approach to ethical theory*. University of California Press.
-
 Fritsch, R., Müller, M., & Wattenhofer, R. (2024). Analyzing voting power in decentralized governance: Who controls DAOs? *Blockchain: Research and Applications, 5*(3), Article 100208. https://doi.org/10.1016/j.bcra.2024.100208
+
+Frohlich, N., & Oppenheimer, J. A. (1992). *Choosing justice: An experimental approach to ethical theory*. University of California Press.
 
 Funke, M., Schularick, M., & Trebesch, C. (2016). Going to extremes: Politics after financial crises, 1870–2014. *European Economic Review, 88*, 227–260. https://doi.org/10.1016/j.euroecorev.2016.03.006
 
@@ -184,8 +184,6 @@ Guo, Y., Shang, G., Vazirgiannis, M., & Clavel, C. (2024). The curious decline o
 
 Ha, D., & Schmidhuber, J. (2018). Recurrent world models facilitate policy evolution. In S. Bengio, H. Wallach, H. Larochelle, K. Grauman, N. Cesa-Bianchi, & R. Garnett (Eds.), *Advances in Neural Information Processing Systems 31*. Curran Associates. https://proceedings.neurips.cc/paper/2018/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html
 
-H.B. 24-1058, 74th Gen. Assemb., 2d Reg. Sess. (Colo. 2024) (Protect Privacy of Biological Data).
-
 Hadfield, G. K., & Clark, J. (2026). Regulatory markets: The future of AI governance. *Jurimetrics, 65*, 195–240.
 
 Hadfield-Menell, D., Dragan, A., Abbeel, P., & Russell, S. (2017). The off-switch game. In *Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence* (pp. 220–227). https://doi.org/10.24963/ijcai.2017/32
@@ -207,6 +205,8 @@ Hartung, T., Smirnova, L., Morales Pantoja, I. E., Akwaboah, A., Alam El Din, D.
 Haushofer, J., & Shapiro, J. (2016). The short-term impact of unconditional cash transfers to the poor: Experimental evidence from Kenya. *The Quarterly Journal of Economics, 131*(4), 1973–2042. https://doi.org/10.1093/qje/qjw025
 
 Hayek, F. A. (1976). *Denationalisation of money: An analysis of the theory and practice of concurrent currencies* (Hobart Paper Special No. 70). Institute of Economic Affairs.
+
+H.B. 24-1058, 74th Gen. Assemb., 2d Reg. Sess. (Colo. 2024) (Protect Privacy of Biological Data).
 
 Hedden, B., & Raghavan, M. (2026). *Algorithmic monoculture and its critics* (arXiv:2604.06047) [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2604.06047
 

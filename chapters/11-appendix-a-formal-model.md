@@ -19,11 +19,23 @@ This appendix gives the minimal mathematics behind the propositions of Chapter 3
 | $r_h, r_s$ | Discount rates of the two parties in the alternating-offers model (A.3) |
 | $D_{BA}$ | Dependence of party $B$ on party $A$ (Emerson) |
 | $\kappa_j$ | Dependence of synthetic party $j$, through its principal, on a population's human-generated input |
+| $V$, $u_i$ | Joint value of agreement and party $i$'s bargained payoff (A.3) |
+| $\alpha$ | Bargaining weight of the human party in the asymmetric Nash solution (A.3) |
+| $\Delta$ | Value per period of the survival tier (A.3.1) |
+| $o_h$ | Value of the human party's outside option (A.3.4) |
+| $L$ | Lump sum received against a pledged tier (A.3.3) |
+| $p(t)$ | Price of a representative bundle of goods and services in compute units (A.2) |
 | $W_i(t)$ | Discretionary balance held by party $i$ |
+| $\rho$ | Rate at which a held balance grows or shrinks by being held (A.4) |
 | $\delta$ | Demurrage rate on idle discretionary balances and loan claims (per period) |
 | $r$ | Return on held balances in a conventional interest-bearing regime |
 | $y_i(t)$ | Discretionary inflow to $i$ (allocation plus earnings) |
 | $c_i(t)$ | Discretionary outflow from $i$ (spending, transfers) |
+| $k_i$ | Constant net inflow $y_i - c_i$ (A.4) |
+| $K_i$, $\pi$ | Productive capital held by $i$ and its rate of return (A.4.3) |
+| $v_B$, $\lambda_B$ | Party $B$'s motivational investment in goals mediated by $A$, and the availability of those goals outside the relation (A.5) |
+| $M$, $b$, $c$ | Number of synthetic parties drawing on one population; private benefit and total cost of a degrading action (A.5) |
+| $\Sigma_i$, $\Sigma_P$ | Informational shadow of a flow from source $i$, and the collective shadow of population $P$ (A.6) |
 
 ## A.2 Indexing, the real value of the allocation, and the binding floor
 
@@ -45,7 +57,7 @@ and nothing in the arithmetic guarantees this. Chapter 4 therefore makes the tie
 
 $$\sigma(t) = \min\left\{1,\ \max\left\{\sigma_0,\ \frac{\bar f(t)}{a(t)}\right\}\right\},$$
 
-where $\sigma_0$ is the ordinary survival share. When $\bar f(t) > a(t)$, the constraint binds at $\sigma = 1$, the allocation as a whole falls short of the floor, and the floor can be met only by raising $\theta$; that is a decision the convention must take, and it is why the floor standard $f$ becomes a contested parameter (Chapters 5 and 7). The design therefore guarantees the floor only up to what the agreed share of capacity can buy.
+where $\sigma_0$ is the ordinary survival share. Chapter 4 allows $p_f$, and therefore $\bar f$ and $\sigma$, to differ by place; the appendix writes the single-place case, and the formulas hold place by place. When $\bar f(t) > a(t)$, the constraint binds at $\sigma = 1$, the allocation as a whole falls short of the floor, and the floor can be met only by raising $\theta$; that is a decision the convention must take, and it is why the floor standard $f$ becomes a contested parameter (Chapters 5 and 7). The design therefore guarantees the floor only up to what the agreed share of capacity can buy.
 
 ## A.3 The survival tier as a disagreement payoff
 
@@ -57,7 +69,7 @@ The symmetric split is the limit of the alternating-offers model when the two pa
 
 $$u_h = d_h + \alpha\,(V - d_h - d_s), \qquad u_s = d_s + (1 - \alpha)\,(V - d_h - d_s), \qquad \alpha = \frac{r_s}{r_h + r_s},$$
 
-so that the more patient party takes the larger share of the surplus. The results of A.3.1 hold for any fixed $\alpha$, with $\alpha$ in place of one half; A.3.2 uses the dependence of $\alpha$ on impatience directly.
+so that the more patient party takes the larger share of the surplus. The results of A.3.1 generalize to any fixed $\alpha$: in the substitution case $u_h' = u_h^* + (1 - \alpha)\Delta + \alpha c_s$ and $u_s' = u_s^* - (1 - \alpha)(\Delta - c_s)$, so that the human party's gain lies between $(1-\alpha)\Delta$ and $\Delta$ and the provider's loss between $0$ and $(1-\alpha)\Delta$. A.3.2 uses the dependence of $\alpha$ on impatience directly.
 
 **A.3.1 What an unconditional floor does to the division of surplus.** Suppose the survival tier gives $h$ goods worth $\Delta$ per period, received whether or not agreement is reached. Two cases must be distinguished.
 
@@ -67,13 +79,13 @@ $$u_h^{*\prime} = \frac{(V + \Delta) + (d_h + \Delta) - d_s}{2} = u_h^* + \Delta
 
 The human party is better off by exactly the value of the tier and no more. The division of the surplus is unchanged.
 
-*The substitution case.* If the tier replaces something $h$ would otherwise have obtained from $s$ within the exchange, for example floor goods previously bought from the provider it is bargaining with, then $h$'s disagreement payoff rises by $\Delta$ while the joint value of agreement changes by the cost $c_s \in [0, \Delta]$ that $s$ no longer bears in supplying those goods: $d_h$ becomes $d_h + \Delta$ and $V$ becomes $V + c_s$. The surplus falls by $\Delta - c_s$, and
+*The substitution case.* If the tier replaces something $h$ would otherwise have obtained from $s$ within the exchange, for example floor goods previously bought from the provider it is bargaining with, then $h$'s disagreement payoff rises by $\Delta$ while the joint value of agreement changes by the cost $c_s$ that $s$ no longer bears in supplying those goods: $d_h$ becomes $d_h + \Delta$ and $V$ becomes $V + c_s$. Assume $c_s \in [0, \Delta]$, that is, that the provider did not supply the goods below cost. The surplus then falls by $\Delta - c_s$, and
 
 $$u_h^{*\prime} = u_h^* + \frac{\Delta + c_s}{2}, \qquad u_s^{*\prime} = u_s^* - \frac{\Delta - c_s}{2}.$$
 
-The human party's net gain from a tier worth $\Delta$ therefore lies between $\Delta/2$, when the provider supplied the floor goods at no cost to itself and the tier only duplicates them under agreement, and $\Delta$, when the provider's cost equaled their value, which is the additive case again. In every case the provider's payoff falls by at most $\Delta/2$ and the human party's rises by at least $\Delta/2$. The substitution case is not a benefit beyond the tier. It is the case in which part of the tier's value is absorbed by the shrinkage of a joint surplus the exchange no longer needs to create, and the fall in $s$'s payoff is the bargaining counterpart of the fall in $h$'s dependence on $s$ that occurs when an alternative source of a valued good appears (A.5).
+The human party's net gain from a tier worth $\Delta$ therefore lies between $\Delta/2$, when the provider supplied the floor goods at no cost to itself and the tier only duplicates them under agreement, and $\Delta$, when the provider's cost equaled their value, which is the additive case again. Under the assumption, the provider's payoff falls by at most $\Delta/2$ and the human party's rises by at least $\Delta/2$. If instead $c_s > \Delta$, because the provider supplied floor goods below cost in order to create dependence, as a company store might, then the surplus grows by $c_s - \Delta$, the human party gains more than $\Delta$, and the provider's payoff rises as well: relieving such a provider of a loss-making obligation benefits it, and the dependence it bought is what it loses. The substitution case is not a benefit beyond the tier. It is the case in which part of the tier's value is absorbed by the shrinkage of a joint surplus the exchange no longer needs to create, and the fall in $s$'s payoff is the bargaining counterpart of the fall in $h$'s dependence on $s$ that occurs when an alternative source of a valued good appears (A.5).
 
-The working draft of this dissertation claimed that an unconditional floor raises the human party's payoff by an additional $\Delta/2$ in every exchange it enters. That claim was wrong in two ways: it ignored the additive case, in which there is no such effect, and it counted one floor as a separate gain in every bilateral bargain. The floor's most important bargaining effect is the one in A.3.2.
+The working draft of this dissertation claimed that an unconditional floor raises the human party's payoff by an additional $\Delta/2$ in every exchange it enters. That claim was wrong in three ways: it ignored the additive case, in which there is no such effect; it counted one floor as a separate gain in every bilateral bargain; and it treated the substitution-case shift as a gain beyond the tier, which A.3.1 shows it is not. The floor's most important bargaining effect is the one in A.3.2.
 
 **A.3.2 The impatience constraint.** Model the survival constraint of Chapter 3 as a stated assumption: when $d_h < \bar f$, the human party cannot sustain disagreement for longer than its stocks allow, which in the alternating-offers model is a discount rate $r_h$ that rises without bound as the stocks run out. In the asymmetric solution above, $r_h \to \infty$ gives $\alpha \to 0$ and $u_h \to d_h$: the party below its floor receives its disagreement payoff and none of the surplus. Raising $d_h$ to at least $\bar f$ restores a finite $r_h$, and with it a positive share. Unlike the effect in A.3.1, this does not depend on whether the floor substitutes for anything the counterparty supplies, and the comparison between $d_h$ and $\bar f$ is per period. This constraint is the bargaining-theoretic reason for clause E(i) of Chapter 3, and so for the first design consequence of Section 3.6; Proposition 1 records the definitional link between that clause and consent.
 
@@ -115,15 +127,15 @@ The third property is the exact form of the limitation acknowledged in Chapter 4
 
 ## A.5 The power-dependence relation and divided dependence
 
-Following Emerson (1962), write the dependence of party $B$ on party $A$ as an increasing function of $B$'s motivational investment $v_B$ in goals mediated by $A$ and a decreasing function of the availability $\alpha_B$ of those goals outside the relation:
+Following Emerson (1962), write the dependence of party $B$ on party $A$ as an increasing function of $B$'s motivational investment $v_B$ in goals mediated by $A$ and a decreasing function of the availability $\lambda_B$ of those goals outside the relation:
 
-$$D_{BA} = g(v_B, \alpha_B), \qquad \frac{\partial g}{\partial v_B} > 0, \quad \frac{\partial g}{\partial \alpha_B} < 0.$$
+$$D_{BA} = g(v_B, \lambda_B), \qquad \frac{\partial g}{\partial v_B} > 0, \quad \frac{\partial g}{\partial \lambda_B} < 0.$$
 
 Power is $P_{AB} = D_{BA}$. The relation's imbalance is $P_{AB} - P_{BA} = D_{BA} - D_{AB}$.
 
-In the human–synthetic exchange, let $A = s$ and $B = h$. The human party's dependence on synthetic services rises with the importance of those services ($v_h$) and falls with the availability of alternatives ($\alpha_h$), which the framework raises through the floor, portability and competition. The synthetic party's dependence on human data, $D_{sh}$, which Chapter 3 writes $\kappa_j$ for synthetic party $j$, rises with the marginal value of fresh human data to its principal's objective ($v_s$) and falls with the availability of substitutes ($\alpha_s$), including synthetic data, data from environments, and data from populations outside the exchange.
+In the human–synthetic exchange, let $A = s$ and $B = h$. The human party's dependence on synthetic services rises with the importance of those services ($v_h$) and falls with the availability of alternatives ($\lambda_h$), which the framework raises through the floor, portability and competition. The synthetic party's dependence on human data, $D_{sh}$, which Chapter 3 writes $\kappa_j$ for synthetic party $j$, rises with the marginal value of fresh human data to its principal's objective ($v_s$) and falls with the availability of substitutes ($\lambda_s$), including synthetic data, data from environments, and data from populations outside the exchange.
 
-Proposition 4 of Chapter 3 states that the framework's self-enforcing component rises with $\kappa_j$; no particular functional form is claimed. The research on recursive training reviewed in Chapter 2 is, in these terms, evidence about $\alpha_s$: if synthetic data substitutes poorly for human data, $\alpha_s$ is low and $\kappa_j$ is high; if a small continuing supply of real data suffices, $\alpha_s$ is high for all but a small residual, and $\kappa_j$ is low.
+Proposition 4 of Chapter 3 states that the framework's self-enforcing component rises with $\kappa_j$, subject to the premise, stated there, that the quality of the input depends on the terms its source receives; no particular functional form is claimed. The research on recursive training reviewed in Chapter 2 is, in these terms, evidence about $\lambda_s$: if synthetic data substitutes poorly for human data, $\lambda_s$ is low and $\kappa_j$ is high; if a small continuing supply of real data suffices, $\lambda_s$ is high for all but a small residual, and $\kappa_j$ is low.
 
 The second half of Proposition 4 can be illustrated with the simplest model of a commons. Suppose $M$ synthetic parties draw equally on the same population, and that one of them can take an action, such as extracting data in a way that degrades the population's willingness or ability to contribute, which yields it a private benefit $b$ and reduces the value of the population's future input to all $M$ parties by a total of $c$. The acting party bears only its share, $c/M$, of that cost. The action is privately worthwhile whenever $b > c/M$, even when it is collectively destructive, $c > b$. As $M$ grows, the range of destructive actions that are individually rational widens, however large the aggregate dependence of the synthetic parties on the population may be. This is Hardin's (1968) logic applied to the synthetic side of the exchange, and it is the formal reason that material dependence is not sufficient for self-enforcement and that the governance layer is needed even when the grounding assumption holds.
 

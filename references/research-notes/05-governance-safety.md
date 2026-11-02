@@ -513,3 +513,9 @@ All DOIs listed were resolved against the Crossref API (api.crossref.org/works/{
 - Drexler (2019) is a double-edged ally. Bounded services ease safety but make "the AI party" hard to define.
 
 **Net position for a careful dissertation.** The blind convention is defensible as a *legitimacy-generating procedure* under uncertainty about moral status and future position. It is not a guarantee of fairness, of a particular distributive outcome, or of security against adversarial participants. Its main contribution is to put the human/AI status question behind the veil, which Weidinger et al.'s Study 4 suggests changes behaviour. Its main debts are identity (Douceur) and convener power (Elster). These should be stated as preconditions, not left as footnoted limitations.
+
+### CharterUN1945
+- Charter of the United Nations, June 26, 1945, 59 Stat. 1031, T.S. No. 993.
+- Verification: official text read at un.org (Chapter V, arts. 23–25 and 27; Chapter XVIII, art. 108), October–November 2026.
+- What it establishes: art. 23 names the five permanent members; art. 24 confers primary responsibility for international peace and security on the Security Council; art. 27 requires the concurring votes of the permanent members for non-procedural decisions; art. 108 provides that amendments come into force only when adopted by two thirds of the General Assembly and ratified by two thirds of the Members including all the permanent members of the Security Council.
+- Use in dissertation: Ch. 5.1, the veto as a genesis rule and art. 108 as the reason it is self-protecting. The causal reading (endurance because of the amendment rule) is marked as the dissertation's.

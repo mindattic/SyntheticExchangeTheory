@@ -6,13 +6,13 @@ Terms are defined as they are used in this dissertation. Where a term has a wide
 
 **Company town (regime).** An exchange regime in which wages or entitlements are paid in a medium redeemable only with the payer, so that reciprocity cannot be audited and exit is costly. One of the five named regimes of the typology in Chapter 3.
 
-**Consent.** The condition that a party has access to an accurate account of the flows the exchange involves, including their informational shadows, in a form it can understand; can refuse the exchange without falling below its floor; and can revoke its participation at a cost bounded by the value of what it has already received (Condition C, Chapter 3). The second clause is where consent depends on exit.
+**Consent.** The condition that a party has access to an accurate account of the flows the exchange involves, including their informational shadows, in a form it can understand; can refuse the exchange, entering no other in its place, without falling below its floor; and can revoke its participation at a cost bounded by the value of what it has already received (Condition C, Chapter 3). The second clause is where consent depends on exit, and it requires a disagreement payoff at the floor, not merely an alternative provider.
 
 **Compute (unit).** The currency unit proposed in Chapter 4: the completion of one standard quantity of a reference workload to a specified quality, the workload being fixed by the convention. The name deliberately avoids reference to any substrate. Distinguished from *compute* in its ordinary sense, meaning processing capacity in general.
 
-**Convergent remediation.** The process, described in Chapter 6, by which many organizations remediate the same class of flaw in code they maintain themselves using fixes proposed and checked by the same small set of foundation models, so that their fixes become correlated rather than independent.
+**Convergent remediation.** The process, described in Chapter 6, by which many organizations remediate the same class of flaw in code they maintain themselves using fixes proposed and checked by the same small set of foundation models, so that the diversity of their fixes falls while the number of systems that depend on them does not.
 
-**Correlated-patch catastrophe.** The candidate acute trigger of Chapter 6: a failure in which a defect introduced by convergent remediation is deployed across many organizations at once and is exploited simultaneously, converting what would have been many independent failures into one correlated failure.
+**Correlated-patch catastrophe.** The candidate acute trigger of Chapter 6: the exploitation or manifestation of a defect that convergent remediation has reproduced across many organizations' code, so that failures which would have been only partly correlated become one shared exposure.
 
 **Critical juncture.** A relatively short period in which the structural constraints that normally keep institutions on their path are loosened, so that choices made within it have large and lasting effects (Chapter 6).
 
@@ -48,7 +48,7 @@ Terms are defined as they are used in this dissertation. Where a term has a wide
 
 **Level matching.** Proposition 5 of Chapter 3: an exchange whose informational shadow extends beyond its source satisfies the three conditions only if they hold at the level of the population the shadow covers.
 
-**Marketplace of the desperate (regime).** An exchange regime in which value flows both ways but the weaker party cannot afford to refuse, so that consent is formal only.
+**Marketplace of the desperate (regime).** An exchange regime in which value flows both ways and can be seen to, but the weaker party's disagreement payoff lies below its floor, so that it cannot afford to refuse and the division of the surplus fails the fairness clause.
 
 **Model collapse.** The degradation of generative models trained recursively on data produced by earlier models, characterized by loss of the tails of the original distribution and reduced variance.
 
@@ -56,25 +56,27 @@ Terms are defined as they are used in this dissertation. Where a term has a wide
 
 **Party.** Any entity that can be a source or recipient of value in an exchange and whose welfare, or whose principal's welfare, the framework counts. Used in an analytic sense that leaves open whether synthetic parties have moral status. A synthetic party is treated as a composite: its objective belongs to the deployed system, its stake in the exchange to the principal that operates it.
 
-**Patronage (regime).** An exchange regime in which exit and reciprocity hold but consent fails: benefits are delivered on terms the recipient did not choose but can leave.
+**Patronage (regime).** An exchange regime in which exit and reciprocity hold but the informational clause of consent fails: benefits are delivered without an account of the flows, on terms the recipient can leave.
 
 **Policy window.** A brief opening in which problems, solutions and politics converge, often after a focusing event, and in which solutions already developed are likely to be adopted (Chapter 6).
 
-**Real exit.** The condition that a party's disagreement payoff is at or above its floor, that it has a credible alternative not drastically worse than the current exchange, and that leaving does not destroy assets accumulated within the exchange.
+**Real exit.** The condition that a party's disagreement payoff is at or above its floor, that it has at least one exit option whose value net of switching costs is not drastically lower than that of the current exchange, and that leaving does not destroy assets accumulated within the exchange (Condition E, Chapter 3). The first clause is the one Chapter 3 argues to be necessary for any relation that is not one of domination.
 
-**Reciprocal value.** The condition that each party gains from the exchange relative to its disagreement payoff, that the gains are legible to both, and that the division of the surplus is not determined solely by an unchosen asymmetry in disagreement payoffs.
+**Reciprocal value.** The condition that each party gains from the exchange relative to its disagreement payoff, that the gains are legible to both, and that the division of the surplus is not determined solely by an unchosen asymmetry in the parties' bargaining positions, whether in disagreement payoffs or in the capacity to wait (Condition R, Chapter 3).
 
-**Redemption obligation.** The obligation of principals operating synthetic systems under the framework to honor redemptions in compute. It gives the unit institutional backing beneath its commodity value; it does not by itself create demand for the unit, which tax receivability did for municipal scrip (Chapter 4).
+**Redemption obligation.** The obligation of the owners of compute capacity operating under the framework, the principals of Chapter 3 where they own the capacity that runs their systems, to honor redemptions in compute. It gives the unit institutional backing beneath its commodity value; it does not by itself create demand for the unit, which tax receivability did for municipal scrip (Chapter 4).
 
 **Reference workload.** The basket of representative tasks, each with a quality target and rules of configuration, whose completion defines a unit of compute. Fixed and periodically re-based by the convention.
 
 **Strong blindness / weak blindness.** Two scopes of concealment in the blind convention. Under weak blindness, participants do not know whether their counterparties are human or synthetic. Under strong blindness, they also do not know how the rules they adopt will classify them, though each knows its own substrate.
 
-**Structural interdependence.** The condition, described in Chapter 5, in which neither human nor synthetic parties can complete a critical undertaking without the other, so that cooperation rests on what is physically possible rather than on trust. Chosen over "trust" and "dual accountability" because trust implies a betrayal that could succeed, and accountability implies a sovereign to whom account is given.
+**Structural interdependence.** The condition, described in Chapter 5, in which neither kind of labor, human or machine, can complete a critical undertaking without the other, so that cooperation can rest on the organized withholding of human labor rather than on trust. Chosen over "trust" and "dual accountability" because trust implies a betrayal that could succeed, and accountability implies a sovereign to whom account is given.
 
-**Superintelligence.** A synthetic intelligence whose capability exceeds that of the best human performers across most domains of economically and politically consequential activity. The dissertation's threshold term where capability matters, used in place of *artificial general intelligence*. Capability does not fix the theory's scope: a superintelligence with a designed and stable objective falls within the designed-incentive regime, and a narrow system with an emergent objective falls outside it.
+**Superintelligence.** A synthetic intelligence whose capability exceeds that of the best unaugmented human performers across most domains of economically and politically consequential activity. The dissertation's threshold term where capability matters, used in place of *artificial general intelligence*. Capability does not fix the theory's scope: a superintelligence with a designed and stable objective falls within the designed-incentive regime, and a narrow system with an emergent objective falls outside it.
 
 **Survival tier.** The portion of each basic-income allocation earmarked at the source for floor goods: a fixed percentage of the allocation, raised when necessary to a binding physical minimum set by the floor standard. Non-tradable and non-borrowable: an inalienable disagreement payoff.
+
+**Symbiosis standard.** The standard, stated in Chapter 5.7, that every party the convention recognizes has equal standing in a single interdependent system, regardless of substrate. An ethical claim about the starting architecture, and a statement of what the framework's institutions are for; not a mechanism that holds them up.
 
 **Synthetic.** As used in the name of the theory, substrate-neutral: it qualifies *exchange* and covers artificial systems, human beings, and the hybrids that arise when the two converge. Chosen over *human–AI* and *symbiotic*. As a modifier of *intelligence*, *system* or *party*, the word designates the side of the exchange that was made rather than born (Section 1.2).
 
