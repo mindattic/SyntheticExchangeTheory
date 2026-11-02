@@ -6,20 +6,20 @@ This appendix gives the minimal mathematics behind the propositions of Chapter 3
 
 | Symbol | Meaning |
 |---|---|
-| $N(t)$ | Number of enrolled parties at time $t$ |
-| $C(t)$ | Total measured global compute in period $t$, in standard compute units |
+| $N(t)$ | Number of enrolled persons at time $t$ |
+| $C(t)$ | Total measured compute operating under the framework in period $t$, in standard compute units (global compute where the whole of it does) |
 | $\theta$ | Share of global compute allocated to the basic income (set by the convention, Chapter 5) |
-| $\sigma(t)$ | Survival-tier share of each allocation, $0 < \sigma(t) \le 1$, time-varying under the binding minimum of A.2 |
-| $a(t)$ | Per-person allocation, $a(t) = \theta C(t) / N(t)$ |
-| $f$ | Physical floor: the bundle of floor goods a party requires per period |
-| $p_f(t)$ | Price of the floor bundle in compute units |
+| $\sigma(t)$, $\sigma_0$ | Survival-tier share of each allocation, $0 < \sigma(t) \le 1$, time-varying under the binding minimum of A.2, and its ordinary value |
+| $a(t)$, $\bar a$ | Per-person allocation, $a(t) = \theta C(t) / N(t)$, and a fixed nominal holding (A.2) |
+| $f$ | Physical floor: the quantity of the standard floor bundle a party requires per period |
+| $p_f(t)$ | Price per unit of the floor bundle in compute units |
 | $\bar f$ | Value of the floor bundle, $\bar f = p_f f$, in compute units |
-| $d_i$ | Disagreement payoff of party $i$ (per period, or the present value of a flow over the life of the exchange; $V$ and $u_i$ below are measured in the same way) |
+| $d_i$ | Disagreement payoff of party $i$, a flow per period; $V$ and $u_i$ below are measured in the same way, and the comparison with $\bar f$ in A.3.2 is per period |
 | $c_s$ | Cost to the synthetic party of supplying floor goods within an exchange (A.3.1) |
 | $r_h, r_s$ | Discount rates of the two parties in the alternating-offers model (A.3) |
-| $D_{BA}$ | Dependence of party $B$ on party $A$ (Emerson) |
+| $D_{BA}$, $P_{AB}$, $g$ | Dependence of party $B$ on party $A$, the power of $A$ over $B$, and the function relating dependence to its arguments (Emerson, A.5) |
 | $\kappa_j$ | Dependence of synthetic party $j$, through its principal, on a population's human-generated input |
-| $V$, $u_i$ | Joint value of agreement and party $i$'s bargained payoff (A.3) |
+| $V$, $u_i$ | Joint value of agreement and party $i$'s bargained payoff (A.3); $u_i^*$ is the payoff before the survival tier and $u_i^{*\prime}$ after it |
 | $\alpha$ | Bargaining weight of the human party in the asymmetric Nash solution (A.3) |
 | $\Delta$ | Value per period of the survival tier (A.3.1) |
 | $o_h$ | Value of the human party's outside option (A.3.4) |
@@ -28,13 +28,13 @@ This appendix gives the minimal mathematics behind the propositions of Chapter 3
 | $W_i(t)$ | Discretionary balance held by party $i$ |
 | $\rho$ | Rate at which a held balance grows or shrinks by being held (A.4) |
 | $\delta$ | Demurrage rate on idle discretionary balances and loan claims (per period) |
-| $r$ | Return on held balances in a conventional interest-bearing regime |
+| $r$ | Return on held balances in a conventional interest-bearing regime, or the interest rate on a loan claim (A.4.3) |
 | $y_i(t)$ | Discretionary inflow to $i$ (allocation plus earnings) |
 | $c_i(t)$ | Discretionary outflow from $i$ (spending, transfers) |
 | $k_i$ | Constant net inflow $y_i - c_i$ (A.4) |
 | $K_i$, $\pi$ | Productive capital held by $i$ and its rate of return (A.4.3) |
 | $v_B$, $\lambda_B$ | Party $B$'s motivational investment in goals mediated by $A$, and the availability of those goals outside the relation (A.5) |
-| $M$, $b$, $c$ | Number of synthetic parties drawing on one population; private benefit and total cost of a degrading action (A.5) |
+| $M$, $b$, $\gamma$ | Number of synthetic parties drawing on one population; private benefit and total cost of a degrading action (A.5) |
 | $\Sigma_i$, $\Sigma_P$ | Informational shadow of a flow from source $i$, and the collective shadow of population $P$ (A.6) |
 
 ## A.2 Indexing, the real value of the allocation, and the binding floor
@@ -51,7 +51,7 @@ which, holding $\theta$ fixed, is the per-capita share $\theta / N$ of the real 
 
 A percentage does not by itself secure the physical floor. The survival tier delivers the floor only if
 
-$$\sigma\, a(t) \ \ge\ \bar f(t) \quad\Longleftrightarrow\quad \sigma\,\frac{\theta\, C(t)}{N(t)} \ \ge\ p_f(t)\, f,$$
+$$\sigma\, a(t) \ \ge\ \bar f(t) \quad\Leftrightarrow\quad \sigma\,\frac{\theta\, C(t)}{N(t)} \ \ge\ p_f(t)\, f,$$
 
 and nothing in the arithmetic guarantees this. Chapter 4 therefore makes the tier a percentage with a binding minimum:
 
@@ -69,7 +69,7 @@ The symmetric split is the limit of the alternating-offers model when the two pa
 
 $$u_h = d_h + \alpha\,(V - d_h - d_s), \qquad u_s = d_s + (1 - \alpha)\,(V - d_h - d_s), \qquad \alpha = \frac{r_s}{r_h + r_s},$$
 
-so that the more patient party takes the larger share of the surplus. The results of A.3.1 generalize to any fixed $\alpha$: in the substitution case $u_h' = u_h^* + (1 - \alpha)\Delta + \alpha c_s$ and $u_s' = u_s^* - (1 - \alpha)(\Delta - c_s)$, so that the human party's gain lies between $(1-\alpha)\Delta$ and $\Delta$ and the provider's loss between $0$ and $(1-\alpha)\Delta$. A.3.2 uses the dependence of $\alpha$ on impatience directly.
+so that the more patient party takes the larger share of the surplus. The results of A.3.1 generalize to any fixed $\alpha$: in the substitution case $u_h^{*\prime} = u_h^* + (1 - \alpha)\Delta + \alpha c_s$ and $u_s^{*\prime} = u_s^* - (1 - \alpha)(\Delta - c_s)$, so that the human party's gain lies between $(1-\alpha)\Delta$ and $\Delta$ and the provider's loss between $0$ and $(1-\alpha)\Delta$. A.3.2 uses the dependence of $\alpha$ on impatience directly.
 
 **A.3.1 What an unconditional floor does to the division of surplus.** Suppose the survival tier gives $h$ goods worth $\Delta$ per period, received whether or not agreement is reached. Two cases must be distinguished.
 
@@ -79,11 +79,11 @@ $$u_h^{*\prime} = \frac{(V + \Delta) + (d_h + \Delta) - d_s}{2} = u_h^* + \Delta
 
 The human party is better off by exactly the value of the tier and no more. The division of the surplus is unchanged.
 
-*The substitution case.* If the tier replaces something $h$ would otherwise have obtained from $s$ within the exchange, for example floor goods previously bought from the provider it is bargaining with, then $h$'s disagreement payoff rises by $\Delta$ while the joint value of agreement changes by the cost $c_s$ that $s$ no longer bears in supplying those goods: $d_h$ becomes $d_h + \Delta$ and $V$ becomes $V + c_s$. Assume $c_s \in [0, \Delta]$, that is, that the provider did not supply the goods below cost. The surplus then falls by $\Delta - c_s$, and
+*The substitution case.* If the tier replaces something $h$ would otherwise have obtained from $s$ within the exchange, for example floor goods previously bought from the provider it is bargaining with, then $h$'s disagreement payoff rises by $\Delta$ while the joint value of agreement changes by the cost $c_s$ that $s$ no longer bears in supplying those goods: $d_h$ becomes $d_h + \Delta$ and $V$ becomes $V + c_s$. Assume $c_s \in [0, \Delta]$, that is, that the provider's cost of supplying the goods did not exceed their value to the person, and assume that the surplus remains positive, $V + c_s > d_h + \Delta + d_s$; otherwise the exchange is no longer worth entering and ends, which is itself the removal of a dependence. The surplus then falls by $\Delta - c_s$, and
 
 $$u_h^{*\prime} = u_h^* + \frac{\Delta + c_s}{2}, \qquad u_s^{*\prime} = u_s^* - \frac{\Delta - c_s}{2}.$$
 
-The human party's net gain from a tier worth $\Delta$ therefore lies between $\Delta/2$, when the provider supplied the floor goods at no cost to itself and the tier only duplicates them under agreement, and $\Delta$, when the provider's cost equaled their value, which is the additive case again. Under the assumption, the provider's payoff falls by at most $\Delta/2$ and the human party's rises by at least $\Delta/2$. If instead $c_s > \Delta$, because the provider supplied floor goods below cost in order to create dependence, as a company store might, then the surplus grows by $c_s - \Delta$, the human party gains more than $\Delta$, and the provider's payoff rises as well: relieving such a provider of a loss-making obligation benefits it, and the dependence it bought is what it loses. The substitution case is not a benefit beyond the tier. It is the case in which part of the tier's value is absorbed by the shrinkage of a joint surplus the exchange no longer needs to create, and the fall in $s$'s payoff is the bargaining counterpart of the fall in $h$'s dependence on $s$ that occurs when an alternative source of a valued good appears (A.5).
+The human party's net gain from a tier worth $\Delta$ therefore lies between $\Delta/2$, when the provider supplied the floor goods at no cost to itself and the tier only duplicates them under agreement, and $\Delta$, when the provider's cost equaled their value, which is the additive case again. Under the assumption, the provider's payoff falls by at most $\Delta/2$ and the human party's rises by at least $\Delta/2$. If instead $c_s > \Delta$, because the provider's cost of supplying floor goods exceeded their value to the person, as it may where a provider supplies them in order to create dependence, then the surplus grows by $c_s - \Delta$, the human party gains more than $\Delta$, and the provider's payoff rises as well: relieving such a provider of a loss-making obligation benefits it, and the dependence it bought is what it loses. The substitution case is not a benefit beyond the tier. It is the case in which part of the tier's value is absorbed by the shrinkage of a joint surplus the exchange no longer needs to create, and the fall in $s$'s payoff is the bargaining counterpart of the fall in $h$'s dependence on $s$ that occurs when an alternative source of a valued good appears (A.5).
 
 The working draft of this dissertation claimed that an unconditional floor raises the human party's payoff by an additional $\Delta/2$ in every exchange it enters. That claim was wrong in three ways: it ignored the additive case, in which there is no such effect; it counted one floor as a separate gain in every bilateral bargain; and it treated the substitution-case shift as a gain beyond the tier, which A.3.1 shows it is not. The floor's most important bargaining effect is the one in A.3.2.
 
@@ -99,7 +99,7 @@ Let party $i$'s discretionary balance evolve in continuous time as
 
 $$\frac{dW_i}{dt} = y_i - c_i + \rho\, W_i,$$
 
-where $\rho$ is the rate at which the balance grows or shrinks merely by being held. The analysis below concerns positive balances. Under the rules of Chapter 4, demurrage applies to positive balances and to outstanding loan claims held by lenders. For a loan claim, the holding cost is a periodic charge of $\delta$ on the claim's face value, paid by the lender; the borrower's obligation is unchanged, so that debts are not reduced by demurrage, which is why the lender's net return in A.4.3 is $r - \delta$.
+where $\rho$ is the rate at which the balance grows or shrinks merely by being held. The analysis below concerns positive balances. Under the rules of Chapter 4, demurrage applies to positive balances and to outstanding loan claims held by lenders. For a loan claim, the holding cost is a periodic charge of $\delta$ on the claim's face value, paid by the lender out of the interest it receives or its own balance; the borrower's obligation is unchanged, so that debts are not reduced by demurrage, which is why the lender's net return in A.4.3 is $r - \delta$.
 
 **A.4.1 Interest-bearing regime ($\rho = r > 0$).** If $y_i - c_i = k_i > 0$ is constant, then
 
@@ -123,7 +123,7 @@ Three properties of this result carry the argument of Chapter 4.
 
 The third property is the exact form of the limitation acknowledged in Chapter 4: a person whose output is in persistent high demand sustains a large balance, because $k_i$ is large. What demurrage removes is the pathway by which a large balance, once acquired, generates further balances independently of current inflow.
 
-**A.4.3 Converting balances to productive capital or to credit.** The analysis above treats $W_i$ as an idle balance. A party can escape demurrage by converting balances into productive assets, for instance by purchasing compute-generating capacity, whose returns then enter $y_i$. Let $K_i$ denote such capital with return $\pi$. Then $y_i$ includes $\pi K_i$, and if $K_i$ is not itself subject to a holding cost, the compounding channel reopens through capital rather than money. Lending is a second route: a loan that pays interest $r$ and is exempt from demurrage simply reproduces the regime of A.4.1. Chapter 4 therefore applies the holding cost to loan claims as well as to balances, so that the lender's net return is $r - \delta$. That does not close the credit channel: whenever $r > \delta$ the lender is in the positive-return regime of A.4.1 and accumulation through lending is again unbounded, so demurrage on claims lowers the rate of compounding through credit without removing it. This is the formal statement of the capital channel of concentration (Section 4.8). Demurrage on money alone cannot close it. Closing it requires a holding cost on compute capacity itself, a cap on individually held capacity, or collective ownership of capacity above some scale. Chapter 4 discusses the trade-offs; the formal model shows only that one of them is needed.
+**A.4.3 Converting balances to productive capital or to credit.** The analysis above treats $W_i$ as an idle balance. A party can escape demurrage by converting balances into productive assets, for instance by purchasing compute-generating capacity, whose returns then enter $y_i$. Let $K_i$ denote such capital with return $\pi$. Then $y_i$ includes $\pi K_i$, and if $K_i$ is not itself subject to a holding cost and its returns are reinvested in capacity, $dK_i/dt = \pi K_i$, so that $K_i$ grows exponentially at rate $\pi$: the regime of A.4.1 with $r$ replaced by $\pi$. The compounding channel reopens through capital rather than money. Lending is a second route: a loan that pays interest $r$ and is exempt from demurrage simply reproduces the regime of A.4.1. Chapter 4 therefore applies the holding cost to loan claims as well as to balances, so that the lender's net return is $r - \delta$. That does not close the credit channel: whenever $r > \delta$ the lender is in the positive-return regime of A.4.1 and accumulation through lending is again unbounded, and at $r = \delta$ the claim neither decays nor compounds, so that a constant net flow of new lending raises it without limit, linearly rather than exponentially. Accumulation through credit is bounded only if $r < \delta$, and demurrage on claims otherwise lowers the rate of compounding through credit without removing it. This is the formal statement of the capital channel of concentration (Section 4.8). Demurrage on money alone cannot close it. Closing it requires a holding cost on compute capacity itself, a cap on individually held capacity, or collective ownership of capacity above some scale. Chapter 4 discusses the trade-offs; the formal model shows only that one of them is needed.
 
 ## A.5 The power-dependence relation and divided dependence
 
@@ -137,10 +137,10 @@ In the human–synthetic exchange, let $A = s$ and $B = h$. The human party's de
 
 Proposition 4 of Chapter 3 states that the framework's self-enforcing component rises with $\kappa_j$, subject to the premise, stated there, that the quality of the input depends on the terms its source receives; no particular functional form is claimed. The research on recursive training reviewed in Chapter 2 is, in these terms, evidence about $\lambda_s$: if synthetic data substitutes poorly for human data, $\lambda_s$ is low and $\kappa_j$ is high; if a small continuing supply of real data suffices, $\lambda_s$ is high for all but a small residual, and $\kappa_j$ is low.
 
-The second half of Proposition 4 can be illustrated with the simplest model of a commons. Suppose $M$ synthetic parties draw equally on the same population, and that one of them can take an action, such as extracting data in a way that degrades the population's willingness or ability to contribute, which yields it a private benefit $b$ and reduces the value of the population's future input to all $M$ parties by a total of $c$. The acting party bears only its share, $c/M$, of that cost. The action is privately worthwhile whenever $b > c/M$, even when it is collectively destructive, $c > b$. As $M$ grows, the range of destructive actions that are individually rational widens, however large the aggregate dependence of the synthetic parties on the population may be. This is Hardin's (1968) logic applied to the synthetic side of the exchange, and it is the formal reason that material dependence is not sufficient for self-enforcement and that the governance layer is needed even when the grounding assumption holds.
+The second half of Proposition 4 can be illustrated with the simplest model of a commons. Suppose $M$ synthetic parties draw equally on the same population, and that one of them can take an action, such as extracting data in a way that degrades the population's willingness or ability to contribute, which yields it a private benefit $b$ and reduces the value of the population's future input to all $M$ parties by a total of $\gamma$. The acting party bears only its share, $\gamma/M$, of that cost. The action is privately worthwhile whenever $b > \gamma/M$, even when it is collectively destructive, $\gamma > b$. As $M$ grows, the range of destructive actions that are individually rational widens, however large the aggregate dependence of the synthetic parties on the population may be. This is Hardin's (1968) logic applied to the synthetic side of the exchange, and it is the formal reason that material dependence is not sufficient for self-enforcement and that the governance layer is needed even when the grounding assumption holds.
 
 ## A.6 Collective exit and the informational shadow
 
-Let a flow from source $i$ license inferences about the set $\Sigma_i$ of parties, with $i \in \Sigma_i$. Call $\Sigma_i$ the informational shadow of the flow. Individual consent by $i$ is consent at the right level for the flow only if $\Sigma_i = \{i\}$; whether it is adequate then depends on the remaining clauses of the three conditions. For a population $P$, define its collective shadow as $\Sigma_P = \bigcup_{i \in P} \Sigma_i$. Proposition 5 of Chapter 3 requires that the three conditions be satisfied for the collective whose membership is $\Sigma_P$.
+Let a flow from source $i$ materially change what the recipient can infer about the set $\Sigma_i$ of parties, with $i \in \Sigma_i$, materiality being the threshold Section 3.7 assigns to the governance layer. Call $\Sigma_i$ the informational shadow of the flow. Individual consent by $i$ is consent at the right level for the flow only if $\Sigma_i = \{i\}$; whether it is adequate then depends on the remaining clauses of the three conditions. For a population $P$, define its collective shadow as $\Sigma_P = \bigcup_{i \in P} \Sigma_i$. Proposition 5 of Chapter 3 requires that the three conditions be satisfied for the collective whose membership is $\Sigma_P$.
 
 Under information-gain pricing (Chapter 4), the value of a flow to a model is its expected reduction in the model's uncertainty about the model's parameters. Suppose, as is typical for the models that matter here, that those parameters describe regularities of populations rather than facts about individuals. Then a flow reduces uncertainty mainly to the extent that it is informative about many parties, which is to say to the extent that its shadow is large. Under that assumption the price of a flow and the inadequacy of individual consent for it can be expected to rise together. The expectation is a conjecture, not a theorem: where a model's parameters encode individuals, a flow highly informative about one rare person can command a high price while casting a small shadow. To the extent that the conjecture holds, it is the formal reason the economic and governance layers must be designed together.

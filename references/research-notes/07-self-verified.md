@@ -28,8 +28,9 @@
 - Content: outside options affect the bargain only if credible ("outside option principle"); treating them as disagreement payoffs is naive; experiment supports the strategic prediction.
 - Use: distinction between an income floor received *during* impasse (disagreement payoff, always shifts the bargain) and an exit option (binds only when exercise is credible).
 
-### Hume1742
-- Hume, D. (1987). Of the independency of parliament. In E. F. Miller (Ed.), *Essays, moral, political, and literary* (pp. 42–46). Liberty Fund. (Original work published 1742)
+### Hume1741
+- Hume, D. (1987). Of the independency of parliament. In E. F. Miller (Ed.), *Essays, moral, political, and literary* (pp. 42–46). Liberty Fund. (Original work published 1741)
+- Date corrected 2026-11-02: the essay first appeared in the 1741 volume of *Essays, Moral and Political* according to the Miller edition's key to editions (Appendix C.5); the manuscript cites 1741/1987.
 - Verification: text located (Econlib Liberty Fund edition; Gutenberg)
 - Content: political maxim that in designing government every man ought to be supposed a knave; Hume thinks the supposition false in fact but correct for design.
 

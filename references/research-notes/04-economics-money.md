@@ -228,6 +228,17 @@ Sections:
 - Verification: abstract/publisher page read (IEA page).
 - What it establishes: The IEA page says Hayek argues for abolishing the government monopoly on money as the remedy for recurring inflation, deflation, depressions, and unemployment. The free IEA PDF is a reprint of the 1990 3rd edition. The 1978 edition was revised and enlarged, so state which edition you cite.
 - Use in dissertation: Precedent for non-state, parallel units of account. It also challenges the design: a competitive-currency view would question a single publicly indexed compute unit.
+- Addendum 2026-11-02: Appendix C.1 records the 1990 third edition (*The argument refined*) as the text read in full. The manuscript therefore cites Hayek (1976/1990) and the reference entry is the 1990 edition with the original date in parentheses.
+
+### Ottacher2007
+- Ottacher, G. (2007). *Der Welt ein Zeichen geben: Das Freigeldexperiment von Wörgl/Tirol 1932/33*. Gauke. (Reference list of record: chapters/10-references.md.)
+- Verification: read in full in the final pass (Appendix C.5, "Wörgl").
+- What it establishes (as recorded in C.5): the Austrian National Bank objected that the town was infringing its monopoly of issue (pp. 53–54); the certificates were withdrawn by 15 September 1933 under threat of police enforcement (p. 57); the Administrative Court dismissed the town's final appeal on 18 November 1933 (pp. 58–59). The withdrawal date differs from September (2026) and Unterguggenberger (1934), which give 1 September; Chapter 4 records the discrepancy.
+
+### VanParijs2006
+- Van Parijs, P. (2006). Basic income: A simple and powerful idea for the twenty-first century. In B. Ackerman, A. Alstott, & P. Van Parijs (Eds.), *Redesigning distribution*. Verso. (Reference list of record: chapters/10-references.md.)
+- Verification: cited passage confirmed (Appendix C.5, "Van Parijs (2006)").
+- What it establishes (as recorded in C.5): the definition of basic income as an income paid by a political community to all its members on an individual basis, without means test or work requirement, and the contrast with a restricted-use, non-saveable currency of the kind Duboin proposed, both on p. 8.
 
 ### Lietaer2012
 - APA: Lietaer, B., Arnsperger, C., Goerner, S., & Brunnhuber, S. (2012). *Money and sustainability: The missing link* (A report from the Club of Rome–EU Chapter). Triarchy Press.

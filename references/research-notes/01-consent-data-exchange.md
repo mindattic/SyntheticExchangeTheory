@@ -166,7 +166,7 @@ Compiled 2026-10-08 for the draft *Synthetic Exchange Theory* (chapters 01 and 0
   - The "not an attribute of the actor" line is a near-exact sociological precedent for "terms of exchange, not machine character."
   - "Real exit" is Emerson's availability-of-alternatives variable.
   - Data trusts and cooperatives are operation 4 (coalition formation).
-  - Data strikes are operation 1 (withdrawal) used strategically.
+  - Data strikes are operation 1 (withdrawal) used strategically. [Corrected 2026-11-02: Chapter 2.7 reads Emerson's withdrawal as a reduction of the weaker party's own motivational investment, so a strike, which withholds what the stronger party needs, is an exercise of existing power rather than a rebalancing operation; the chapter marks this as the dissertation's reading.]
   - Model collapse is the claim that the AI side has a non-zero Dab on humans.
 
 ### ThibautKelley1959

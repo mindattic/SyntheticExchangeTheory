@@ -26,7 +26,7 @@ Armstrong, S., Bostrom, N., & Shulman, C. (2016). Racing to the precipice: A mod
 
 Arrieta-Ibarra, I., Goff, L., Jiménez-Hernández, D., Lanier, J., & Weyl, E. G. (2018). Should we treat data as labor? Moving beyond "free." *AEA Papers and Proceedings, 108*, 38–42. https://doi.org/10.1257/pandp.20181003
 
-Arrow, K. J. (2001). John C. Harsanyi, 1920–2000. In *Biographical memoirs* (Vol. 80). National Academy Press. https://www.nasonline.org/wp-content/uploads/2024/06/harsanyi-john.pdf
+Arrow, K. J. (2001). John C. Harsanyi, 1920–2000. In *Biographical memoirs* (Vol. 80, pp. 108–121). National Academy Press. https://www.nasonline.org/wp-content/uploads/2024/06/harsanyi-john.pdf
 
 Arute, F., Arya, K., Babbush, R., Bacon, D., Bardin, J. C., Barends, R., Biswas, R., Boixo, S., Brandão, F. G. S. L., Buell, D. A., Burkett, B., Chen, Y., Chen, Z., Chiaro, B., Collins, R., Courtney, W., Dunsworth, A., Farhi, E., Foxen, B., . . . Martinis, J. M. (2019). Quantum supremacy using a programmable superconducting processor. *Nature, 574*(7779), 505–510. https://doi.org/10.1038/s41586-019-1666-5
 
@@ -204,7 +204,7 @@ Hartung, T., Smirnova, L., Morales Pantoja, I. E., Akwaboah, A., Alam El Din, D.
 
 Haushofer, J., & Shapiro, J. (2016). The short-term impact of unconditional cash transfers to the poor: Experimental evidence from Kenya. *The Quarterly Journal of Economics, 131*(4), 1973–2042. https://doi.org/10.1093/qje/qjw025
 
-Hayek, F. A. (1976). *Denationalisation of money: An analysis of the theory and practice of concurrent currencies* (Hobart Paper Special No. 70). Institute of Economic Affairs.
+Hayek, F. A. (1990). *Denationalisation of money: The argument refined* (3rd ed.). Institute of Economic Affairs. (Original work published 1976)
 
 H.B. 24-1058, 74th Gen. Assemb., 2d Reg. Sess. (Colo. 2024) (Protect Privacy of Biological Data).
 
@@ -282,7 +282,7 @@ Lehdonvirta, V., Wú, B., & Hawkins, Z. (2024). Compute North vs. Compute South:
 
 Lewis, J., & Severnini, E. (2020). Short- and long-run impacts of rural electrification: Evidence from the historical rollout of the U.S. power grid. *Journal of Development Economics, 143*, Article 102412. https://doi.org/10.1016/j.jdeveco.2019.102412
 
-Ley N.º 21.383. Modifica la Carta Fundamental, para establecer el desarrollo científico y tecnológico al servicio de las personas. (2021, 25 de octubre). *Diario Oficial de la República de Chile*. https://www.bcn.cl/leychile/navegar?idNorma=1166983
+Ley N.º 21.383. Modifica la Carta Fundamental, para establecer el desarrollo científico y tecnológico al servicio de las personas [Law No. 21.383. Amends the Constitution to establish scientific and technological development in the service of persons]. (2021, October 25). *Diario Oficial de la República de Chile*. https://www.bcn.cl/leychile/navegar?idNorma=1166983
 
 Li, P., Yang, J., Islam, M. A., & Ren, S. (2025). Making AI less "thirsty." *Communications of the ACM, 68*(7), 54–61. https://doi.org/10.1145/3724499
 
@@ -388,7 +388,7 @@ Regulation (EU) 2023/2854 of the European Parliament and of the Council of 13 De
 
 Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act). (2024). *Official Journal of the European Union, L, 2024/1689*.
 
-Regulation (EU) 2026/1744 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) 2024/1689, (EU) 2018/1139 and (EU) 2023/1230 as regards the simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI). (2026). *Official Journal of the European Union, L, 2026/1744*. http://data.europa.eu/eli/reg/2026/1744/oj
+Regulation (EU) 2026/1744 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) 2024/1689, (EU) 2018/1139 and (EU) 2023/1230 as regards the simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI). (2026). *Official Journal of the European Union, L, 2026/1744*. https://data.europa.eu/eli/reg/2026/1744/oj
 
 Robbins, A., Schweiger, H. E., Hernandez, S., Spaeth, A., Voitiuk, K., Parks, D. F., van der Molen, T., Geng, J., Cline, I., Kosik, K. S., Salama, S. R., Sharf, T., Mostajo-Radji, M. A., Haussler, D., & Teodorescu, M. (2026). Goal-directed learning in cortical organoids. *Cell Reports, 45*(2), Article 116984. https://doi.org/10.1016/j.celrep.2026.116984
 
