@@ -8,14 +8,14 @@ The notes refer to the **working-draft chapter numbers**, which differ from the 
 |---|---|
 | Ch. 1 Introduction | Ch. 1 Introduction |
 | Ch. 1A Transition Problem | Ch. 6 The Transition Problem |
-| Ch. 1B Prototype Phase | Ch. 7 The Prototype |
+| Ch. 1B Prototype Phase | Removed on 2026-11-02 (was Ch. 7 The Prototype; archived in `archive/pilot-2026-11-02/`) |
 | Ch. 2 Literature and Grounding | Ch. 2 Literature and Grounding |
 | (new) | Ch. 3 A Formal Statement |
 | Ch. 3 Economic Layer | Ch. 4 The Economic Layer |
 | Ch. 4 Governance Layer | Ch. 5 The Governance Layer |
-| Ch. 5 Limitations | Ch. 8 Limitations and Objections |
-| Ch. 6 Convergence Horizon | Ch. 9 The Convergence Horizon |
-| (new) | Ch. 10 Conclusion |
+| Ch. 5 Limitations | Ch. 7 Limitations and Objections |
+| Ch. 6 Convergence Horizon | Ch. 8 The Convergence Horizon |
+| (new) | Ch. 9 Conclusion |
 
 | File | Domain |
 |---|---|
@@ -28,4 +28,4 @@ The notes refer to the **working-draft chapter numbers**, which differ from the 
 | `06-pilot-convergence.md` | Pilot design and research ethics, intentional communities, Biosphere 2, open models, BCIs, neurorights, organoid intelligence, quantum measurement |
 | `07-self-verified.md` | Sources verified directly during drafting (bargaining theory, inalienability, Hume, Federalist 51, crisis and extremism) |
 
-The consolidated verification status of every cited work is in `chapters/15-appendix-d-verification-ledger.md`.
+The consolidated verification status of every cited work is in `chapters/13-appendix-c-verification-ledger.md`. The pilot-design sources in `06-pilot-convergence.md` are no longer cited (see Appendix C.6); the notes are kept for the archived chapter.

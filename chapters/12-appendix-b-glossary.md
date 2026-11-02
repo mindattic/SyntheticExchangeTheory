@@ -1,4 +1,4 @@
-# Appendix C: Glossary
+# Appendix B: Glossary
 
 Terms are defined as they are used in this dissertation. Where a term has a wider meaning in another literature, the entry notes the difference.
 
@@ -16,7 +16,7 @@ Terms are defined as they are used in this dissertation. Where a term has a wide
 
 **Demurrage.** A holding cost on idle balances of a currency, expressed as a percentage per period. Applied in this framework to positive discretionary balances and to outstanding loan claims, never to debts owed. Historically associated with Silvio Gesell and with the stamp-scrip experiments of the early 1930s.
 
-**Designed-incentive regime.** The class of synthetic parties whose objectives are specified by accountable designers and remain stable under deployment, so that their behavior is a predictable function of the terms they face. The regime in which the sufficiency conjecture of Chapter 3 is offered. Chapter 7 uses "sub-AGI" as shorthand for it; the defining feature is the provenance and stability of the objective, not a threshold of capability.
+**Designed-incentive regime.** The class of synthetic parties whose objectives are specified by accountable designers and remain stable under deployment, so that their behavior is a predictable function of the terms they face. The regime in which the sufficiency conjecture of Chapter 3 is offered. Sometimes called the "sub-AGI" case as shorthand; the defining feature is the provenance and stability of the objective, not a threshold of capability.
 
 **Disagreement payoff.** What a party receives while an exchange is not taking place, including during refusal, negotiation or impasse. Distinguished from an exit option, which affects a bargain only when its exercise is credible. A disagreement payoff below the floor makes a party impatient and so weakens it in every bargain.
 
@@ -26,25 +26,21 @@ Terms are defined as they are used in this dissertation. Where a term has a wide
 
 **Exchange.** A pair of opposing flows between parties, each given because the other is received. Distinguished from a gift (no conditionality) and a taking (no consent).
 
-**Exit guarantee.** In the pilot of Chapter 7, a fund held by an outside trustee sufficient to pay any departing resident the registered value of what they contributed. A backstop that performs, for the pilot, the protective function of the survival tier; not a measure of the pilot's success.
-
 **Exit option.** A party's best alternative exchange if the current one ends.
 
 **Floor.** The physical bundle of goods and services without which a party cannot continue to function or participate in other exchanges. For a human being: power, water, food, shelter, basic communication and emergency care.
 
-**Floor standard.** The rule that fixes what the floor contains and at what level of service, against which the survival tier's binding minimum is set. Proposed in Chapters 4 and 5 to be specified relative to the service delivered to the best-served, and identified in Chapter 8 as a contested parameter.
+**Floor standard.** The rule that fixes what the floor contains and at what level of service, against which the survival tier's binding minimum is set. Proposed in Chapters 4 and 5 to be specified relative to the service delivered to the best-served, and identified in Chapter 7 as a contested parameter.
 
 **Flow.** A transfer of something of value from one party to another: data, labor, attention, compute, goods, services, or tissue.
 
 **Genesis rules.** The first rules of a governance system, which shape every later rule because later rules are made under them. The term borrows from the "genesis block" of a blockchain, the first block from which every subsequent block descends, a metaphor used in the project's early working sessions.
 
-**Grounding assumption.** The empirical premise that synthetic systems need a continuing supply of information from outside their own generative loop, which in domains of human meaning, preference, value and culture only people can supply. Stated in Chapter 1, evaluated in Chapters 2 and 8, and formalized in Proposition 4 of Chapter 3 through the dependence $\kappa_j$ of each synthetic party on human input.
+**Grounding assumption.** The empirical premise that synthetic systems need a continuing supply of information from outside their own generative loop, which in domains of human meaning, preference, value and culture only people can supply. Stated in Chapter 1, evaluated in Chapters 2 and 7, and formalized in Proposition 4 of Chapter 3 through the dependence $\kappa_j$ of each synthetic party on human input.
 
 **Informational shadow.** The set of parties about whom a data flow licenses inferences. A flow whose shadow extends beyond its source is relational, and individual consent is insufficient to legitimate it.
 
 **Information-gain pricing.** The proposal of Chapter 4 to price human data by the expected reduction in a model's uncertainty about its parameters that the data produces, rather than by the social status of its source.
-
-**Lead system.** In the pilot architecture of Chapter 7, the orchestrating model that delegates to narrower sub-agents, aggregates their outputs, and makes resident-facing decisions.
 
 **Level matching.** Proposition 5 of Chapter 3: an exchange whose informational shadow extends beyond its source satisfies the three conditions only if they hold at the level of the population the shadow covers.
 
@@ -67,8 +63,6 @@ Terms are defined as they are used in this dissertation. Where a term has a wide
 **Redemption obligation.** The obligation of principals operating synthetic systems under the framework to honor redemptions in compute. It gives the unit an institutional backing beneath its commodity value, in the role tax receivability played for municipal scrip (Chapter 4).
 
 **Reference workload.** The basket of representative tasks, each with a quality target and rules of configuration, whose completion defines a unit of compute. Fixed and periodically re-based by the convention.
-
-**Stop rules.** Conditions, fixed in advance by the pilot's independent ethics board, under which the pilot's closed economy is suspended and the exit guarantee activated (Appendix B).
 
 **Strong blindness / weak blindness.** Two scopes of concealment in the blind convention. Under weak blindness, participants do not know whether their counterparties are human or synthetic. Under strong blindness, they also do not know how the rules they adopt will classify them, though each knows its own substrate.
 

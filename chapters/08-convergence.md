@@ -1,8 +1,8 @@
-# Chapter 9: The Convergence Horizon
+# Chapter 8: The Convergence Horizon
 
 The framework was built on a clean boundary. People were on one side and synthetic systems on the other; data flowed one way and services the other; the parties to the exchange could be told apart. That boundary is already blurring, from two directions at once. People are incorporating machines into their bodies, through implants that read neural activity and translate it directly into machine output. And machines are becoming biological, through computing systems in which living neural tissue performs part of the computation. This chapter asks what happens to the three conditions when the boundary dissolves, and argues that convergence forces the theory's hardest question, which is not how parties should exchange but who counts as a party.
 
-## 9.1 Humans incorporating machines
+## 8.1 Humans incorporating machines
 
 Implanted brain-computer interfaces have moved from laboratory demonstration toward daily use. In 2023, two research groups reported speech neuroprostheses of unprecedented performance. In one, arrays implanted in the cortex of a participant with amyotrophic lateral sclerosis decoded attempted speech into text at sixty-two words per minute, with error rates of about nine percent on a small vocabulary and about twenty-four percent on a vocabulary of one hundred and twenty-five thousand words (Willett et al., 2023). In the other, an array placed over the speech cortex of a participant with severe paralysis decoded text, synthesized speech in a voice modeled on the participant's own voice before the injury, and animated a digital avatar of the participant's face (Metzger et al., 2023). The following year, a third group reported a system that reached near-perfect accuracy on a small vocabulary after thirty minutes of calibration on its first day of use and sustained accuracy above ninety-seven percent on a large vocabulary over more than eight months, during which the participant, a man with amyotrophic lateral sclerosis, used it for more than two hundred and forty hours of conversation in a voice resembling his own (Card et al., 2024). Commercial developers have begun clinical trials of their own devices (Neuralink Corp., 2024), though independent, peer-reviewed reports of their outcomes were not available at the time of writing.
 
@@ -18,7 +18,7 @@ The philosophical literature has prepared for this. The argument for the *extend
 
 The law has begun to respond. Chile's constitution now directs the law to protect brain activity and the information derived from it (Ley N.º 21.383, 2021); Colorado has made neural data used for identification a category of sensitive data requiring consent, and California has added neural data to the sensitive personal information its consumer privacy act protects (H.B. 24-1058, 2024; S.B. 1223, 2024); and UNESCO has adopted a global recommendation on the ethics of neurotechnology that, according to its announcement, addresses mental privacy and calls for explicit consent and full transparency (UNESCO, 2025). All of these instruments frame neural data as a person's information, to be protected by consent and limits on use, and Colorado's tie to identification may leave de-identified or tissue-derived neural signals outside it altogether. None yet addresses reciprocity, the value that flows back to the person whose neural activity trains the model, or exit, the ability to leave with one's voice and one's continuity intact.
 
-## 9.2 Machines becoming biological
+## 8.2 Machines becoming biological
 
 From the other direction, a research field now explicitly aims to build computers from living neural tissue. Its founding statement proposed *organoid intelligence*: the use of three-dimensional cultures of human brain cells, grown from stem cells and connected to electrodes and machine-learning systems that encode inputs and decode outputs, as a substrate for computation, with the claim, so far a projection, that such systems might eventually be far more energy-efficient than silicon (Smirnova et al., 2023). Participants at the field's first workshop called in a joint declaration for the scientific community to pursue the research while addressing its ethical implications, to remain alert to the possibility that organoids could develop aspects of consciousness, and to work toward an accepted ethical framework that takes due account of public values (Hartung et al., 2023). The United States National Science Foundation has issued an engineering research solicitation in the area, Biocomputing through EnGINeering Organoid Intelligence (U.S. National Science Foundation, 2023).
 
@@ -28,7 +28,7 @@ The authoritative assessment of the science is cautious. A report of the United 
 
 The point for this dissertation is not that organoid computers are conscious; the evidence says they almost certainly are not. It is that a computing substrate made of human tissue is now an engineering objective, and that in at least one demonstrated system the training process reshapes the tissue's neuronal connections (Cai et al., 2023). In such a system, the distinction between data and processor, on which the opening dystopia turned, has collapsed. The input does not merely flow through the substrate; it alters it.
 
-## 9.3 Consent when the substrate is tissue
+## 8.3 Consent when the substrate is tissue
 
 Bioethicists have begun to ask the questions that convergence forces. Commenting on a federally funded organoid-computing project, the legal scholar Henry Greely posed, as open questions, whether organoid-based computing devices should be treated as human tissue samples, as laboratory animals, as persons, or as something else, and what informed consent should mean for the people whose cells are used to make them (Cerf, 2025). A review of the ethics of brain-organoid research identifies the procurement of human biomaterials and donor consent as a distinct theme, alongside research oversight, translational delivery, animal research, and consciousness and moral status (Hyun et al., 2020). The founders of organoid intelligence themselves ask whether donors' rights continue after donation (Smirnova et al., 2023). The National Academies treat donor consent as unresolved, noting that specific consent was generally not obtained from past donors and that recontacting them is sometimes impossible (National Academies of Sciences, Engineering, and Medicine, 2021). A recent argument holds that uncertainty about whether brain organoids could become conscious, and about what that would matter morally, may leave donors insufficiently informed to give valid consent, that donor consent alone cannot establish that risks to the organoids themselves are reasonable, and that consent should therefore be specific to particular projects rather than broad (Kataoka et al., 2024).
 
@@ -40,7 +40,7 @@ Second, the resource extracted may not be data about a person but tissue that mi
 
 One implication of that last finding deserves emphasis for the economic layer. The indicator properties derived by Butlin et al. (2023), on the computational-functionalist theories they survey, are properties of a system's organization rather than of the amount of computation it performs. A system's moral status cannot be read off the quantity of compute it performs. The unit of compute defined in Chapter 4 measures work done, and it cannot double as a measure of who matters. The framework must keep these questions separate: the currency prices computation, and the convention decides who counts.
 
-## 9.4 A substrate-agnostic currency, revisited
+## 8.4 A substrate-agnostic currency, revisited
 
 Chapter 4 defined the unit of compute by a reference workload rather than by the speed of any particular hardware, so that the definition would hold regardless of which substrate becomes dominant. Convergence tests that definition at its limits.
 
@@ -50,7 +50,7 @@ The conclusion is not that a substrate-agnostic unit is impossible but that it m
 
 There is a further implication for biological substrates in particular. If living human tissue performs computation that is paid for in compute units, then the tissue is producing value in the currency of the exchange. Whether that value belongs to the system's operator, to the donor, or in some future case to the tissue itself is not a question the currency can answer. It is a question about who counts as a party.
 
-## 9.5 Who counts as a party
+## 8.5 Who counts as a party
 
 The dissertation began with a question about terms: how should humans and synthetic systems exchange value fairly? If the line between human and machine keeps thinning, the question changes. It becomes a question about membership: who is a party to the exchange at all?
 

@@ -1,6 +1,6 @@
 # References
 
-*Format: APA 7th edition. The verification status of each source (full text read, abstract or publisher page read, or record located) is recorded in Appendix D. Preprints and grey literature are identified as such.*
+*Format: APA 7th edition. The verification status of each source (full text read, abstract or publisher page read, or record located) is recorded in Appendix C. Preprints and grey literature are identified as such.*
 
 Abramitzky, R. (2008). The limits of equality: Insights from the Israeli kibbutz. *The Quarterly Journal of Economics, 123*(3), 1111–1159. https://doi.org/10.1162/qjec.2008.123.3.1111
 
@@ -34,8 +34,6 @@ Autor, D. H. (2015). Why are there still so many jobs? The history and future of
 
 Barocas, S., & Nissenbaum, H. (2014). Big data's end run around anonymity and consent. In J. Lane, V. Stodden, S. Bender, & H. Nissenbaum (Eds.), *Privacy, big data, and the public good: Frameworks for engagement* (pp. 44–75). Cambridge University Press. https://doi.org/10.1017/CBO9781107590205.004
 
-Barron-Gafford, G. A., Pavao-Zuckerman, M. A., Minor, R. L., Sutter, L. F., Barnett-Moreno, I., Blackett, D. T., Thompson, M., Dimond, K., Gerlak, A. K., Nabhan, G. P., & Macknick, J. E. (2019). Agrivoltaics provide mutual benefits across the food–energy–water nexus in drylands. *Nature Sustainability, 2*(9), 848–855. https://doi.org/10.1038/s41893-019-0364-5
-
 Bengio, Y., Hinton, G., Yao, A., Song, D., Abbeel, P., Darrell, T., Harari, Y. N., Zhang, Y.-Q., Xue, L., Shalev-Shwartz, S., Hadfield, G., Clune, J., Maharaj, T., Hutter, F., Baydin, A. G., McIlraith, S., Gao, Q., Acharya, A., Krueger, D., . . . Mindermann, S. (2024). Managing extreme AI risks amid rapid progress. *Science, 384*(6698), 842–845. https://doi.org/10.1126/science.adn0117
 
 Bengio, Y., Mindermann, S., Privitera, D., Besiroglu, T., Bommasani, R., Casper, S., Choi, Y., Fox, P., Garfinkel, B., Goldfarb, D., Heidari, H., Ho, A., Kapoor, S., Khalatbari, L., Longpre, S., Manning, S., Mavroudis, V., Mazeika, M., Michael, J., . . . Zeng, Y. (2025). *International AI safety report* (arXiv:2501.17805). UK Department for Science, Innovation and Technology. https://doi.org/10.48550/arXiv.2501.17805
@@ -57,8 +55,6 @@ Blau, P. M. (1964). *Exchange and power in social life*. Wiley.
 Bommasani, R., Creel, K. A., Kumar, A., Jurafsky, D., & Liang, P. (2022). Picking on the same person: Does algorithmic monoculture lead to outcome homogenization? In *Advances in Neural Information Processing Systems 35*. https://doi.org/10.48550/arXiv.2211.13972
 
 Bommasani, R., Hudson, D. A., Adeli, E., Altman, R., Arora, S., von Arx, S., Bernstein, M. S., Bohg, J., Bosselut, A., Brunskill, E., Brynjolfsson, E., Buch, S., Card, D., Castellon, R., Chatterji, N., Chen, A., Creel, K., Davis, J. Q., Demszky, D., . . . Liang, P. (2021). *On the opportunities and risks of foundation models* (arXiv:2108.07258) [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2108.07258
-
-Bommasani, R., Klyman, K., Longpre, S., Kapoor, S., Maslej, N., Xiong, B., Zhang, D., & Liang, P. (2023). *The Foundation Model Transparency Index* (arXiv:2310.12941) [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2310.12941
 
 Brennan, G., & Buchanan, J. M. (1985). *The reason of rules: Constitutional political economy*. Cambridge University Press. https://doi.org/10.1017/CBO9780511895937
 
@@ -113,8 +109,6 @@ Dafoe, A., Bachrach, Y., Hadfield, G., Horvitz, E., Larson, K., & Graepel, T. (2
 de Bromhead, A., Eichengreen, B., & O'Rourke, K. H. (2013). Political extremism in the 1920s and 1930s: Do German lessons generalize? *The Journal of Economic History, 73*(2), 371–406. https://doi.org/10.1017/S0022050713000302
 
 Delacroix, S., & Lawrence, N. D. (2019). Bottom-up data trusts: Disturbing the "one size fits all" approach to data governance. *International Data Privacy Law, 9*(4), 236–252. https://doi.org/10.1093/idpl/ipz014
-
-Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction With Life Scale. *Journal of Personality Assessment, 49*(1), 71–75. https://doi.org/10.1207/s15327752jpa4901_13
 
 Dohmatob, E., Feng, Y., Subramonian, A., & Kempe, J. (2025). Strong model collapse. In *Proceedings of the Thirteenth International Conference on Learning Representations*. https://doi.org/10.48550/arXiv.2410.04840
 
@@ -186,8 +180,6 @@ Greenblatt, R., Shlegeris, B., Sachan, K., & Roger, F. (2024). AI control: Impro
 
 Guo, D., Yang, D., Zhang, H., Song, J., Wang, P., Zhu, Q., Xu, R., Zhang, R., Ma, S., Bi, X., Zhang, X., Yu, X., Wu, Y., Wu, Z. F., Gou, Z., Shao, Z., Li, Z., Gao, Z., Liu, A., . . . Zhang, Z. (2025). DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning. *Nature, 645*(8081), 633–638. https://doi.org/10.1038/s41586-025-09422-z
 
-Guo, T., Chen, X., Wang, Y., Chang, R., Pei, S., Chawla, N. V., Wiest, O., & Zhang, X. (2024). Large language model based multi-agents: A survey of progress and challenges. In *Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence* (pp. 8048–8057). https://doi.org/10.24963/ijcai.2024/890
-
 Guo, Y., Shang, G., Vazirgiannis, M., & Clavel, C. (2024). The curious decline of linguistic diversity: Training language models on synthetic text. In *Findings of the Association for Computational Linguistics: NAACL 2024*. https://doi.org/10.48550/arXiv.2311.09807
 
 H.B. 24-1058, 74th Gen. Assemb., 2d Reg. Sess. (Colo. 2024) (Protect Privacy of Biological Data).
@@ -230,11 +222,7 @@ Hoffmann, J., Borgeaud, S., Mensch, A., Buchatskaya, E., Cai, T., Rutherford, E.
 
 Homans, G. C. (1958). Social behavior as exchange. *American Journal of Sociology, 63*(6), 597–606. https://doi.org/10.1086/222355
 
-Hossain, M., Leminen, S., & Westerlund, M. (2019). A systematic review of living lab literature. *Journal of Cleaner Production, 213*, 976–988. https://doi.org/10.1016/j.jclepro.2018.12.257
-
 Hoynes, H., & Rothstein, J. (2019). Universal basic income in the United States and advanced countries. *Annual Review of Economics, 11*, 929–958. https://doi.org/10.1146/annurev-economics-080218-030237
-
-Hu, E. J., Shen, Y., Wallis, P., Allen-Zhu, Z., Li, Y., Wang, S., Wang, L., & Chen, W. (2022). LoRA: Low-rank adaptation of large language models. In *International Conference on Learning Representations*. https://doi.org/10.48550/arXiv.2106.09685
 
 Hubinger, E., van Merwijk, C., Mikulik, V., Skalse, J., & Garrabrant, S. (2019). *Risks from learned optimization in advanced machine learning systems* (arXiv:1906.01820) [Preprint]. arXiv. https://doi.org/10.48550/arXiv.1906.01820
 
@@ -252,13 +240,9 @@ Jangjoo, F., di Sarra, G., Marsili, M., & Roudi, Y. (2026). Lost in retraining: 
 
 Jia, R., Dao, D., Wang, B., Hubis, F. A., Hynes, N., Gürel, N. M., Li, B., Zhang, C., Song, D., & Spanos, C. J. (2019). Towards efficient data valuation based on the Shapley value. In K. Chaudhuri & M. Sugiyama (Eds.), *Proceedings of the Twenty-Second International Conference on Artificial Intelligence and Statistics* (Vol. 89, pp. 1167–1176). PMLR.
 
-Jiang, A. Q., Sablayrolles, A., Mensch, A., Bamford, C., Chaplot, D. S., de las Casas, D., Bressand, F., Lengyel, G., Lample, G., Saulnier, L., Lavaud, L. R., Lachaux, M.-A., Stock, P., Le Scao, T., Lavril, T., Wang, T., Lacroix, T., & El Sayed, W. (2023). *Mistral 7B* (arXiv:2310.06825) [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2310.06825
-
 Jones, D., & Marinescu, I. (2022). The labor market impacts of universal and permanent cash transfers: Evidence from the Alaska Permanent Fund. *American Economic Journal: Economic Policy, 14*(2), 315–340. https://doi.org/10.1257/pol.20190299
 
 Kagan, B. J., Kitchen, A. C., Tran, N. T., Habibollahi, F., Khajehnejad, M., Parker, B. J., Bhat, A., Rollo, B., Razi, A., & Friston, K. J. (2022). In vitro neurons learn and exhibit sentience when embodied in a simulated game-world. *Neuron, 110*(23), 3952–3969.e8. https://doi.org/10.1016/j.neuron.2022.09.001
-
-Kanter, R. M. (1972). *Commitment and community: Communes and utopias in sociological perspective*. Harvard University Press.
 
 Kapoor, S., Bommasani, R., Klyman, K., Longpre, S., Ramaswami, A., Cihon, P., Hopkins, A. K., Bankston, K., Biderman, S., Bogen, M., Chowdhury, R., Engler, A., Henderson, P., Jernite, Y., Lazar, S., Maffulli, S., Nelson, A., Pineau, J., Skowron, A., . . . Narayanan, A. (2024). Position: On the societal impact of open foundation models. In *Proceedings of the 41st International Conference on Machine Learning* (Vol. 235, pp. 23082–23104). PMLR.
 
@@ -318,8 +302,6 @@ MacKay, D. J. C. (1992). Information-based objective functions for active data s
 
 Madison, J. (1788, February 8). The Federalist No. 51. *New York Packet*. Avalon Project, Yale Law School. https://avalon.law.yale.edu/18th_century/fed51.asp
 
-Manheim, D., & Garrabrant, S. (2018). *Categorizing variants of Goodhart's law* (arXiv:1803.04585) [Preprint]. arXiv. https://doi.org/10.48550/arXiv.1803.04585
-
 Manson, N. C., & O'Neill, O. (2007). *Rethinking informed consent in bioethics*. Cambridge University Press. https://doi.org/10.1017/CBO9780511814600
 
 Marković, D., Mizrahi, A., Querlioz, D., & Grollier, J. (2020). Physics for neuromorphic computing. *Nature Reviews Physics, 2*(9), 499–510. https://doi.org/10.1038/s42254-020-0208-2
@@ -327,8 +309,6 @@ Marković, D., Mizrahi, A., Querlioz, D., & Grollier, J. (2020). Physics for neu
 Mathur, A., Acar, G., Friedman, M. J., Lucherini, E., Mayer, J., Chetty, M., & Narayanan, A. (2019). Dark patterns at scale: Findings from a crawl of 11K shopping websites. *Proceedings of the ACM on Human-Computer Interaction, 3*(CSCW), Article 81. https://doi.org/10.1145/3359183
 
 Mattson, P., Cheng, C., Diamos, G., Coleman, C., Micikevicius, P., Patterson, D., Tang, H., Wei, G.-Y., Bailis, P., Bittorf, V., Brooks, D., Chen, D., Dutta, D., Gupta, U., Hazelwood, K., Hock, A., Huang, X., Kang, D., Kanter, D., . . . Zaharia, M. (2020). MLPerf training benchmark. *Proceedings of Machine Learning and Systems, 2*. https://proceedings.mlsys.org/paper_files/paper/2020/hash/411e39b117e885341f25efb8912945f7-Abstract.html
-
-McCambridge, J., Witton, J., & Elbourne, D. R. (2014). Systematic review of the Hawthorne effect: New concepts are needed to study research participation effects. *Journal of Clinical Epidemiology, 67*(3), 267–277. https://doi.org/10.1016/j.jclinepi.2013.08.015
 
 Metzger, S. L., Littlejohn, K. T., Silva, A. B., Moses, D. A., Seaton, M. P., Wang, R., Dougherty, M. E., Liu, J. R., Wu, P., Berger, M. A., Zhuravleva, I., Tu-Chan, A., Ganguly, K., Anumanchipalli, G. K., & Chang, E. F. (2023). A high-performance neuroprosthesis for speech decoding and avatar control. *Nature, 620*(7976), 1037–1046. https://doi.org/10.1038/s41586-023-06443-4
 
@@ -348,17 +328,11 @@ Nash, J. F., Jr. (1950). The bargaining problem. *Econometrica, 18*(2), 155–16
 
 National Academies of Sciences, Engineering, and Medicine. (2021). *The emerging field of human neural organoids, transplants, and chimeras: Science, ethics, and governance*. The National Academies Press. https://doi.org/10.17226/26078
 
-National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research. (1979). *The Belmont report: Ethical principles and guidelines for the protection of human subjects of research*. U.S. Department of Health, Education, and Welfare.
-
 Neuralink Corp. (2024). *PRIME: An early feasibility study of a precise robotically implanted brain-computer interface for the control of external devices* (ClinicalTrials.gov Identifier NCT06429735). https://clinicaltrials.gov/study/NCT06429735
 
 Ngo, R., Chan, L., & Mindermann, S. (2024). The alignment problem from a deep learning perspective. In *The Twelfth International Conference on Learning Representations*. https://doi.org/10.48550/arXiv.2209.00626
 
 Nissenbaum, H. (2009). *Privacy in context: Technology, policy, and the integrity of social life*. Stanford University Press. https://doi.org/10.1515/9780804772891
-
-Nosek, B. A., Ebersole, C. R., DeHaven, A. C., & Mellor, D. T. (2018). The preregistration revolution. *Proceedings of the National Academy of Sciences, 115*(11), 2600–2606. https://doi.org/10.1073/pnas.1708274114
-
-OECD. (2013). *OECD guidelines on measuring subjective well-being*. OECD Publishing. https://doi.org/10.1787/9789264191655-en
 
 OECD. (2025). *Competition in artificial intelligence infrastructure* (OECD Roundtables on Competition Policy Papers, No. 330). OECD Publishing. https://doi.org/10.1787/623d1874-en
 
@@ -382,15 +356,11 @@ Pearce, H., Ahmad, B., Tan, B., Dolan-Gavitt, B., & Karri, R. (2022). Asleep at 
 
 Pednault, E., Gunnels, J. A., Nannicini, G., Horesh, L., & Wisnieff, R. (2019). *Leveraging secondary storage to simulate deep 54-qubit Sycamore circuits* (arXiv:1910.09534) [Preprint]. arXiv. https://doi.org/10.48550/arXiv.1910.09534
 
-Perdomo, J., Zrnic, T., Mendler-Dünner, C., & Hardt, M. (2020). Performative prediction. In *Proceedings of the 37th International Conference on Machine Learning* (Vol. 119, pp. 7599–7609). PMLR.
-
 Perrow, C. (1999). *Normal accidents: Living with high-risk technologies* (Updated ed.). Princeton University Press. https://doi.org/10.1515/9781400828494 (Original work published 1984)
 
 Perry, N., Srivastava, M., Kumar, D., & Boneh, D. (2023). Do users write more insecure code with AI assistants? In *Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security*. ACM. https://doi.org/10.1145/3576915.3623157
 
 Perzanowski, A., & Schultz, J. (2016). *The end of ownership: Personal property in the digital economy*. MIT Press.
-
-Peters, C. J., Picardy, J., Darrouzet-Nardi, A. F., Wilkins, J. L., Griffin, T. S., & Fick, G. W. (2016). Carrying capacity of U.S. agricultural land: Ten diet scenarios. *Elementa: Science of the Anthropocene, 4*, Article 000116. https://doi.org/10.12952/journal.elementa.000116
 
 Pierson, P. (2004). *Politics in time: History, institutions, and social analysis*. Princeton University Press. https://doi.org/10.1515/9781400841080
 
@@ -398,13 +368,9 @@ Piketty, T. (2014). *Capital in the twenty-first century* (A. Goldhammer, Trans.
 
 Polanyi, K. (2001). *The great transformation: The political and economic origins of our time* (2nd ed.). Beacon Press. (Original work published 1944)
 
-Popper, K. (2002). *The logic of scientific discovery* (2nd ed.). Routledge. https://doi.org/10.4324/9780203994627 (Original work published 1959)
-
 Posner, E. A., & Weyl, E. G. (2018). *Radical markets: Uprooting capitalism and democracy for a just society*. Princeton University Press.
 
 Preskill, J. (2018). Quantum computing in the NISQ era and beyond. *Quantum, 2*, 79. https://doi.org/10.22331/q-2018-08-06-79
-
-Protection of Human Subjects, 45 C.F.R. pt. 46 (2018).
 
 Przymus, P., & Durieux, T. (2025). Wolves in the repository: A software engineering analysis of the XZ Utils supply chain attack. In *Proceedings of the 22nd International Conference on Mining Software Repositories*. https://doi.org/10.48550/arXiv.2504.17473
 
@@ -438,8 +404,6 @@ September, J. (2026). A sustainable miracle? Examining the long-term viability o
 
 Settles, B. (2009). *Active learning literature survey* (Computer Sciences Technical Report 1648). University of Wisconsin–Madison.
 
-Severinghaus, J. P., Broecker, W. S., Dempster, W. F., MacCallum, T., & Wahlen, M. (1994). Oxygen loss in Biosphere 2. *Eos, Transactions American Geophysical Union, 75*(3), 33–37. https://doi.org/10.1029/94EO00285
-
 Sevilla, J., Heim, L., Ho, A., Besiroglu, T., Hobbhahn, M., & Villalobos, P. (2022). Compute trends across three eras of machine learning. In *2022 International Joint Conference on Neural Networks* (pp. 1–8). IEEE. https://doi.org/10.1109/IJCNN55064.2022.9891914
 
 Shannon, C. E. (1948). A mathematical theory of communication. *Bell System Technical Journal, 27*(3), 379–423; *27*(4), 623–656. https://doi.org/10.1002/j.1538-7305.1948.tb01338.x
@@ -455,8 +419,6 @@ Siddarth, D., Ivliev, S., Siri, S., & Berman, P. (2020). Who watches the watchme
 Silver, D., Hubert, T., Schrittwieser, J., Antonoglou, I., Lai, M., Guez, A., Lanctot, M., Sifre, L., Kumaran, D., Graepel, T., Lillicrap, T., Simonyan, K., & Hassabis, D. (2018). A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play. *Science, 362*(6419), 1140–1144. https://doi.org/10.1126/science.aar6404
 
 Sim, R. H. L., Zhang, Y., Chan, M. C., & Low, B. K. H. (2020). Collaborative machine learning with incentive-aware model rewards. In H. Daumé III & A. Singh (Eds.), *Proceedings of the 37th International Conference on Machine Learning* (Vol. 119, pp. 8927–8936). PMLR.
-
-Skalse, J., Howe, N. H. R., Krasheninnikov, D., & Krueger, D. (2022). Defining and characterizing reward gaming. In *Advances in Neural Information Processing Systems 35*. https://doi.org/10.48550/arXiv.2209.13085
 
 Smirnova, L., Caffo, B. S., Gracias, D. H., Huang, Q., Morales Pantoja, I. E., Tang, B., Zack, D. J., Berlinicke, C. A., Boyd, J. L., Harris, T. D., Johnson, E. C., Kagan, B. J., Kahn, J., Muotri, A. R., Paulhamus, B. L., Schwamborn, J. C., Plotkin, J., Szalay, A. S., Vogelstein, J. T., . . . Hartung, T. (2023). Organoid intelligence (OI): The new frontier in biocomputing and intelligence-in-a-dish. *Frontiers in Science, 1*, Article 1017235. https://doi.org/10.3389/fsci.2023.1017235
 
@@ -481,8 +443,6 @@ Streeck, W., & Thelen, K. (2005). Introduction: Institutional change in advanced
 Susser, D., Roessler, B., & Nissenbaum, H. (2019). Technology, autonomy, and manipulation. *Internet Policy Review, 8*(2). https://doi.org/10.14763/2019.2.1410
 
 Thibaut, J. W., & Kelley, H. H. (1959). *The social psychology of groups*. Wiley.
-
-Touvron, H., Martin, L., Stone, K., Albert, P., Almahairi, A., Babaei, Y., Bashlykov, N., Batra, S., Bhargava, P., Bhosale, S., Bikel, D., Blecher, L., Canton Ferrer, C., Chen, M., Cucurull, G., Esiobu, D., Fernandes, J., Fu, J., Fu, W., . . . Scialom, T. (2023). *Llama 2: Open foundation and fine-tuned chat models* (arXiv:2307.09288) [Preprint]. arXiv. https://doi.org/10.48550/arXiv.2307.09288
 
 TrendForce. (2025, December 26). *AI reportedly to consume 20% of global DRAM wafer capacity in 2026, HBM and GDDR7 lead demand* [News]. https://www.trendforce.com/news/2025/12/26/news-ai-reportedly-to-consume-20-of-global-dram-wafer-capacity-in-2026
 
@@ -525,8 +485,6 @@ Weston, D. (2024, July 20). *Helping our customers through the CrowdStrike outag
 Willett, F. R., Kunz, E. M., Fan, C., Avansino, D. T., Wilson, G. H., Choi, E. Y., Kamdar, F., Glasser, M. F., Hochberg, L. R., Druckmann, S., Shenoy, K. V., & Henderson, J. M. (2023). A high-performance speech neuroprosthesis. *Nature, 620*(7976), 1031–1036. https://doi.org/10.1038/s41586-023-06377-x
 
 Wilson, D. S., Ostrom, E., & Cox, M. E. (2013). Generalizing the core design principles for the efficacy of groups. *Journal of Economic Behavior & Organization, 90*(Suppl.), S21–S32. https://doi.org/10.1016/j.jebo.2012.12.010
-
-Wu, Q., Bansal, G., Zhang, J., Wu, Y., Li, B., Zhu, E., Jiang, L., Zhang, X., Zhang, S., Liu, J., Awadallah, A. H., White, R. W., Burger, D., & Wang, C. (2024). AutoGen: Enabling next-gen LLM applications via multi-agent conversation. In *Proceedings of the First Conference on Language Modeling*. https://openreview.net/forum?id=BAakY1hNKS
 
 Wu, Y., Jiang, N., Pham, H. V., Lutellier, T., Davis, J., Tan, L., Babkin, P., & Shah, S. (2023). How effective are neural networks for fixing security vulnerabilities. In *Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis* (pp. 1282–1294). ACM. https://doi.org/10.1145/3597926.3598135
 

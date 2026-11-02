@@ -3,15 +3,17 @@
 *Consent-Based Compute Economics and Blind-Convention Governance*
 
 **Author:** MindAttic. Developed as a human–AI collaborative project; see the Statement on Authorship and Method in the front matter.
-**Status:** Complete dissertation manuscript (October 2026). About 48,000 words of body text across ten chapters (about 64,000 with front matter, references and four appendices), with about 250 references whose verification level is recorded in Appendix D.
+**Status:** Complete theoretical dissertation manuscript (November 2026). About 45,000 words of body text across nine chapters (about 64,000 with front matter, references and three appendices), with 247 references whose verification level is recorded in Appendix C. The closed agrarian pilot that earlier drafts specified was removed on 2 November 2026 to keep the work entirely theoretical; the dissertation now states what an empirical test would require and leaves its design to future work.
 
 ## Thesis in one paragraph
 
-The line between a good and a bad future with artificial intelligence is drawn by the **terms of exchange** between people and synthetic systems (consent, reciprocal value and real exit), not by the character of the systems. The three conditions are ordered, and exit is foundational: consent presupposes the ability to refuse without falling below a survival floor. Fair terms are self-enforcing only in proportion to how much each synthetic party depends on human input. The theory is implemented through a basic income paid in **compute**, split at source into an inalienable survival tier and a tradable discretionary tier subject to **demurrage**, and governed through a **blind constitutional convention** grounded in Ostrom's commons-governance principles. It is tested by a bounded, self-sufficient agrarian pilot with pre-registered failure thresholds.
+The line between a good and a bad future with artificial intelligence is drawn by the **terms of exchange** between people and synthetic systems (consent, reciprocal value and real exit), not by the character of the systems. The three conditions are ordered, and exit is foundational: consent presupposes the ability to refuse without falling below a survival floor. Fair terms are self-enforcing only in proportion to how much each synthetic party depends on human input. The theory is implemented through a basic income paid in **compute**, split at source into an inalienable survival tier and a tradable discretionary tier subject to **demurrage**, and governed through a **blind constitutional convention** grounded in Ostrom's commons-governance principles. The theory is stated so that it can fail, but it is untested: designing the experiment is the first item of future work.
 
 ## Read it
 
-- **Single file:** `D:\Projects\MindAttic\ePub\MindAttic\SET\SET V<N>.pdf` (also `.docx`, `.txt`, `.md`), rendered by the shared MindAttic.Export library.
+- **Online:** https://mindattic.github.io/SyntheticExchangeTheory/ (the full text as one page, under Docs)
+- **Single file, in this repo:** [`exports/Synthetic Exchange Theory.pdf`](exports/Synthetic%20Exchange%20Theory.pdf) and [`exports/Synthetic Exchange Theory.docx`](exports/Synthetic%20Exchange%20Theory.docx); the same text as Markdown is [`docs/synthetic-exchange-theory.md`](docs/synthetic-exchange-theory.md)
+- **Versioned bundle:** `D:\Projects\MindAttic\ePub\MindAttic\SET\SET V<N>.pdf` (also `.docx`, `.epub`, `.txt`, `.md`), rendered by the shared MindAttic.Export library
 - **By chapter:** `chapters/`
 
 | File | Contents |
@@ -23,21 +25,21 @@ The line between a good and a bad future with artificial intelligence is drawn b
 | `04-economic-layer.md` | 4. The Economic Layer: Compute as Currency |
 | `05-governance-layer.md` | 5. The Governance Layer: The Blind Convention |
 | `06-transition.md` | 6. The Transition Problem |
-| `07-prototype.md` | 7. The Prototype: A Closed Agrarian Pilot |
-| `08-limitations.md` | 8. Limitations and Objections |
-| `09-convergence.md` | 9. The Convergence Horizon |
-| `10-conclusion.md` | 10. Conclusion |
-| `11-references.md` | References (APA 7), the reference list of record |
-| `12-appendix-a-formal-model.md` | A. Formal model (bargaining, demurrage dynamics, power-dependence) |
-| `13-appendix-b-pilot-protocol.md` | B. Pilot pre-registration protocol (draft) |
-| `14-appendix-c-glossary.md` | C. Glossary |
-| `15-appendix-d-verification-ledger.md` | D. Source verification ledger and corrections log |
+| `07-limitations.md` | 7. Limitations and Objections (including what an empirical test would require) |
+| `08-convergence.md` | 8. The Convergence Horizon |
+| `09-conclusion.md` | 9. Conclusion |
+| `10-references.md` | References (APA 7), the reference list of record |
+| `11-appendix-a-formal-model.md` | A. Formal model (bargaining, demurrage dynamics, power-dependence) |
+| `12-appendix-b-glossary.md` | B. Glossary |
+| `13-appendix-c-verification-ledger.md` | C. Source verification ledger and corrections log |
 
 ## Other folders
 
 - `references/`: `VERIFICATION.md` and `research-notes/` with the full source-by-source verification notes.
 - `transcripts/`: the working-session history that produced the original draft.
 - `archive/working-draft-2026-10-03/`: the original working draft (nine short chapters and its exports), kept for comparison.
+- `archive/pilot-2026-11-02/`: the removed pilot chapter and its draft pre-registration protocol, kept for a future experimental design.
+- `exports/`: the committed PDF and DOCX of the current text; `docs/`: the Markdown published to GitHub Pages.
 - `export.json` and `scripts/export.ps1`: the export definition and its runner.
 
 ## Exporting
@@ -47,7 +49,7 @@ powershell -File scripts\export.ps1                 # every format in export.jso
 powershell -File scripts\export.ps1 -Formats pdf    # a subset
 ```
 
-Exports go through the shared **MindAttic.Export** library (`..\MindAttic.Export`, github.com/mindattic/MindAttic.Export), the same engine that renders Prose books and book reports. Each run writes a versioned bundle `SET V<N>.*` with `description.txt` and `keywords.txt` into `D:\Projects\MindAttic\ePub\MindAttic\SET\`, archiving the previous bundle into `Archives\v<N>\` first. Chapters are read in file-name order; every `#` heading starts a new page and an entry in the generated contents page.
+Exports go through the shared **MindAttic.Export** library (`..\MindAttic.Export`, github.com/mindattic/MindAttic.Export), the same engine that renders Prose books and book reports. Each run writes a versioned bundle `SET V<N>.*` with `description.txt` and `keywords.txt` into `D:\Projects\MindAttic\ePub\MindAttic\SET\`, archiving the previous bundle into `Archives\v<N>\` first. Chapters are read in file-name order; every `#` heading starts a new page and an entry in the generated contents page. After exporting, copy the new `.pdf` and `.docx` into `exports/` and the `.md` into `docs/synthetic-exchange-theory.md` so the repo and the Pages site carry the current text.
 
 ## License
 

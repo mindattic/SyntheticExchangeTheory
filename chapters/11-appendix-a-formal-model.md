@@ -43,7 +43,7 @@ and nothing in the arithmetic guarantees this. Chapter 4 therefore makes the tie
 
 $$\sigma(t) = \max\left\{\sigma_0,\ \frac{\bar f(t)}{a(t)}\right\},$$
 
-where $\sigma_0$ is the ordinary survival share. When $\bar f(t) > a(t)$, the allocation as a whole falls short of the floor, and the constraint can be met only by raising $\theta$; that is a decision the convention must take, and it is why the floor standard $f$ becomes a contested parameter (Chapters 5 and 8).
+where $\sigma_0$ is the ordinary survival share. When $\bar f(t) > a(t)$, the allocation as a whole falls short of the floor, and the constraint can be met only by raising $\theta$; that is a decision the convention must take, and it is why the floor standard $f$ becomes a contested parameter (Chapters 5 and 7).
 
 ## A.3 The survival tier as a disagreement payoff
 

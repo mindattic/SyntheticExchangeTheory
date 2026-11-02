@@ -43,3 +43,5 @@ updated: 2026-10-13
 | SET-T18 | 2026-10-20 | docs | open | Publish SyntheticExchangeTheory docs to GitHub Pages via the shared Agency DocFX pipeline: run adopt-docs-site.ps1 (README.md as home page, docs/*.md as articles, API reference only where the code builds in CI), enable Pages with build_type=workflow, set the repo homepage URL, retire tools/build-readme.ps1 and README.htm, confirm the docs Actions run is green and https://mindattic.github.io/SyntheticExchangeTheory/ returns 200. Depends on MAT-T8. | — |
 | SET-T19 | 2026-10-22 | docs | closed | Update USER_STORIES.md | — |
 | SET-T20 | 2026-10-24 | docs | closed | Update USER_STORIES.md | — |
+| SET-T21 | 2026-11-02 | docs | open | Adopt MindAttic.Agency docs-site pipeline, publish README to GitHub Pages (HOUSE-LAW-14) | — |
+| SET-T22 | 2026-11-02 | docs | open | Remove the agrarian pilot (Ch. 7, Appendix B) and keep the dissertation entirely theoretical; renumber chapters and appendices, re-export, publish docs site and commit docx/pdf | — |
