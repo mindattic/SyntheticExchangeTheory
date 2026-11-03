@@ -54,6 +54,6 @@ updated: 2026-10-13
 | SET-T29 | 2026-11-02 | docs | closed | Fourth verification pass: check the third pass's edits, hostile examination of the argument, sentence-level copyedit for the prose standard | acd103b |
 | SET-T30 | 2026-11-02 | docs | closed | Fifth verification pass: check the fourth pass's edits, economist's examination of the economic layer and Appendix A, whole-manuscript coherence after the concessions | 40bc369 |
 | SET-T31 | 2026-11-02 | docs | closed | Re-export the dissertation (V19) and refresh the committed PDF, DOCX and Pages source | e49003a |
-| SET-T32 | 2026-11-02 | docs | open | Add scalable SVG figures for every major idea in the dissertation, generated mathematically, embedded in the md/html/docx/pdf exports with APA figure captions | — |
+| SET-T32 | 2026-11-02 | docs | closed | Add scalable SVG figures for every major idea in the dissertation, generated mathematically, embedded in the md/html/docx/pdf exports with APA figure captions | aa8ce11 |
 | SET-T33 | 2026-11-02 | fix | closed | Fix the open items the 2026-11-02 bughunt left for decision (README word counts, stale open-items list) | — |
 | SET-T34 | 2026-11-02 | feature | open | Place the 23 figures in the dissertation and re-export: MindAttic.Export 5.2.0 now embeds images (SVG) in PDF and DOCX, so the export gate is cleared (user request 2026-11-02) | M.EXPT-T31 f78cfec |
