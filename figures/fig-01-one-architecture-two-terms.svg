@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="6in" height="2.96in" viewBox="0 0 600 296" role="img" aria-labelledby="t d">
+<title id="t">One architecture, two sets of terms</title>
+<desc id="d">Two panels show the same exchange between a person and a synthetic system: data flows from the person to the system and services flow back. In the first scenario consent, reciprocal value and real exit all hold; in the second all three fail, and the failures are linked: exit fails first, then consent, then reciprocity.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1a1a1a"/></marker><marker id="arrow-accent" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2b5d8c"/></marker><marker id="arrow-warn" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#a0522d"/></marker><marker id="arrow-mid" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#8c8c8c"/></marker><marker id="dot" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5"><circle cx="5" cy="5" r="4" fill="#1a1a1a"/></marker><pattern id="hatch" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#8c8c8c" stroke-width="1"/></pattern><pattern id="hatch-accent" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#2b5d8c" stroke-width="1"/></pattern></defs>
+<rect x="0" y="0" width="600" height="296" fill="#ffffff"/>
+<rect x="16" y="36" width="280" height="240" fill="none" stroke="#cfcfcf" stroke-width="1"/>
+<text x="156" y="52" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="15.4" text-anchor="middle" font-weight="bold" font-style="normal" fill="#1a1a1a" dominant-baseline="auto">Scenario 1: terms hold</text>
+<rect x="30" y="96" width="72" height="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="1" rx="3"/>
+<text x="66" y="120" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="14" text-anchor="middle" font-weight="normal" font-style="normal" fill="#1a1a1a" dominant-baseline="middle">Person</text>
+<rect x="210" y="96" width="72" height="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="1" rx="3"/>
+<text x="246" y="111.25" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="14" text-anchor="middle" font-weight="normal" font-style="normal" fill="#1a1a1a" dominant-baseline="middle">Synthetic</text>
+<text x="246" y="128.75" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="14" text-anchor="middle" font-weight="normal" font-style="normal" fill="#1a1a1a" dominant-baseline="middle">system</text>
+<line x1="106" y1="110" x2="206" y2="110" stroke="#1a1a1a" stroke-width="1.4" stroke-linecap="butt" marker-end="url(#arrow)"/>
+<text x="156" y="102" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.9" text-anchor="middle" font-weight="normal" font-style="normal" fill="#1a1a1a" dominant-baseline="auto">data, attention</text>
+<line x1="206" y1="132" x2="106" y2="132" stroke="#1a1a1a" stroke-width="1.4" stroke-linecap="butt" marker-end="url(#arrow)"/>
+<text x="156" y="146" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.9" text-anchor="middle" font-weight="normal" font-style="normal" fill="#1a1a1a" dominant-baseline="auto">services, care</text>
+<circle cx="42" cy="176" r="5" fill="#2b5d8c" stroke="none" stroke-width="1"/>
+<text x="54" y="176" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="13.3" text-anchor="start" font-weight="bold" font-style="normal" fill="#1a1a1a" dominant-baseline="middle">Real exit: holds</text>
+<text x="54" y="188" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.48" text-anchor="start" font-weight="normal" font-style="normal" fill="#4d4d4d" dominant-baseline="middle">floor secured; can switch; records portable</text>
+<circle cx="42" cy="206" r="5" fill="#2b5d8c" stroke="none" stroke-width="1"/>
+<text x="54" y="206" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="13.3" text-anchor="start" font-weight="bold" font-style="normal" fill="#1a1a1a" dominant-baseline="middle">Consent: holds</text>
+<text x="54" y="218" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.48" text-anchor="start" font-weight="normal" font-style="normal" fill="#4d4d4d" dominant-baseline="middle">account of flows; can refuse; can revoke</text>
+<circle cx="42" cy="236" r="5" fill="#2b5d8c" stroke="none" stroke-width="1"/>
+<text x="54" y="236" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="13.3" text-anchor="start" font-weight="bold" font-style="normal" fill="#1a1a1a" dominant-baseline="middle">Reciprocal value: holds</text>
+<text x="54" y="248" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.48" text-anchor="start" font-weight="normal" font-style="normal" fill="#4d4d4d" dominant-baseline="middle">both gain; gains legible; division fair</text>
+<rect x="304" y="36" width="280" height="240" fill="none" stroke="#cfcfcf" stroke-width="1"/>
+<text x="444" y="52" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="15.4" text-anchor="middle" font-weight="bold" font-style="normal" fill="#1a1a1a" dominant-baseline="auto">Scenario 2: terms fail</text>
+<rect x="318" y="96" width="72" height="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="1" rx="3"/>
+<text x="354" y="120" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="14" text-anchor="middle" font-weight="normal" font-style="normal" fill="#1a1a1a" dominant-baseline="middle">Person</text>
+<rect x="498" y="96" width="72" height="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="1" rx="3"/>
+<text x="534" y="111.25" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="14" text-anchor="middle" font-weight="normal" font-style="normal" fill="#1a1a1a" dominant-baseline="middle">Synthetic</text>
+<text x="534" y="128.75" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="14" text-anchor="middle" font-weight="normal" font-style="normal" fill="#1a1a1a" dominant-baseline="middle">system</text>
+<line x1="394" y1="110" x2="494" y2="110" stroke="#1a1a1a" stroke-width="1.4" stroke-linecap="butt" marker-end="url(#arrow)"/>
+<text x="444" y="102" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.9" text-anchor="middle" font-weight="normal" font-style="normal" fill="#1a1a1a" dominant-baseline="auto">data, attention</text>
+<line x1="494" y1="132" x2="394" y2="132" stroke="#1a1a1a" stroke-width="1.4" stroke-linecap="butt" marker-end="url(#arrow)"/>
+<text x="444" y="146" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.9" text-anchor="middle" font-weight="normal" font-style="normal" fill="#1a1a1a" dominant-baseline="auto">services, care</text>
+<circle cx="330" cy="176" r="5" fill="#a0522d" stroke="none" stroke-width="1"/>
+<text x="342" y="176" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="13.3" text-anchor="start" font-weight="bold" font-style="normal" fill="#1a1a1a" dominant-baseline="middle">Real exit: fails</text>
+<text x="342" y="188" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.48" text-anchor="start" font-weight="normal" font-style="normal" fill="#4d4d4d" dominant-baseline="middle">cannot leave: survival runs through the system</text>
+<circle cx="330" cy="206" r="5" fill="#a0522d" stroke="none" stroke-width="1"/>
+<text x="342" y="206" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="13.3" text-anchor="start" font-weight="bold" font-style="normal" fill="#1a1a1a" dominant-baseline="middle">Consent: fails</text>
+<text x="342" y="218" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.48" text-anchor="start" font-weight="normal" font-style="normal" fill="#4d4d4d" dominant-baseline="middle">cannot refuse what it cannot leave</text>
+<circle cx="330" cy="236" r="5" fill="#a0522d" stroke="none" stroke-width="1"/>
+<text x="342" y="236" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="13.3" text-anchor="start" font-weight="bold" font-style="normal" fill="#1a1a1a" dominant-baseline="middle">Reciprocal value: fails</text>
+<text x="342" y="248" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.48" text-anchor="start" font-weight="normal" font-style="normal" fill="#4d4d4d" dominant-baseline="middle">nothing obliges value to flow back</text>
+<line x1="330" y1="183" x2="330" y2="199" stroke="#a0522d" stroke-width="1" stroke-linecap="butt" marker-end="url(#arrow-warn)"/>
+<line x1="330" y1="213" x2="330" y2="229" stroke="#a0522d" stroke-width="1" stroke-linecap="butt" marker-end="url(#arrow-warn)"/>
+<text x="574" y="266" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.48" text-anchor="end" font-weight="normal" font-style="italic" fill="#a0522d" dominant-baseline="auto">each failure entails the next</text>
+<text x="300" y="20" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="14" text-anchor="middle" font-weight="normal" font-style="italic" fill="#4d4d4d" dominant-baseline="auto">Same flows, same technology, different terms</text>
+</svg>

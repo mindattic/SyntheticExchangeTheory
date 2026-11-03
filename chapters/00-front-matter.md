@@ -35,3 +35,29 @@ Every source cited was located, and each was checked against the claim it suppor
 | DRAM | Dynamic random-access memory |
 | ICANN | Internet Corporation for Assigned Names and Numbers |
 | LLM | Large language model |
+
+# List of Figures
+
+1. One Architecture, Two Sets of Terms
+2. The Architecture of the Framework: Conditions, Layers and Premises
+3. A Disagreement Payoff Moves the Bargained Share; an Exit Option Only Bounds It
+4. The Three Conditions, Their Nine Clauses, and the Dependencies Among Them
+5. Dependence Rises With Value and Falls With Availability; Divided Among Many Parties, It Loses Its Restraining Force
+6. What an Unconditional Floor Does to the Division of Surplus: The Additive and Substitution Cases
+7. Impatience Below the Floor Drives the Human Party's Share of the Surplus Toward Zero
+8. The Informational Shadow of a Flow and the Level at Which Consent Must Be Given
+9. The Scope of the Theory's Claims: Where the Necessary Condition Holds and Where the Sufficiency Conjecture Is Offered
+10. Five Prototypes of Exchange Regime by Clause Pattern
+11. Capacity, Unit and Claim: How the Compute Dividend Is Issued, Redeemed and Retired
+12. A Fixed Quantity of Compute Loses Real Value as Compute Grows Abundant; a Share Tracks the Real Purchasing Power of All Compute
+13. The Survival Share Is a Percentage With a Binding Physical Minimum
+14. Idle Balances Compound Under Interest and Converge Under Demurrage
+15. Under Information-Gain Pricing the Price of Each Further Similar Datum Falls
+16. Three Channels of Accumulation and the Instrument That Acts on Each
+17. Three Paths: Control in Either Direction Is One Relation With the Roles Exchanged; Synthesis Is a Different Relation
+18. Credentials Attest Uniqueness Without Disclosing Substrate: The Issuer Partition and Its Two Gaps
+19. The Blind Convention: What Is Decided Before the Veil and What Lies Behind It
+20. Ostrom's Eight Design Principles Mapped Onto the Framework, With the Strength of Each Mapping
+21. Convergent Remediation: Many Organizations, Few Models, One Shared Exposure
+22. Slow Strain, a Discrete Trigger, and a Window That Opens Onto Two Branches
+23. Convergence From Two Sides: The Question Changes From How Parties Exchange to Who Counts as a Party

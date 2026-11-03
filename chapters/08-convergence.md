@@ -52,7 +52,15 @@ There is a further implication for biological substrates in particular. If livin
 
 ## 8.5 Who counts as a party
 
-The dissertation began with a question about terms, how humans and synthetic systems should exchange value fairly. If the line between human and synthetic systems keeps thinning, the question changes. It becomes a question about membership, who is a party to the exchange at all.
+The dissertation began with a question about terms, how humans and synthetic systems should exchange value fairly. If the line between human and synthetic systems keeps thinning, the question changes. It becomes a question about membership, who is a party to the exchange at all. Figure 23 places the chapter's cases on the two axes of convergence.
+
+**Figure 23**
+
+*Convergence From Two Sides: The Question Changes From How Parties Exchange to Who Counts as a Party*
+
+![Two axes, people incorporating machines and machines becoming biological, with the chapter's cases placed on each and the point where they meet marked as the question of who counts as a party.](../figures/fig-23-convergence-two-sides.svg)
+
+*Note.* Along one axis people incorporate machines: records, implanted devices, and speech neuroprostheses with personal voice models (Card et al., 2024). Along the other, machines become biological: neuromorphic hardware, organoid reservoirs, and candidates for sentience. The conditions stay substrate-neutral; what convergence changes is their content and their sufficiency (Section 8.5), and exit from an implanted system must include ownership and portability of the personal models the exchange produces (Section 8.3).
 
 Chapter 5 anticipated this when it placed the *classification* of parties behind the veil of the founding convention, and the cases of this chapter add to the list of those who cannot know how that classification will treat them. The donor whose cells become part of a computing system and the organoid that may one day be judged a sentience candidate join the system of uncertain moral status that Chapter 5 considered. Convergence strengthens the case for strong blindness: the more entities there are whose classification no existing rule anticipates, the more a convention that fixes classification in advance will be drawn to the advantage of those who already know their side. It also sharpens the concession Chapter 5 made: the provisional criterion of eligibility that admits participants to the first convention seats the donor but not the organoid, and only a convention that takes up the question can change that.
 

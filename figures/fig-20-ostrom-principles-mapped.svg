@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="6in" height="3.74in" viewBox="0 0 600 374" role="img" aria-labelledby="t d">
+<title id="t">Ostrom's eight design principles mapped onto the framework, with the strength of each mapping</title>
+<desc id="d">Eight rows pair each of Ostrom's design principles with the element of the framework it maps onto and a three-level indicator of how well the mapping holds: supports, partial, or weak. Boundaries are a constraint rather than a support, collective choice maps only partly onto the blind convention, monitoring rests on a trusted authority, and nested enterprises has the weakest evidence of the eight.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1a1a1a"/></marker><marker id="arrow-accent" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2b5d8c"/></marker><marker id="arrow-warn" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#a0522d"/></marker><marker id="arrow-mid" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#8c8c8c"/></marker><marker id="dot" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5"><circle cx="5" cy="5" r="4" fill="#1a1a1a"/></marker><pattern id="hatch" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#8c8c8c" stroke-width="1"/></pattern><pattern id="hatch-accent" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#2b5d8c" stroke-width="1"/></pattern></defs>
+<rect x="0" y="0" width="600" height="374" fill="#ffffff"/>
+<text x="20" y="36" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="13.3" text-anchor="start" font-weight="bold" font-style="normal" fill="#1a1a1a" dominant-baseline="auto">Ostrom's principle</text>
+<text x="225" y="36" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="13.3" text-anchor="start" font-weight="bold" font-style="normal" fill="#1a1a1a" dominant-baseline="auto">Framework element</text>
+<text x="580" y="36" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="13.3" text-anchor="end" font-weight="bold" font-style="normal" fill="#1a1a1a" dominant-baseline="auto">Mapping</text>
+<line x1="20" y1="40" x2="580" y2="40" stroke="#ececec" stroke-width="0.8" stroke-linecap="butt"/>
+<text x="20" y="56" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="12.32" text-anchor="start" font-weight="normal" font-style="normal" fill="#1a1a1a" dominant-baseline="auto">1 Clearly defined boundaries</text>
+<text x="225" y="56" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.2" text-anchor="start" font-weight="normal" font-style="normal" fill="#4d4d4d" dominant-baseline="auto">the identity problem of 5.6: a constraint, not a support</text>
+<circle cx="548" cy="52" r="4.5" fill="#8c8c8c" stroke="#8c8c8c" stroke-width="1"/>
+<circle cx="560" cy="52" r="4.5" fill="#8c8c8c" stroke="#8c8c8c" stroke-width="1"/>
+<circle cx="572" cy="52" r="4.5" fill="#ffffff" stroke="#8c8c8c" stroke-width="1"/>
+<line x1="20" y1="72" x2="580" y2="72" stroke="#ececec" stroke-width="0.8" stroke-linecap="butt"/>
+<text x="20" y="88" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="12.32" text-anchor="start" font-weight="normal" font-style="normal" fill="#1a1a1a" dominant-baseline="auto">2 Congruence and proportionality</text>
+<text x="225" y="88" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.2" text-anchor="start" font-weight="normal" font-style="normal" fill="#4d4d4d" dominant-baseline="auto">two tiers; data pricing; demurrage with capacity rules</text>
+<circle cx="548" cy="84" r="4.5" fill="#2b5d8c" stroke="#2b5d8c" stroke-width="1"/>
+<circle cx="560" cy="84" r="4.5" fill="#2b5d8c" stroke="#2b5d8c" stroke-width="1"/>
+<circle cx="572" cy="84" r="4.5" fill="#2b5d8c" stroke="#2b5d8c" stroke-width="1"/>
+<line x1="20" y1="104" x2="580" y2="104" stroke="#ececec" stroke-width="0.8" stroke-linecap="butt"/>
+<text x="20" y="120" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="12.32" text-anchor="start" font-weight="normal" font-style="normal" fill="#1a1a1a" dominant-baseline="auto">3 Collective-choice arrangements</text>
+<text x="225" y="120" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.2" text-anchor="start" font-weight="normal" font-style="normal" fill="#4d4d4d" dominant-baseline="auto">the blind convention, which corresponds only partly</text>
+<circle cx="548" cy="116" r="4.5" fill="#8c8c8c" stroke="#8c8c8c" stroke-width="1"/>
+<circle cx="560" cy="116" r="4.5" fill="#8c8c8c" stroke="#8c8c8c" stroke-width="1"/>
+<circle cx="572" cy="116" r="4.5" fill="#ffffff" stroke="#8c8c8c" stroke-width="1"/>
+<line x1="20" y1="136" x2="580" y2="136" stroke="#ececec" stroke-width="0.8" stroke-linecap="butt"/>
+<text x="20" y="152" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="12.32" text-anchor="start" font-weight="normal" font-style="normal" fill="#1a1a1a" dominant-baseline="auto">4 Monitoring</text>
+<text x="225" y="152" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.2" text-anchor="start" font-weight="normal" font-style="normal" fill="#4d4d4d" dominant-baseline="auto">a monitor who is a trusted authority (pre-veil decision 4)</text>
+<circle cx="548" cy="148" r="4.5" fill="#8c8c8c" stroke="#8c8c8c" stroke-width="1"/>
+<circle cx="560" cy="148" r="4.5" fill="#8c8c8c" stroke="#8c8c8c" stroke-width="1"/>
+<circle cx="572" cy="148" r="4.5" fill="#ffffff" stroke="#8c8c8c" stroke-width="1"/>
+<line x1="20" y1="168" x2="580" y2="168" stroke="#ececec" stroke-width="0.8" stroke-linecap="butt"/>
+<text x="20" y="184" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="12.32" text-anchor="start" font-weight="normal" font-style="normal" fill="#1a1a1a" dominant-baseline="auto">5 Graduated sanctions</text>
+<text x="225" y="184" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.2" text-anchor="start" font-weight="normal" font-style="normal" fill="#4d4d4d" dominant-baseline="auto">publicity, then suspension from transacting in the unit</text>
+<circle cx="548" cy="180" r="4.5" fill="#2b5d8c" stroke="#2b5d8c" stroke-width="1"/>
+<circle cx="560" cy="180" r="4.5" fill="#2b5d8c" stroke="#2b5d8c" stroke-width="1"/>
+<circle cx="572" cy="180" r="4.5" fill="#2b5d8c" stroke="#2b5d8c" stroke-width="1"/>
+<line x1="20" y1="200" x2="580" y2="200" stroke="#ececec" stroke-width="0.8" stroke-linecap="butt"/>
+<text x="20" y="216" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="12.32" text-anchor="start" font-weight="normal" font-style="normal" fill="#1a1a1a" dominant-baseline="auto">6 Conflict-resolution mechanisms</text>
+<text x="225" y="216" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.2" text-anchor="start" font-weight="normal" font-style="normal" fill="#4d4d4d" dominant-baseline="auto">a partial answer to enforcement without a sovereign</text>
+<circle cx="548" cy="212" r="4.5" fill="#2b5d8c" stroke="#2b5d8c" stroke-width="1"/>
+<circle cx="560" cy="212" r="4.5" fill="#2b5d8c" stroke="#2b5d8c" stroke-width="1"/>
+<circle cx="572" cy="212" r="4.5" fill="#2b5d8c" stroke="#2b5d8c" stroke-width="1"/>
+<line x1="20" y1="232" x2="580" y2="232" stroke="#ececec" stroke-width="0.8" stroke-linecap="butt"/>
+<text x="20" y="248" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="12.32" text-anchor="start" font-weight="normal" font-style="normal" fill="#1a1a1a" dominant-baseline="auto">7 Recognition of rights to organize</text>
+<text x="225" y="248" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.2" text-anchor="start" font-weight="normal" font-style="normal" fill="#4d4d4d" dominant-baseline="auto">states must tolerate a self-governed compute commons</text>
+<circle cx="548" cy="244" r="4.5" fill="#2b5d8c" stroke="#2b5d8c" stroke-width="1"/>
+<circle cx="560" cy="244" r="4.5" fill="#2b5d8c" stroke="#2b5d8c" stroke-width="1"/>
+<circle cx="572" cy="244" r="4.5" fill="#2b5d8c" stroke="#2b5d8c" stroke-width="1"/>
+<line x1="20" y1="264" x2="580" y2="264" stroke="#ececec" stroke-width="0.8" stroke-linecap="butt"/>
+<text x="20" y="280" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="12.32" text-anchor="start" font-weight="normal" font-style="normal" fill="#1a1a1a" dominant-baseline="auto">8 Nested enterprises</text>
+<text x="225" y="280" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.2" text-anchor="start" font-weight="normal" font-style="normal" fill="#4d4d4d" dominant-baseline="auto">nested systems under a shared unit; weakest evidence</text>
+<circle cx="548" cy="276" r="4.5" fill="#a0522d" stroke="#a0522d" stroke-width="1"/>
+<circle cx="560" cy="276" r="4.5" fill="#ffffff" stroke="#a0522d" stroke-width="1"/>
+<circle cx="572" cy="276" r="4.5" fill="#ffffff" stroke="#a0522d" stroke-width="1"/>
+<circle cx="20" cy="310" r="4.5" fill="#2b5d8c" stroke="#2b5d8c" stroke-width="1"/>
+<circle cx="32" cy="310" r="4.5" fill="#2b5d8c" stroke="#2b5d8c" stroke-width="1"/>
+<circle cx="44" cy="310" r="4.5" fill="#2b5d8c" stroke="#2b5d8c" stroke-width="1"/>
+<text x="64" y="310" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.9" text-anchor="start" font-weight="normal" font-style="normal" fill="#1a1a1a" dominant-baseline="middle">supports</text>
+<circle cx="130" cy="310" r="4.5" fill="#8c8c8c" stroke="#8c8c8c" stroke-width="1"/>
+<circle cx="142" cy="310" r="4.5" fill="#8c8c8c" stroke="#8c8c8c" stroke-width="1"/>
+<circle cx="154" cy="310" r="4.5" fill="#ffffff" stroke="#8c8c8c" stroke-width="1"/>
+<text x="174" y="310" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.9" text-anchor="start" font-weight="normal" font-style="normal" fill="#1a1a1a" dominant-baseline="middle">partial</text>
+<circle cx="240" cy="310" r="4.5" fill="#a0522d" stroke="#a0522d" stroke-width="1"/>
+<circle cx="252" cy="310" r="4.5" fill="#ffffff" stroke="#a0522d" stroke-width="1"/>
+<circle cx="264" cy="310" r="4.5" fill="#ffffff" stroke="#a0522d" stroke-width="1"/>
+<text x="284" y="310" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.9" text-anchor="start" font-weight="normal" font-style="normal" fill="#1a1a1a" dominant-baseline="middle">weak</text>
+<text x="20" y="328" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.2" text-anchor="start" font-weight="normal" font-style="italic" fill="#4d4d4d" dominant-baseline="auto">Ostrom (1990, 2010) presented the principles as regularities of successful cases, not sufficient</text>
+<text x="20" y="342.56" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.2" text-anchor="start" font-weight="normal" font-style="italic" fill="#4d4d4d" dominant-baseline="auto">conditions; her cases were local and regional resources, not a global commons. The weakest evidence</text>
+<text x="20" y="357.12" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.2" text-anchor="start" font-weight="normal" font-style="italic" fill="#4d4d4d" dominant-baseline="auto">of the eight is for nested enterprises (Cox et al., 2010).</text>
+</svg>

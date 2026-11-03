@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="6in" height="3.12in" viewBox="0 0 600 312" role="img" aria-labelledby="t d">
+<title id="t">The informational shadow of a flow and the level at which consent must be given</title>
+<desc id="d">Left: a single source i sends a flow to a recipient; the flow licenses inferences about a set of parties, its shadow, that includes i and others who did not consent. Right: the collective shadow of a population is the union of its members' shadows; Proposition 5 requires the three conditions at the level of that union, above a materiality threshold the governance layer sets.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1a1a1a"/></marker><marker id="arrow-accent" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2b5d8c"/></marker><marker id="arrow-warn" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#a0522d"/></marker><marker id="arrow-mid" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#8c8c8c"/></marker><marker id="dot" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5"><circle cx="5" cy="5" r="4" fill="#1a1a1a"/></marker><pattern id="hatch" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#8c8c8c" stroke-width="1"/></pattern><pattern id="hatch-accent" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#2b5d8c" stroke-width="1"/></pattern></defs>
+<rect x="0" y="0" width="600" height="312" fill="#ffffff"/>
+<text x="150" y="28" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="14.7" text-anchor="middle" font-weight="bold" font-style="normal" fill="#1a1a1a" dominant-baseline="auto">One flow, one shadow</text>
+<rect x="30" y="110" width="70" height="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="1" rx="3"/>
+<text x="65" y="130" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="14" text-anchor="middle" font-weight="normal" font-style="normal" fill="#1a1a1a" dominant-baseline="middle">source i</text>
+<rect x="220" y="110" width="80" height="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="1" rx="3"/>
+<text x="260" y="121.25" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="14" text-anchor="middle" font-weight="normal" font-style="normal" fill="#1a1a1a" dominant-baseline="middle">recipient</text>
+<text x="260" y="138.75" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="14" text-anchor="middle" font-weight="normal" font-style="normal" fill="#1a1a1a" dominant-baseline="middle">(model)</text>
+<line x1="100" y1="130" x2="218" y2="130" stroke="#1a1a1a" stroke-width="1.6" stroke-linecap="butt" marker-end="url(#arrow)"/>
+<text x="159" y="122" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="12.6" text-anchor="middle" font-weight="normal" font-style="italic" fill="#1a1a1a" dominant-baseline="auto">flow</text>
+<ellipse cx="110" cy="215" rx="100" ry="46" fill="#dbe6f0" stroke="#2b5d8c" stroke-width="1.2" stroke-dasharray="4 2"/>
+<text x="110" y="180" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="13.3" text-anchor="middle" font-weight="normal" font-style="italic" fill="#2b5d8c" dominant-baseline="auto">shadow Σ</text>
+<text x="135" y="183" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="13.3" text-anchor="start" fill="#2b5d8c" dominant-baseline="auto"><tspan font-style="italic" baseline-shift="sub" font-size="9.58">i</tspan></text>
+<circle cx="55" cy="215" r="5" fill="#ffffff" stroke="#2b5d8c" stroke-width="1.2"/>
+<circle cx="85" cy="205" r="5" fill="#ffffff" stroke="#2b5d8c" stroke-width="1.2"/>
+<circle cx="110" cy="225" r="5" fill="#2b5d8c" stroke="#2b5d8c" stroke-width="1.2"/>
+<circle cx="140" cy="205" r="5" fill="#ffffff" stroke="#2b5d8c" stroke-width="1.2"/>
+<circle cx="165" cy="215" r="5" fill="#ffffff" stroke="#2b5d8c" stroke-width="1.2"/>
+<text x="110" y="240" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="12.6" text-anchor="middle" font-weight="normal" font-style="italic" fill="#2b5d8c" dominant-baseline="auto">i</text>
+<text x="110" y="272" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.2" text-anchor="middle" font-weight="normal" font-style="normal" fill="#4d4d4d" dominant-baseline="auto">the others the flow licenses</text>
+<text x="110" y="286.56" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.2" text-anchor="middle" font-weight="normal" font-style="normal" fill="#4d4d4d" dominant-baseline="auto">inferences about consented to</text>
+<text x="110" y="301.12" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.2" text-anchor="middle" font-weight="normal" font-style="normal" fill="#4d4d4d" dominant-baseline="auto">nothing (Viljoen, 2021)</text>
+<line x1="160" y1="136" x2="130" y2="170" stroke="#2b5d8c" stroke-width="0.9" stroke-linecap="butt" stroke-dasharray="2 2"/>
+<text x="450" y="28" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="14.7" text-anchor="middle" font-weight="bold" font-style="normal" fill="#1a1a1a" dominant-baseline="auto">Population and collective shadow</text>
+<ellipse cx="450" cy="165" rx="130" ry="95" fill="none" stroke="#1a1a1a" stroke-width="1.4"/>
+<text x="332" y="65" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="13.3" text-anchor="start" fill="#1a1a1a" dominant-baseline="auto">Σ<tspan font-style="italic" baseline-shift="sub" font-size="9.58">P</tspan> = ∪ Σ<tspan font-style="italic" baseline-shift="sub" font-size="9.58">i</tspan>  (collective shadow)</text>
+<ellipse cx="410" cy="150" rx="50" ry="30" fill="#dbe6f0" stroke="#2b5d8c" stroke-width="1" stroke-dasharray="3 2" opacity="0.85"/>
+<ellipse cx="470" cy="140" rx="55" ry="32" fill="#dbe6f0" stroke="#2b5d8c" stroke-width="1" stroke-dasharray="3 2" opacity="0.85"/>
+<ellipse cx="440" cy="190" rx="60" ry="30" fill="#dbe6f0" stroke="#2b5d8c" stroke-width="1" stroke-dasharray="3 2" opacity="0.85"/>
+<ellipse cx="500" cy="185" rx="45" ry="28" fill="#dbe6f0" stroke="#2b5d8c" stroke-width="1" stroke-dasharray="3 2" opacity="0.85"/>
+<circle cx="395" cy="150" r="4" fill="#2b5d8c" stroke="#ffffff" stroke-width="0.8"/>
+<circle cx="450" cy="135" r="4" fill="#2b5d8c" stroke="#ffffff" stroke-width="0.8"/>
+<circle cx="430" cy="195" r="4" fill="#2b5d8c" stroke="#ffffff" stroke-width="0.8"/>
+<circle cx="505" cy="180" r="4" fill="#2b5d8c" stroke="#ffffff" stroke-width="0.8"/>
+<circle cx="475" cy="165" r="4" fill="#2b5d8c" stroke="#ffffff" stroke-width="0.8"/>
+<text x="450" y="277" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.2" text-anchor="middle" font-weight="normal" font-style="normal" fill="#4d4d4d" dominant-baseline="auto">population P, everyone the shadows cover: consent,</text>
+<text x="450" y="291.56" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.2" text-anchor="middle" font-weight="normal" font-style="normal" fill="#4d4d4d" dominant-baseline="auto">exit and reciprocity must hold at this level</text>
+<text x="450" y="306.12" font-family="Arial, Helvetica, 'Liberation Sans', sans-serif" font-size="11.2" text-anchor="middle" font-weight="normal" font-style="normal" fill="#4d4d4d" dominant-baseline="auto">(Proposition 5)</text>
+</svg>
