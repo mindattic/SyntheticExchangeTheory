@@ -50,6 +50,7 @@ updated: 2026-10-13
 | SET-T25 | 2026-11-02 | docs | closed | Full review pass of the dissertation: flaws in logic, unsupported or unattributed claims needing APA citations, in-text/reference mismatches, and removal of non-academic or flowery prose | 3a864e2 |
 | SET-T26 | 2026-11-02 | docs | closed | Second verification pass after the SET-T25 review: hunt for errors introduced by the edits (contradictions, broken cross-references, algebra, garbled or duplicated text) and any remaining flaws | 572811c |
 | SET-T27 | 2026-11-02 | docs | closed | Third verification pass: citation-by-citation check against research notes, cross-reference accuracy, arithmetic in Ch. 4 and Appendix A, and rendered export | 77317c4 |
-| SET-T28 | 2026-11-02 | fix | open | Bughunt sweep, two passes: find and fix real bugs across tracked source (user request 2026-11-02) | — |
+| SET-T28 | 2026-11-02 | fix | closed | Bughunt sweep, two passes: find and fix real bugs across tracked source (user request 2026-11-02) | — |
 | SET-T29 | 2026-11-02 | docs | closed | Fourth verification pass: check the third pass's edits, hostile examination of the argument, sentence-level copyedit for the prose standard | acd103b |
 | SET-T30 | 2026-11-02 | docs | closed | Fifth verification pass: check the fourth pass's edits, economist's examination of the economic layer and Appendix A, whole-manuscript coherence after the concessions | 40bc369 |
+| SET-T31 | 2026-11-02 | docs | closed | Re-export the dissertation (V19) and refresh the committed PDF, DOCX and Pages source | e49003a |
