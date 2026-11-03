@@ -1,6 +1,6 @@
 # References
 
-*Format: APA 7th edition. The verification status of each source (full text read, abstract or publisher page read, or record located) is recorded in Appendix C. Preprints and grey literature are identified as such.*
+*Format: APA 7th edition. The verification status of each source (full text read, abstract or publisher page read, or record located) is recorded in Appendix C. Preprints and gray literature are identified as such.*
 
 Abramitzky, R. (2008). The limits of equality: Insights from the Israeli kibbutz. *The Quarterly Journal of Economics, 123*(3), 1111–1159. https://doi.org/10.1162/qjec.2008.123.3.1111
 

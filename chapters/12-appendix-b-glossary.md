@@ -22,9 +22,9 @@ Terms are defined as they are used in this dissertation. Where a term has a wide
 
 **Disagreement payoff.** What a party receives while an exchange is not taking place, including during refusal, negotiation or impasse. Distinguished from an exit option, which affects a bargain only when its exercise is credible. A disagreement payoff below the floor makes a party impatient and so weakens it in every bargain.
 
-**Domination.** The relation, as stipulated in Section 3.8, in which one party's outcome depends on the other's will and the first cannot alter that dependence; in the framework's terms, a relation in which a party's disagreement payoff lies below its floor, so that clause E(i) fails. A failure of clause E(ii) or E(iii) alone is a defect of the exchange, not domination.
-
 **Discretionary tier.** The tradable, saveable and lendable portion of each basic-income allocation, subject to demurrage.
+
+**Domination.** The relation, as stipulated in Section 3.8, in which one party's outcome depends on the other's will and the first cannot alter that dependence; in the framework's terms, a relation in which a party's disagreement payoff lies below its floor and which it cannot leave, so that clauses E(i) and E(ii) both fail. The definition is symmetric in form and applies with the roles exchanged. A failure of clause E(ii) or E(iii) alone is a defect of the exchange, not domination, and a sub-floor party that can leave is exposed to the erosion of its options rather than dominated.
 
 **Enclosure (regime).** An exchange regime in which exit, consent and reciprocity have all failed, so that the person has become infrastructure for the system rather than a party to an exchange with it. The dystopian scenario of Chapter 1.
 
@@ -36,7 +36,7 @@ Terms are defined as they are used in this dissertation. Where a term has a wide
 
 **Floor standard.** The rule that fixes the level of service at which the floor goods defined in Chapter 3 are delivered, against which the survival tier's binding minimum is set. Proposed in Chapters 4 and 5 to be specified relative to the service delivered to the best-served, and identified in Chapter 7 as a contested parameter.
 
-**Flow.** A transfer of something of value from one party to another: data, labor, attention, compute, goods, services, or tissue.
+**Flow.** A transfer of something of value from one party to another: data, labor, attention, compute, goods, services or tissue.
 
 **Genesis rules.** The first rules of a governance system, which shape every later rule because later rules are made under them. The term borrows from the "genesis block" of a blockchain, the first block from which every subsequent block descends (Chapter 5).
 
@@ -58,11 +58,11 @@ Terms are defined as they are used in this dissertation. Where a term has a wide
 
 **Party.** Any entity that can be a source or recipient of value in an exchange and whose welfare, or whose principal's welfare, the framework counts. Used in an analytic sense that leaves open whether synthetic parties have moral status. A synthetic party is treated as a composite: its objective belongs to the deployed system, its stake in the exchange to the principal that operates it.
 
-**Patronage (regime).** An exchange regime in which exit and reciprocity hold but the informational clause of consent fails: benefits are delivered without an account of the flows, on terms the recipient can leave.
+**Patronage (regime).** An exchange regime in which exit and reciprocity hold but the informational clause of consent fails: benefits are delivered without an account of the flows' shadows or uses, though the recipient can see what it gives, on terms it can leave.
 
 **Policy window.** A brief opening in which problems, solutions and politics converge, often after a focusing event, and in which solutions already developed are likely to be adopted (Chapter 6).
 
-**Real exit.** The condition that a party's disagreement payoff is at or above its floor, that it has at least one exit option whose value net of switching costs is not drastically lower than that of the current exchange, and that leaving does not destroy assets accumulated within the exchange (Condition E, Chapter 3). The first clause is the one Chapter 3 argues to be necessary for any relation that is not one of domination.
+**Real exit.** The condition that a party's disagreement payoff is at or above its floor, that it has at least one exit option whose value net of switching costs is not drastically lower than that of the current exchange, and that leaving does not destroy assets accumulated within the exchange (Condition E, Chapter 3). The first clause is the one Chapter 3 argues to be necessary, for a party that cannot leave, to any relation that is not one of domination.
 
 **Reciprocal value.** The condition that each party gains from the exchange relative to its disagreement payoff, that the gains are legible to both, and that the division of the surplus is not determined solely by an unchosen asymmetry in the parties' bargaining positions, whether in disagreement payoffs or in the capacity to wait (Condition R, Chapter 3).
 
@@ -80,10 +80,10 @@ Terms are defined as they are used in this dissertation. Where a term has a wide
 
 **Symbiosis standard.** The standard, stated in Section 5.7, that every party the convention recognizes has equal standing in a single interdependent system, regardless of substrate. An ethical claim about the starting architecture, and a statement of what the framework's institutions are for; not a mechanism that holds them up.
 
-**Synthetic.** As used in the name of the theory, substrate-neutral: it qualifies *exchange* and covers artificial systems, human beings, and the hybrids that arise when the two converge. Chosen over *human–AI* and *symbiotic*. As a modifier of *intelligence*, *system* or *party*, the word designates the side of the exchange that was made rather than born (Section 1.2).
+**Synthetic.** As used in the name of the theory, substrate-neutral: it qualifies *exchange* and covers artificial systems, human beings and the hybrids that arise when the two converge. Chosen over *human–AI* and *symbiotic*. As a modifier of *intelligence*, *system* or *party*, the word designates the side of the exchange that was made rather than born (Section 1.2).
 
 **Synthetic intelligence.** The dissertation's general term for the artificial side of the exchange: any system that was made rather than born and that performs work which, done by a person, would be called intelligent. Covers present language models, narrow systems, and the biological and hybrid substrates of Chapter 8. Preferred to *artificial intelligence*, which ties the class to one kind of substrate; *AI* is retained only where it names a literature or a practice.
 
 **Unique accountable principal.** The provisional criterion of eligibility for a seat in the blind convention proposed in Chapter 5: an entity identifiable as one bearer of the obligations the convention will create. Set before the veil, revisable by the convention.
 
-**Veil of uncertainty.** The condition, in public-choice accounts of constitutional choice, in which real, self-interested participants choose rules while genuinely uncertain about which position they will occupy under them, so that self-interest recommends rules acceptable from any position. Distinguished from Rawls's idealized veil of ignorance.
+**Veil of uncertainty.** The condition, in public-choice accounts of constitutional choice, in which real, self-interested participants choose rules while uncertain about which position they will occupy under them, so that self-interest recommends rules acceptable from any position. Distinguished from Rawls's idealized veil of ignorance.

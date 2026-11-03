@@ -1,6 +1,6 @@
 # Appendix A: Formal Model
 
-This appendix gives the minimal mathematics behind the propositions of Chapter 3 and the economic design of Chapter 4. It is intentionally elementary. Every result here is a textbook consequence of the cited theory, a direct calculation, or, where the text says so, a stated assumption, and the point of setting them out is to show precisely which assumptions each design choice depends on.
+This appendix gives the minimal mathematics behind the propositions of Chapter 3 and the economic design of Chapter 4. It is intentionally elementary. Every result here is a textbook consequence of the cited theory, a direct calculation or, where the text says so, a stated assumption, and the point of setting them out is to show which assumptions each design choice depends on.
 
 ## A.1 Notation
 
@@ -8,13 +8,13 @@ This appendix gives the minimal mathematics behind the propositions of Chapter 3
 |---|---|
 | $N(t)$ | Number of enrolled persons at time $t$ |
 | $C(t)$ | Total measured compute operating under the framework in period $t$, in standard compute units (global compute where the whole of it does) |
-| $\theta$ | Share of global compute allocated to the basic income (set by the convention, Chapter 5) |
+| $\theta$ | Share of the measured compute base $C(t)$ allocated to the basic income (set by the convention, Chapter 5) |
 | $\sigma(t)$, $\sigma_0$ | Survival-tier share of each allocation, $0 < \sigma(t) \le 1$, time-varying under the binding minimum of A.2, and its ordinary value |
 | $a(t)$, $\bar a$ | Per-person allocation, $a(t) = \theta C(t) / N(t)$, and a fixed nominal holding (A.2) |
 | $f$ | Physical floor: the quantity of the standard floor bundle a party requires per period |
 | $p_f(t)$ | Price per unit of the floor bundle in compute units |
 | $\bar f$ | Value of the floor bundle, $\bar f = p_f f$, in compute units |
-| $d_i$ | Disagreement payoff of party $i$, a flow per period; $V$ and $u_i$ below are measured in the same way, and the comparison with $\bar f$ in A.3.2 is per period |
+| $d_i$ | Disagreement payoff of party $i$, per period or as the present value of a flow over the life of the exchange; $V$ and $u_i$ below are measured in the same way, and the comparison with $\bar f$ in A.3.2 is per period |
 | $c_s$ | Cost to the synthetic party of supplying floor goods within an exchange (A.3.1) |
 | $r_h, r_s$ | Discount rates of the two parties in the alternating-offers model (A.3) |
 | $D_{BA}$, $P_{AB}$, $g$ | Dependence of party $B$ on party $A$, the power of $A$ over $B$, and the function relating dependence to its arguments (Emerson, A.5) |
@@ -28,7 +28,7 @@ This appendix gives the minimal mathematics behind the propositions of Chapter 3
 | $W_i(t)$ | Discretionary balance held by party $i$ |
 | $\rho$ | Rate at which a held balance grows or shrinks by being held (A.4) |
 | $\delta$ | Demurrage rate on idle discretionary balances and loan claims (per period) |
-| $r$ | Return on held balances in a conventional interest-bearing regime, or the interest rate on a loan claim (A.4.3) |
+| $r$ | Return on held balances in a conventional interest-bearing regime, or the interest rate on a loan claim (A.4.1, A.4.3) |
 | $y_i(t)$ | Discretionary inflow to $i$ (allocation plus earnings) |
 | $c_i(t)$ | Discretionary outflow from $i$ (spending, transfers) |
 | $k_i$ | Constant net inflow $y_i - c_i$ (A.4) |
@@ -57,7 +57,7 @@ and nothing in the arithmetic guarantees this. Chapter 4 therefore makes the tie
 
 $$\sigma(t) = \min\left\{1,\ \max\left\{\sigma_0,\ \frac{\bar f(t)}{a(t)}\right\}\right\},$$
 
-where $\sigma_0$ is the ordinary survival share. Chapter 4 allows $p_f$, and therefore $\bar f$ and $\sigma$, to differ by place; the appendix writes the single-place case, and the formulas hold place by place. When $\bar f(t) > a(t)$, the constraint binds at $\sigma = 1$, the allocation as a whole falls short of the floor, and the floor can be met only by raising $\theta$; that is a decision the convention must take, and it is why the floor standard $f$ becomes a contested parameter (Chapters 5 and 7). The design therefore guarantees the floor only up to what the agreed share of capacity can buy.
+where $\sigma_0$ is the ordinary survival share. Chapter 4 allows $p_f$, and therefore $\bar f$ and $\sigma$, to differ by place; the appendix writes the single-place case, and the formulas hold place by place. When $\bar f(t) > a(t)$, the constraint binds at $\sigma = 1$, the allocation as a whole falls short of the floor, and the floor can be met only by raising $\theta$; that is a decision the convention must take, and it is why the floor standard that fixes the level of $f$ becomes a contested parameter (Chapters 5 and 7). The design therefore guarantees the floor only up to what the agreed share of capacity can buy.
 
 ## A.3 The survival tier as a disagreement payoff
 
@@ -73,7 +73,7 @@ so that the more patient party takes the larger share of the surplus. The result
 
 **A.3.1 What an unconditional floor does to the division of surplus.** Suppose the survival tier gives $h$ goods worth $\Delta$ per period, received whether or not agreement is reached. Two cases must be distinguished.
 
-*The purely additive case.* If the tier is simply added to whatever $h$ has, it raises $h$'s payoff on disagreement and $h$'s payoff on agreement by the same amount: $d_h$ becomes $d_h + \Delta$ and $V$ becomes $V + \Delta$. The surplus $V - d_h - d_s$ is unchanged, and
+*The purely additive case.* If the tier is added to whatever $h$ has, it raises $h$'s payoff on disagreement and $h$'s payoff on agreement by the same amount: $d_h$ becomes $d_h + \Delta$ and $V$ becomes $V + \Delta$. The surplus $V - d_h - d_s$ is unchanged, and
 
 $$u_h^{*\prime} = \frac{(V + \Delta) + (d_h + \Delta) - d_s}{2} = u_h^* + \Delta.$$
 
@@ -123,7 +123,7 @@ Three properties of this result carry the argument of Chapter 4.
 
 The third property is the exact form of the limitation acknowledged in Chapter 4: a person whose output is in persistent high demand sustains a large balance, because $k_i$ is large. What demurrage removes is the pathway by which a large balance, once acquired, generates further balances independently of current inflow.
 
-**A.4.3 Converting balances to productive capital or to credit.** The analysis above treats $W_i$ as an idle balance. A party can escape demurrage by converting balances into productive assets, for instance by purchasing compute-generating capacity, whose returns then enter $y_i$. Let $K_i$ denote such capital with return $\pi$. Then $y_i$ includes $\pi K_i$, and if $K_i$ is not itself subject to a holding cost and its returns are reinvested in capacity, $dK_i/dt = \pi K_i$, so that $K_i$ grows exponentially at rate $\pi$: the regime of A.4.1 with $r$ replaced by $\pi$. The compounding channel reopens through capital rather than money. Lending is a second route: a loan that pays interest $r$ and is exempt from demurrage simply reproduces the regime of A.4.1. Chapter 4 therefore applies the holding cost to loan claims as well as to balances, so that the lender's net return is $r - \delta$. That does not close the credit channel: whenever $r > \delta$ the lender is in the positive-return regime of A.4.1 and accumulation through lending is again unbounded, and at $r = \delta$ the claim neither decays nor compounds, so that a constant net flow of new lending raises it without limit, linearly rather than exponentially. Accumulation through credit is bounded only if $r < \delta$, and demurrage on claims otherwise lowers the rate of compounding through credit without removing it. This is the formal statement of the capital channel of concentration (Section 4.8). Demurrage on money alone cannot close it. Closing it requires a holding cost on compute capacity itself, a cap on individually held capacity, or collective ownership of capacity above some scale. Chapter 4 discusses the trade-offs; the formal model shows only that one of them is needed.
+**A.4.3 Converting balances to productive capital or to credit.** The analysis above treats $W_i$ as an idle balance. A party can escape demurrage by converting balances into productive assets, for instance by purchasing compute-generating capacity, whose returns then enter $y_i$. Let $K_i$ denote such capital with return $\pi$. Then $y_i$ includes $\pi K_i$, and if $K_i$ is not itself subject to a holding cost and its returns are reinvested in capacity, $dK_i/dt = \pi K_i$, so that $K_i$ grows exponentially at rate $\pi$: the regime of A.4.1 with $r$ replaced by $\pi$. The compounding channel reopens through capital rather than money. Lending is a second route: a loan that pays interest $r$ and is exempt from demurrage reproduces the regime of A.4.1. Chapter 4 therefore applies the holding cost to loan claims as well as to balances, so that the lender's net return is $r - \delta$. That does not close the credit channel: whenever $r > \delta$ the lender is in the positive-return regime of A.4.1 and accumulation through lending is again unbounded, and at $r = \delta$ the claim neither decays nor compounds, so that a constant net flow of new lending raises it without limit, linearly rather than exponentially. Accumulation through credit is bounded only if $r < \delta$, and demurrage on claims otherwise lowers the rate of compounding through credit without removing it. This is the formal statement of the capital channel of concentration (Section 4.8). Demurrage on money alone cannot close it. Closing it requires a holding cost on compute capacity itself, a cap on individually held capacity, or collective ownership of capacity above some scale. Chapter 4 discusses the trade-offs; the formal model shows only that one of them is needed.
 
 ## A.5 The power-dependence relation and divided dependence
 
@@ -143,4 +143,4 @@ The second half of Proposition 4 can be illustrated with the simplest model of a
 
 Let a flow from source $i$ materially change what the recipient can infer about the set $\Sigma_i$ of parties, with $i \in \Sigma_i$, materiality being the threshold Section 3.7 assigns to the governance layer. Call $\Sigma_i$ the informational shadow of the flow. Individual consent by $i$ is consent at the right level for the flow only if $\Sigma_i = \{i\}$; whether it is adequate then depends on the remaining clauses of the three conditions. For a population $P$, define its collective shadow as $\Sigma_P = \bigcup_{i \in P} \Sigma_i$. Proposition 5 of Chapter 3 requires that the three conditions be satisfied for the collective whose membership is $\Sigma_P$.
 
-Under information-gain pricing (Chapter 4), the value of a flow to a model is its expected reduction in the model's uncertainty about the model's parameters. Suppose, as is typical for the models that matter here, that those parameters describe regularities of populations rather than facts about individuals. Then a flow reduces uncertainty mainly to the extent that it is informative about many parties, which is to say to the extent that its shadow is large. Under that assumption the price of a flow and the inadequacy of individual consent for it can be expected to rise together. The expectation is a conjecture, not a theorem: where a model's parameters encode individuals, a flow highly informative about one rare person can command a high price while casting a small shadow. To the extent that the conjecture holds, it is the formal reason the economic and governance layers must be designed together.
+Under information-gain pricing (Chapter 4), the value of a flow to a model is the reduction, once the flow is observed, in the model's uncertainty about its parameters, the realized form of the expected-information criterion of Section 4.7. Suppose, as is typical for the models that matter here, that those parameters describe regularities of populations rather than facts about individuals. Then a flow reduces uncertainty mainly to the extent that it is informative about many parties, which is to say to the extent that its shadow is large. Under that assumption the price of a flow and the inadequacy of individual consent for it can be expected to rise together. The expectation is a conjecture, not a theorem: where a model's parameters encode individuals, a flow highly informative about one rare person can command a high price while casting a small shadow. To the extent that the conjecture holds, it is the formal reason the economic and governance layers must be designed together.

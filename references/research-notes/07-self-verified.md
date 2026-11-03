@@ -65,5 +65,9 @@
 - Perzanowski, A., & Schultz, J. (2016). *The end of ownership: Personal property in the digital economy*. MIT Press.
 - Verification: publisher/author pages and reviews read (search). Content: retailers and rightsholders characterize digital purchases as licenses; Amazon's remote deletion of Kindle copies of *1984* as example; licensing creates uncertainty about what buyers get.
 
+### Arrow2001 (2026-11-02)
+- Arrow, K. J. (2001). John C. Harsanyi, 1920–2000. In *Biographical memoirs* (Vol. 80, pp. 108–121). National Academy Press.
+- Verification: the page range was taken from the contents list of Volume 80 on the National Academies site (nationalacademies.org/read/10269), which lists the Harsanyi memoir at pp. 108–121; the memoir text itself was read earlier from the NAS PDF (Appendix C.1). The contents page does not display the author's name; the attribution to Arrow is from the PDF.
+
 ### Binmore1986_addendum (2026-11-02)
 - The fifth pass read Binmore, Rubinstein and Wolinsky (1986) in full from an author-hosted scan (Appendix C.1). The time-preference section establishes that with unequal discount rates the alternating-offers limit is the asymmetric Nash solution with bargaining weights proportional to the counterparty's discount rate; Appendix A.3 states this as alpha = r_s/(r_h + r_s) and uses it for the impatience result in A.3.2.
