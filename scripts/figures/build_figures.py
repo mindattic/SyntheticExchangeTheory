@@ -114,7 +114,7 @@ def fig02():
             "sub-floor position determines the division, of R(iii); a failure of E(iii) entails a failure of "
             "C(iii) where destroyed assets exceed value received; and a complete failure of C(i) entails a failure "
             "of R(ii). Exit is prior; consent and reciprocity are not ordered with respect to each other.")
-    s.height = 372
+    s.height = 322
     cols = [
         ("Condition E: Real exit", [("E(i)", "disagreement payoff at or above the floor"),
                                      ("E(ii)", "an exit option not drastically worse"),
@@ -153,7 +153,6 @@ def fig02():
     s.path(f"M {fmt(cx[0]+40)} {fmt(rows_y[0]+28)} L {fmt(cx[0]+40)} 296 L {fmt(cx[2]+40)} 296 L {fmt(cx[2]+40)} {fmt(rows_y[2]+30)}",
            stroke=ACCENT, width=1.4, dash="3 2", marker="arrow-accent")
     s.text(W / 2, 310, "E(i) fails and the sub-floor position alone sets the division: R(iii) fails (Prop. 3)", size=8, anchor="middle", fill=ACCENT)
-    y = s.note(330, "Solid arrow: unconditional entailment; dashed: conditional. A failure at the tail of an arrow entails a failure at its head. Exit (shaded) is prior; consent and reciprocity are not ordered with respect to each other.", size=8, style="normal")
     save(s, 2, "conditions-and-dependencies")
 
 
@@ -222,8 +221,7 @@ def fig03():
     s.text(ax.X(0.3), ax.Y(11.3), "An option matters only when it exceeds", size=8, fill=DARK)
     s.text(ax.X(0.3), ax.Y(10.6), "the bargained payoff, and then only", size=8, fill=DARK)
     s.text(ax.X(0.3), ax.Y(9.9), "up to its own value.", size=8, fill=DARK)
-    s.height = 345
-    s.note(312, "The counterparty can lower an option's value by raising switching costs; it cannot lower a payoff received during impasse.", size=8.5)
+    s.height = 300
     save(s, 3, "disagreement-payoff-vs-exit-option")
 
 
@@ -278,8 +276,7 @@ def fig04():
     s.text(ax.X(0.3), ax.Y(14.3), "Surplus shrinks by Δ − c; human gain", size=8, fill=DARK)
     s.text(ax.X(0.3), ax.Y(13.5), "between Δ/2 and Δ; provider loses at", size=8, fill=DARK)
     s.text(ax.X(0.3), ax.Y(12.7), "most Δ/2 (equal patience).", size=8, fill=DARK)
-    s.height = 350
-    s.note(312, f"Plotted with V = {fmt(V)}, d = ({fmt(dh)}, {fmt(ds)}), Δ = {fmt(D)}, c = {fmt(cs)} and a symmetric Nash split. The working draft's claim of a Δ/2 gain in every bargain was the substitution case misread as general.", size=8)
+    s.height = 300
     save(s, 4, "floor-additive-and-substitution")
 
 
@@ -313,8 +310,7 @@ def fig05():
     ax.svg.arrow(ax.X(7), ax.Y(0.14), ax.X(2.2), ax.Y(0.33), stroke=ACCENT, width=1.4, head="arrow-accent")
     s.rich(ax.X(5.2), ax.Y(0.40), [("a floor keeps ", ""), ("r", "i"), ("h", "isub"), (" finite", "")], size=9, anchor="middle", fill=ACCENT)
     s.text(ax.X(5.2), ax.Y(0.33), "and α positive", size=9, anchor="middle", fill=ACCENT)
-    s.height = 316
-    s.note(282, "The curve is the limit of the alternating-offers model with unequal discount rates (Binmore et al., 1986); the survival constraint that sends the human party's discount rate to infinity is a stated assumption (Appendix A.3.2).", size=8)
+    s.height = 272
     save(s, 5, "impatience-and-bargaining-weight")
 
 
@@ -360,8 +356,7 @@ def fig06():
     s.rich(ax2.X(Mstar) + 6, ax2.Y(7.2), [("M", "i"), (" > ", ""), ("γ", "i"), ("/", ""), ("b", "i"), (": degrading the", "")], size=8.5, fill=WARN)
     s.text(ax2.X(Mstar) + 6, ax2.Y(6.4), "population pays privately", size=8.5, fill=WARN)
     s.text(ax2.X(Mstar) + 6, ax2.Y(5.6), "though it costs all together", size=8.5, fill=WARN)
-    s.height = 345
-    s.note(290, f"Left: contours of D = v/λ, one admissible form of Emerson's (1962) dependence function. Right: drawn with γ = {fmt(gamma)} and b = {fmt(b)}; the threshold is M = γ/b (Appendix A.5; Hardin, 1968). Proposition 4: self-enforcement rises with each party's own dependence and is diluted when that dependence is shared.", size=8)
+    s.height = 284
     save(s, 6, "dependence-and-divided-commons")
 
 
@@ -513,8 +508,7 @@ def fig09():
     s.text(60, 244, "from capacity, not", size=8.5, fill=DARK, style="italic")
     s.text(60, 256, "from claims", size=8.5, fill=DARK, style="italic")
     s.text(20, 40, "Three things the word compute names are kept apart: capacity, unit, claim.", size=9, style="italic", fill=DARK)
-    s.height = 356
-    s.note(330, "The share θ must not exceed the obligated share of capacity, or claims exceed redeemable capacity every period (Section 4.4).", size=8)
+    s.height = 324
     save(s, 9, "capacity-unit-claim")
 
 
@@ -545,8 +539,7 @@ def fig10():
     s.text(ax.X(0.3), ax.Y(3.8), "Illustrative: capacity doubles every two years;", size=8, fill=DARK)
     s.text(ax.X(0.3), ax.Y(3.5), "the goods price of a unit of compute rises 20 percent a year;", size=8, fill=DARK)
     s.text(ax.X(0.3), ax.Y(3.2), "population constant.", size=8, fill=DARK)
-    s.height = 330
-    s.note(292, "Indexing converts the question whether the income keeps its value into the question whether the real value of all compute grows faster than population (Appendix A.2); the two-year doubling is the order of magnitude Hobbhahn et al. (2023) report for price-performance.", size=8)
+    s.height = 282
     save(s, 10, "share-vs-fixed-quantity")
 
 
@@ -581,8 +574,7 @@ def fig11():
     s.text(ax.X(12.5), ax.Y(0.45), "ordinary share σ₀", size=8.5, anchor="middle", fill=INK, weight="bold")
     s.text(ax.X(12.5), ax.Y(0.38), "tier exceeds the floor;", size=8, anchor="middle", fill=DARK)
     s.text(ax.X(12.5), ax.Y(0.31), "remainder is discretionary", size=8, anchor="middle", fill=DARK)
-    s.height = 330
-    s.note(292, "σ(t) = min{1, max{σ₀, f̄(t)/a(t)}}, drawn with σ₀ = 0.3 and f̄ = 3 units (Appendix A.2). The floor is guaranteed only up to what the agreed share can buy.", size=8.5)
+    s.height = 282
     save(s, 11, "survival-share-binding-minimum")
 
 
@@ -621,8 +613,7 @@ def fig12():
     ax2.vline(hl, 0, right_fn(W0b)(hl), stroke=MID, width=0.8, dash="2 2")
     s.text(ax2.X(hl) + 3, ax2.Y(0.6), "half-life ln 2/δ", size=8, fill=DARK)
     s.text(ax2.X(2), ax2.Y(14.3), "endowments forgotten; stocks track flows", size=8.5, fill=ACCENT)
-    s.height = 340
-    s.note(296, f"Drawn with k = {fmt(k)}, r = {fmt(r)} and δ = {fmt(delta)} per period (Appendix A.4). The bound binds on idle balances only; capital and credit reopen compounding (Sections 4.6 and 4.8).", size=8.5)
+    s.height = 286
     save(s, 12, "demurrage-dynamics")
 
 
@@ -646,8 +637,7 @@ def fig13():
         s.box(210, y, 170, 60, [t1, t2], size=8.5, fill="#ffffff")
         s.arrow(380, y + 30, 408, y + 30, stroke=col, width=1.4, head="arrow-accent" if col == ACCENT else ("arrow-warn" if col == WARN else "arrow-mid"))
         s.box(410, y + 6, 172, 48, [inst] + s.wrap(verdict, 8, 160), size=8, fill="#ffffff", stroke=col, tcolor=col)
-    s.height = 312
-    s.note(282, "Without the capacity rule, holders convert balances into capacity and the demurrage bound binds on nothing (Section 4.6).", size=8.5)
+    s.height = 272
     save(s, 13, "channels-of-accumulation")
 
 
@@ -676,8 +666,7 @@ def fig14():
     s.text(ax.X(10.9), ax.Y(gain(1)) - 4, "novel", size=7.5, anchor="middle", fill=ACCENT)
     s.text(ax.X(2.4), ax.Y(0.385), "gain of the n-th datum = ½ ln(1 + 1/n), Gaussian prior and noise", size=8, fill=DARK)
     s.text(ax.X(2.4), ax.Y(0.36), "of unit variance (Lindley, 1956)", size=8, fill=DARK)
-    s.height = 320
-    s.note(282, "The same kind of datum from a tenth similar contributor is worth about a seventh of what it was worth from the first; a datum about an unseen parameter is worth the first-observation gain again.", size=8.5)
+    s.height = 272
     save(s, 14, "information-gain-pricing")
 
 
@@ -715,8 +704,7 @@ def fig15():
     s.text(300, 234, "The convention chooses general formulas, not figures:", size=9.5, anchor="middle", weight="bold")
     s.text(300, 250, "share θ · floor standard · workload · demurrage δ · capacity rule · data governance", size=8.5, anchor="middle", fill=DARK)
     s.text(300, 266, "aim: Rawlsian impartiality by public-choice means (Brennan & Buchanan, 1985)", size=8.5, anchor="middle", fill=DARK, style="italic")
-    s.height = 360
-    s.note(332, "Enforcement and the symbiosis standard sit outside the diagram: the first is presupposed (Chapter 4, Section 5.10), the second is a requirement the institutions must grow into (Section 5.7).", size=8, anchor="start", x=20)
+    s.height = 332
     save(s, 15, "blind-convention")
 
 
@@ -803,8 +791,7 @@ def fig17():
         for k in range(3):
             s.circle(x + k * 12, ly, 4.5, fill=col if k < n else "#ffffff", stroke=col, width=1.0)
         s.text(x + 44, ly, lab, size=8.5, baseline="middle")
-    s.height = 374
-    s.note(ly + 18, "Ostrom (1990, 2010) presented the principles as regularities of successful cases, not sufficient conditions; her cases were local and regional resources, not a global commons. The weakest evidence of the eight is for nested enterprises (Cox et al., 2010).", size=8, anchor="start", x=20)
+    s.height = ly + 16
     save(s, 17, "ostrom-principles-mapped")
 
 
@@ -844,8 +831,7 @@ def fig18():
     s.text(437, 282, "fixes converge", size=8.5, anchor="middle", fill=WARN)
     s.text(437, 294, "one shared exposure", size=8.5, anchor="middle", fill=WARN)
     # premise chain
-    s.height = 365
-    s.note(316, "Premise 1: model fixes are often wrong in ways that look right. Premise 2: different models' errors are correlated. Condition: a same-class model checks the fix and no independent test is run. Premise 3: common deployment makes the shared defect systemic (Section 6.3).", size=8, anchor="start", x=20)
+    s.height = 308
     save(s, 18, "convergent-remediation")
 
 
@@ -885,8 +871,7 @@ def fig19():
     s.text(ax.X(10) + 66, ax.Y(2.4), "authoritarian branch:", size=8.5, fill=WARN)
     s.text(ax.X(10) + 66, ax.Y(1.7), "consolidation of control", size=8.5, fill=WARN)
     s.text(ax.X(10) + 66, ax.Y(1.0), "over compute (6.5)", size=8.5, fill=WARN)
-    s.height = 316
-    s.note(284, "The trigger is a candidate, not a prediction; the window could as easily open onto worse institutions as better ones (Section 6.1).", size=8.5)
+    s.height = 274
     save(s, 19, "strain-trigger-window")
 
 
@@ -955,8 +940,7 @@ def fig21():
     s.text(480, 116, "as a party?", size=8.8, anchor="middle", fill=ACCENT, weight="bold")
     s.text(330, 90, "conditions stay substrate-neutral;", size=8.2, anchor="middle", fill=DARK)
     s.text(330, 102, "their content and sufficiency change (8.5)", size=8.2, anchor="middle", fill=DARK)
-    s.height = 316
-    s.note(282, "Exit from an implanted system must include ownership and portability of the personal models the exchange produces (Section 8.3).", size=8.5)
+    s.height = 272
     save(s, 21, "convergence-two-sides")
 
 
