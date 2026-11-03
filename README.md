@@ -3,7 +3,7 @@
 *Consent-Based Compute Economics and Blind-Convention Governance*
 
 **Author:** MindAttic. Developed as a human–AI collaborative project; see the Statement on Authorship and Method in the front matter.
-**Status:** Complete theoretical dissertation manuscript (November 2026). About 45,000 words of body text across nine chapters (about 64,000 with front matter, references and three appendices), with 248 references whose verification level is recorded in Appendix C. The closed agrarian pilot that earlier drafts specified was removed on 2 November 2026 to keep the work entirely theoretical; the dissertation now states what an empirical test would require and leaves its design to future work.
+**Status:** Complete theoretical dissertation manuscript (November 2026). About 54,000 words of body text across nine chapters (about 70,000 with the front matter and three appendices; the reference list, about 6,800 more, is not counted), with 248 references whose verification level is recorded in Appendix C. The closed agrarian pilot that earlier drafts specified was removed on 2 November 2026 to keep the work entirely theoretical; the dissertation now states what an empirical test would require and leaves its design to future work. (Word counts: whitespace-separated words in the committed `chapters/*.md`, with LaTeX math, code blocks, comments and link targets removed; body is chapters 01 to 09, the total adds front matter and Appendices A to C, and neither includes `10-references.md`. Counted 2 November 2026.)
 
 ## Thesis in one paragraph
 
