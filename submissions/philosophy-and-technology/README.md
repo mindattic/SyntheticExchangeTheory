@@ -2,7 +2,7 @@
 
 **Article:** "Terms, Not Character: The Priority of Exit in Exchange Between People and Artificial Systems"
 **Author:** Ryan DeBraal, MindAttic. ORCID https://orcid.org/0009-0003-0726-5642
-**Source:** the formal core of the dissertation (Chapters 2–3 and Appendix A). Every citation comes from the dissertation's verified reference list (see Appendix D and `references/UNRETRIEVED.md`).
+**Source:** the formal core of the dissertation (Chapters 2–3 and Appendix A). Every citation comes from the dissertation's verified reference list (see Appendix C and `references/UNRETRIEVED.md`).
 
 ## Files
 

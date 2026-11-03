@@ -3,9 +3,9 @@
 Sources that the verification passes (October 2026) could not obtain in full. Use this as a
 library list: getting any of these through an institutional library, an interlibrary loan or a
 purchase would let them be read in full and, for the removed works, restored. The level of every
-source still cited is recorded in Appendix D (`chapters/15-appendix-d-verification-ledger.md`).
+source still cited is recorded in Appendix C (`chapters/13-appendix-c-verification-ledger.md`).
 
-## 1. Still cited, but checked only at the cited passage (18)
+## 1. Still cited, but checked only at the cited passage (16)
 
 Each cited passage was found in the work's own text by searching it (full-text search of
 Internet Archive scans, Google Books search-inside, or an authors' draft) and the citing sentence
@@ -20,7 +20,6 @@ books are flagged access-restricted (lending only), and the other copies are pai
 | Friedman, M., & Schwartz, A. J. (1963). *A monetary history of the United States, 1867–1960*. Princeton University Press. | Liquidity crises; one-third fall in the money stock | Ch. 6 | Book (Ch. 7) |
 | Frohlich, N., & Oppenheimer, J. A. (1992). *Choosing justice*. University of California Press. | Group consensus; average with a floor constraint, not Rawls's principle | Chs. 5, 8 | Book |
 | Hess, C., & Ostrom, E. (Eds.). (2007). *Understanding knowledge as a commons*. MIT Press. | IAD framework adapted to knowledge commons (authors' Ch. 3 draft only) | Ch. 5 | Published Ch. 3 |
-| Kanter, R. M. (1972). *Commitment and community*. Harvard University Press. | Sacrifice and investment; 25-year success criterion (pp. 72, 126, 245) | Ch. 7 | Book |
 | Kingdon, J. W. (2003). *Agendas, alternatives, and public policies* (2nd ed.). Longman. | Policy windows; ready alternatives | Ch. 6 | Book |
 | Lanier, J. (2013). *Who owns the future?* Simon & Schuster. | Nanopayments for contributed data (pp. 20, 274) | Ch. 2 | Book |
 | Manson, N. C., & O'Neill, O. (2007). *Rethinking informed consent in bioethics*. Cambridge University Press. | Consent as a communicative transaction; never fully specific or explicit | Ch. 2 | Book |
@@ -30,8 +29,10 @@ books are flagged access-restricted (lending only), and the other copies are pai
 | Piketty, T. (2014). *Capital in the twenty-first century*. Belknap Press. | r > g; inherited wealth dominating (p. 34 of the 2017 reprint; 2014 page unconfirmed) | Ch. 4, App. A | Book; confirm the 2014 page |
 | Popper, K. (2002). *The logic of scientific discovery* (2nd ed.). Routledge. | Falsifiability as the criterion of demarcation | Ch. 7 | Book |
 | Posner, E. A., & Weyl, E. G. (2018). *Radical markets*. Princeton University Press. | Data as labour, building on Lanier (p. 208) | Ch. 2 | Book (Ch. 5) |
-| Severinghaus, J. P., et al. (1994). Oxygen loss in Biosphere 2. *Eos, 75*(3), 33–37. | O₂ fall 21%→14%, microbial respiration, CO₂ into concrete (opening page only) | Ch. 7, App. B | Article (Wiley/AGU) |
 | Steil, B. (2013). *The battle of Bretton Woods*. Princeton University Press. | The geopolitical agenda of the U.S. Treasury | Ch. 6 | Book |
+
+Kanter (1972) and Severinghaus et al. (1994) were on this list until the pilot chapter and its
+protocol were removed on 2026-11-02; neither is cited now (Appendix C.6).
 
 ## 2. Cited from a preprint because the published version could not be opened (2)
 
@@ -46,7 +47,7 @@ read in full, reports. Reading the published text would allow the removed clause
 ## 3. Removed from the dissertation because they could not be read (13)
 
 Each was removed rather than cited unread; its claim was cut or re-founded on a source that was
-read (see Appendix D, D.3). Any of them could be restored once read.
+read (see Appendix C, C.2 and C.3). Any of them could be restored once read.
 
 | Work | What it was cited for | Where the claim went |
 |---|---|---|

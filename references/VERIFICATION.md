@@ -2,7 +2,7 @@
 
 **Last updated:** 2026-10-08, at completion of the full dissertation manuscript.
 
-The working draft's open verification pass is complete. Every work cited in the dissertation was located in dedicated research passes, and its verification level is recorded in **Appendix D** (`chapters/15-appendix-d-verification-ledger.md`):
+The working draft's open verification pass is complete. Every work cited in the dissertation was located in dedicated research passes, and its verification level is recorded in **Appendix C** (`chapters/13-appendix-c-verification-ledger.md`):
 
 - **Full text read**: the cited content was checked against the work itself, or against its relevant sections.
 - **Abstract or publisher page read**: claims are confined to what the abstract or publisher page establishes.
@@ -12,7 +12,7 @@ The source-by-source notes, with what each work actually establishes and how it 
 
 ## Corrections made to the working draft
 
-Appendix D, section D.4 lists the sixteen errors that verification found and corrected. The most significant were:
+Appendix C, section C.4 lists the errors that verification found and corrected (sixteen at this pass; later passes added more). The most significant found at this pass were:
 
 - the SWE-bench security statistic (it compares models with human developers; it does not compare vulnerabilities introduced with vulnerabilities fixed);
 - the Wörgl unemployment claim, which the evidence does not support;
@@ -23,4 +23,4 @@ Appendix D, section D.4 lists the sixteen errors that verification found and cor
 
 ## Items still to confirm before submission
 
-See Appendix D, section D.5. In brief: complete some long author lists, run page-level library checks for record-only books, retrieve the Armstrong et al. (2016) abstract, settle Nissenbaum's publication year (2009 or 2010), and confirm the Official Journal reference for the 2026 AI Act amendment.
+See Appendix C, section C.10 (the open items at its end). In brief: complete some long author lists, run page-level library checks for record-only books, retrieve the Armstrong et al. (2016) abstract, settle Nissenbaum's publication year (2009 or 2010), and confirm the Official Journal reference for the 2026 AI Act amendment.
