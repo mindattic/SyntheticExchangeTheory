@@ -57,3 +57,5 @@ updated: 2026-10-13
 | SET-T32 | 2026-11-02 | docs | closed | Add scalable SVG figures for every major idea in the dissertation, generated mathematically, embedded in the md/html/docx/pdf exports with APA figure captions | aa8ce11 |
 | SET-T33 | 2026-11-02 | fix | closed | Fix the open items the 2026-11-02 bughunt left for decision (README word counts, stale open-items list) | — |
 | SET-T34 | 2026-11-02 | feature | open | Place the 23 figures in the dissertation and re-export: MindAttic.Export 5.2.0 now embeds images (SVG) in PDF and DOCX, so the export gate is cleared (user request 2026-11-02) | M.EXPT-T31 f78cfec |
+| SET-T35 | 2026-11-04 | feature | open | Write a Scientific American-style popular-science article explaining Synthetic Exchange Theory for a national audience, accurate and math-light | — |
+| SET-T36 | 2026-11-04 | fix | open | Sixth whole-manuscript review pass: check prior passes' edits, logic, unsupported claims, citations, cross-references | — |
