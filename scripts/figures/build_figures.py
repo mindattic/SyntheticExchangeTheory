@@ -23,8 +23,8 @@ FIGURES: list[tuple[int, str, str, str]] = []   # (number, file, title, placemen
 # which the figures were written below. place_figures.py uses the same table.
 NUMBERS = {
     "one-architecture-two-terms": 1, "framework-architecture": 2, "disagreement-payoff-vs-exit-option": 3,
-    "conditions-and-dependencies": 4, "dependence-and-divided-commons": 5, "floor-additive-and-substitution": 6,
-    "impatience-and-bargaining-weight": 7, "informational-shadow": 8, "scope-of-claims": 9, "typology-of-regimes": 10,
+    "conditions-and-dependencies": 4, "dependence-and-divided-commons": 5, "impatience-and-bargaining-weight": 6,
+    "floor-additive-and-substitution": 7, "informational-shadow": 8, "scope-of-claims": 9, "typology-of-regimes": 10,
     "capacity-unit-claim": 11, "share-vs-fixed-quantity": 12, "survival-share-binding-minimum": 13,
     "demurrage-dynamics": 14, "information-gain-pricing": 15, "channels-of-accumulation": 16, "three-paths": 17,
     "credentials-uniqueness-without-substrate": 18, "blind-convention": 19, "ostrom-principles-mapped": 20,

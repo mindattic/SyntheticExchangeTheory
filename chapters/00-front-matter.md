@@ -43,8 +43,8 @@ Every source cited was located, and each was checked against the claim it suppor
 3. A Disagreement Payoff Moves the Bargained Share; an Exit Option Only Bounds It
 4. The Three Conditions, Their Nine Clauses, and the Dependencies Among Them
 5. Dependence Rises With Value and Falls With Availability; Divided Among Many Parties, It Loses Its Restraining Force
-6. What an Unconditional Floor Does to the Division of Surplus: The Additive and Substitution Cases
-7. Impatience Below the Floor Drives the Human Party's Share of the Surplus Toward Zero
+6. Impatience Below the Floor Drives the Human Party's Share of the Surplus Toward Zero
+7. What an Unconditional Floor Does to the Division of Surplus: The Additive and Substitution Cases
 8. The Informational Shadow of a Flow and the Level at Which Consent Must Be Given
 9. The Scope of the Theory's Claims: Where the Necessary Condition Holds and Where the Sufficiency Conjecture Is Offered
 10. Five Prototypes of Exchange Regime by Clause Pattern
