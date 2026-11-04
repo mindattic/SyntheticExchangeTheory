@@ -60,4 +60,4 @@ updated: 2026-10-13
 | SET-T35 | 2026-11-04 | feature | closed | Write a Scientific American-style popular-science article explaining Synthetic Exchange Theory for a national audience, accurate and math-light | — |
 | SET-T36 | 2026-11-04 | fix | closed | Sixth whole-manuscript review pass: check prior passes' edits, logic, unsupported claims, citations, cross-references | — |
 | SET-T37 | 2026-11-04 | fix | closed | Put the Philosophy & Technology paper's exports in exports/ and make the three papers (SET, popular-science article, P&T paper) consistent and informing each other | — |
-| SET-T38 | 2026-11-04 | feature | open | Write a new philosophy paper on free will and morality in Synthetic Exchange Theory (voluntary consent under dependence, domination, responsibility, moral status under uncertainty) | — |
+| SET-T38 | 2026-11-04 | feature | closed | Write a new philosophy paper on free will and morality in Synthetic Exchange Theory (voluntary consent under dependence, domination, responsibility, moral status under uncertainty) | — |
