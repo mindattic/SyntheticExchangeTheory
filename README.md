@@ -39,7 +39,7 @@ The line between a good and a bad future with **synthetic intelligence** (the di
 - `transcripts/`: the working-session history that produced the original draft.
 - `archive/working-draft-2026-10-03/`: the original working draft (nine short chapters and its exports), kept for comparison.
 - `archive/pilot-2026-11-02/`: the removed pilot chapter and its draft pre-registration protocol, kept for a future experimental design.
-- `exports/`: the committed PDF and DOCX of the current text; `docs/`: the Markdown published to GitHub Pages.
+- `exports/`: the committed PDF and DOCX of the current text, under its own name; `docs/`: the Markdown published to GitHub Pages. `exports/` also holds the committed MD, PDF and DOCX of shorter pieces cut from the dissertation (e.g. the popular-science article), each under its own plain title with no version suffix — the versioned bundle these are cut from lives in `D:\Projects\MindAttic\ePub\MindAttic\SET\<piece>\`.
 - `export.json` and `scripts/export.ps1`: the export definition and its runner.
 
 ## Exporting

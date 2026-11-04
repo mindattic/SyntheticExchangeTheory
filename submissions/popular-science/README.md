@@ -8,7 +8,7 @@
 
 | File | Purpose | Exported to |
 |---|---|---|
-| `manuscript.md` | The article: title, deck, byline, body (about 3,500 words), a further-reading list, and a version history. | `ePub\MindAttic\SET\Popular Science\` |
+| `manuscript.md` | The article: title, deck, byline, body (about 3,500 words), a further-reading list, and a version history. | `ePub\MindAttic\SET\Popular Science\`, and committed as `exports/What Neither Side Can Take by Force.md` |
 | `export-manuscript.json` | MindAttic.Export config (pdf and docx) | |
 
 To re-export after an edit, run this from this folder:
@@ -17,7 +17,15 @@ To re-export after an edit, run this from this folder:
 dotnet run --project ..\..\..\MindAttic.Export\MindAttic.Export.Cli -c Release -- --config export-manuscript.json
 ```
 
-MindAttic.Export numbers the bundle itself (V1, V2, V3, ... by scanning the output folder) and archives the previous one, the same mechanism `scripts\export.ps1` uses for the dissertation. As committed, the current export is **V1**. Unlike `exports/` for the dissertation itself, the PDF/DOCX are not copied back into this repo (same as `submissions/philosophy-and-technology`) — they live only at the `ePub` path above; this folder keeps the Markdown source and the config.
+MindAttic.Export numbers the bundle itself (V1, V2, V3, ... by scanning the output folder) and archives the previous one, the same mechanism `scripts\export.ps1` uses for the dissertation. **Unlike `submissions/philosophy-and-technology`, this piece's exports are committed to the repo**, per Ryan's instruction (2026-11-04) to put every piece's exports in the top-level `exports/` folder under its own plain title, with no version suffix (matching how `exports/Synthetic Exchange Theory.pdf` is named). After re-exporting, copy the three files over by hand, overwriting the old ones:
+
+```
+copy "manuscript.md" "..\..\exports\What Neither Side Can Take by Force.md"
+copy "D:\Projects\MindAttic\ePub\MindAttic\SET\Popular Science\What Neither Side Can Take by Force V<N>.pdf" "..\..\exports\What Neither Side Can Take by Force.pdf"
+copy "D:\Projects\MindAttic\ePub\MindAttic\SET\Popular Science\What Neither Side Can Take by Force V<N>.docx" "..\..\exports\What Neither Side Can Take by Force.docx"
+```
+
+The versioned `V<N>` bundle at the `ePub` path is still the record of every past version (via its own `Archives\`); `exports/` only ever holds the current one. `submissions/philosophy-and-technology`'s anonymized journal package was deliberately left out of this folder — it's a double-blind submission bundle (manuscript, title page, cover letter kept separate on purpose), not a general-readership export, and wasn't included in Ryan's instruction. Ask before folding it in too.
 
 ## Versioning and the changelog
 
