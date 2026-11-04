@@ -17,7 +17,7 @@ To re-export after an edit, run this from this folder:
 dotnet run --project ..\..\..\MindAttic.Export\MindAttic.Export.Cli -c Release -- --config export-manuscript.json
 ```
 
-MindAttic.Export numbers the bundle itself (V1, V2, V3, ... by scanning the output folder) and archives the previous one, the same mechanism `scripts\export.ps1` uses for the dissertation. **Unlike `submissions/philosophy-and-technology`, this piece's exports are committed to the repo**, per Ryan's instruction (2026-11-04) to put every piece's exports in the top-level `exports/` folder under its own plain title, with no version suffix (matching how `exports/Synthetic Exchange Theory.pdf` is named). After re-exporting, copy the three files over by hand, overwriting the old ones:
+MindAttic.Export numbers the bundle itself (V1, V2, V3, ... by scanning the output folder) and archives the previous one, the same mechanism `scripts\export.ps1` uses for the dissertation. **This piece's exports are committed to the repo**, per Ryan's instruction (2026-11-04) to put every piece's exports in the top-level `exports/` folder under its own plain title, with no version suffix (matching how `exports/Synthetic Exchange Theory.pdf` is named). After re-exporting, copy the three files over by hand, overwriting the old ones:
 
 ```
 copy "manuscript.md" "..\..\exports\What Neither Side Can Take by Force.md"
@@ -25,7 +25,7 @@ copy "D:\Projects\MindAttic\ePub\MindAttic\SET\Popular Science\What Neither Side
 copy "D:\Projects\MindAttic\ePub\MindAttic\SET\Popular Science\What Neither Side Can Take by Force V<N>.docx" "..\..\exports\What Neither Side Can Take by Force.docx"
 ```
 
-The versioned `V<N>` bundle at the `ePub` path is still the record of every past version (via its own `Archives\`); `exports/` only ever holds the current one. `submissions/philosophy-and-technology`'s anonymized journal package was deliberately left out of this folder — it's a double-blind submission bundle (manuscript, title page, cover letter kept separate on purpose), not a general-readership export, and wasn't included in Ryan's instruction. Ask before folding it in too.
+The versioned `V<N>` bundle at the `ePub` path is still the record of every past version (via its own `Archives\`); `exports/` only ever holds the current one. The dissertation and the Philosophy & Technology paper sit beside it in `exports/` the same way; see "The three papers" in the top-level README.
 
 ## Versioning and the changelog
 

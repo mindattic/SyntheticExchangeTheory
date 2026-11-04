@@ -59,3 +59,4 @@ updated: 2026-10-13
 | SET-T34 | 2026-11-02 | feature | open | Place the 23 figures in the dissertation and re-export: MindAttic.Export 5.2.0 now embeds images (SVG) in PDF and DOCX, so the export gate is cleared (user request 2026-11-02) | M.EXPT-T31 f78cfec |
 | SET-T35 | 2026-11-04 | feature | closed | Write a Scientific American-style popular-science article explaining Synthetic Exchange Theory for a national audience, accurate and math-light | — |
 | SET-T36 | 2026-11-04 | fix | closed | Sixth whole-manuscript review pass: check prior passes' edits, logic, unsupported claims, citations, cross-references | — |
+| SET-T37 | 2026-11-04 | fix | open | Put the Philosophy & Technology paper's exports in exports/ and make the three papers (SET, popular-science article, P&T paper) consistent and informing each other | — |

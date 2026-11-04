@@ -39,7 +39,17 @@ The line between a good and a bad future with **synthetic intelligence** (the di
 - `transcripts/`: the working-session history that produced the original draft.
 - `archive/working-draft-2026-10-03/`: the original working draft (nine short chapters and its exports), kept for comparison.
 - `archive/pilot-2026-11-02/`: the removed pilot chapter and its draft pre-registration protocol, kept for a future experimental design.
-- `exports/`: the committed PDF and DOCX of the current text, under its own name; `docs/`: the Markdown published to GitHub Pages. `exports/` also holds the committed MD, PDF and DOCX of shorter pieces cut from the dissertation (e.g. the popular-science article), each under its own plain title with no version suffix — the versioned bundle these are cut from lives in `D:\Projects\MindAttic\ePub\MindAttic\SET\<piece>\`.
+- `exports/`: the current MD, PDF and DOCX of each of the three papers, each under its own title with no version suffix (a colon in a title becomes " - "). The versioned bundles they are copied from, with every past version archived, live in `D:\Projects\MindAttic\ePub\MindAttic\SET\`. `docs/`: the Markdown published to GitHub Pages.
+
+## The three papers
+
+They are one argument at three depths, and they must agree with each other: an edit to the theory's substance starts in the dissertation and is carried to the other two.
+
+| Paper | Role | Source | Exports |
+|---|---|---|---|
+| *Synthetic Exchange Theory* | The whole idea, as an academic work | `chapters/` | `exports/Synthetic Exchange Theory.*` |
+| "What Neither Side Can Take by Force" | The popular-science article that draws readers in | `submissions/popular-science/` | `exports/What Neither Side Can Take by Force.*` |
+| "Terms, Not Character" | The philosophy paper for *Philosophy & Technology* | `submissions/philosophy-and-technology/` | `exports/Terms, Not Character - ….*` (the anonymized manuscript) |
 - `export.json` and `scripts/export.ps1`: the export definition and its runner.
 
 ## Exporting
@@ -49,7 +59,7 @@ powershell -File scripts\export.ps1                 # every format in export.jso
 powershell -File scripts\export.ps1 -Formats pdf    # a subset
 ```
 
-Exports go through the shared **MindAttic.Export** library (`..\MindAttic.Export`, github.com/mindattic/MindAttic.Export), the same engine that renders Prose books and book reports. Each run writes a versioned bundle `SET V<N>.*` with `description.txt` and `keywords.txt` into `D:\Projects\MindAttic\ePub\MindAttic\SET\`, archiving the previous bundle into `Archives\v<N>\` first. Chapters are read in file-name order; every `#` heading starts a new page and an entry in the generated contents page. After exporting, copy the new `.pdf` and `.docx` into `exports/` and the `.md` into `docs/synthetic-exchange-theory.md` so the repo and the Pages site carry the current text.
+Exports go through the shared **MindAttic.Export** library (`..\MindAttic.Export`, github.com/mindattic/MindAttic.Export), the same engine that renders Prose books and book reports. Each run writes a versioned bundle `SET V<N>.*` with `description.txt` and `keywords.txt` into `D:\Projects\MindAttic\ePub\MindAttic\SET\`, archiving the previous bundle into `Archives\v<N>\` first. Chapters are read in file-name order; every `#` heading starts a new page and an entry in the generated contents page. After exporting, copy the new `.pdf`, `.docx` and `.md` into `exports/` as `Synthetic Exchange Theory.*`, and the `.md` also into `docs/synthetic-exchange-theory.md` so the repo and the Pages site carry the current text.
 
 ## License
 
