@@ -13,7 +13,7 @@
 | `cover-letter.md` | Cover letter (optional for this journal, but customary) | `…\Cover Letter\` |
 | `export-*.json` | MindAttic.Export configs (docx and pdf) | |
 
-The current anonymized manuscript is also committed to the top-level `exports/` folder as `Terms, Not Character - The Priority of Exit in Exchange Between People and Artificial Systems.{md,pdf,docx}` (a colon cannot appear in a Windows file name). After re-exporting the manuscript, copy `manuscript.md` and the new `Manuscript (anonymized) V<N>.pdf`/`.docx` over those three files. The title page and cover letter are submission paperwork and stay out of `exports/`.
+The current anonymized manuscript is also committed to the top-level `exports/` folder as `Terms, Not Character - The Priority of Exit in Exchange Between People and Artificial Systems.{md,pdf,docx}` (a colon cannot appear in a Windows file name). After re-exporting the manuscript, copy `manuscript.md` and the new `Manuscript (anonymized) V<N>.pdf`/`.docx` over those three files. The title page and cover letter are submission paperwork and stay out of `exports/`. Ryan chose (2026-11-04) to keep this copy public even though the review is double-blind. If the journal asks about prior posting, declare it as a preprint in the repository.
 
 To re-export after an edit, run this from this folder (one command per document):
 
