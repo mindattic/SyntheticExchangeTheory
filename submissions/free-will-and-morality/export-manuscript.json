@@ -1,0 +1,20 @@
+{
+  "title": "What Freedom Fair Exchange Requires: Voluntariness, Domination and Responsibility Between People and Synthetic Intelligence",
+  "author": "MindAttic",
+  "sources": [
+    "manuscript.md"
+  ],
+  "outputDirectory": "D:\\Projects\\MindAttic\\ePub\\MindAttic\\SET\\Free Will and Morality",
+  "fileBaseName": "What Freedom Fair Exchange Requires - Voluntariness, Domination and Responsibility Between People and Synthetic Intelligence",
+  "formats": [
+    "pdf",
+    "docx"
+  ],
+  "sidecars": false,
+  "profile": "letter",
+  "toc": false,
+  "docxPageNumbers": true,
+  "headingStyle": "as-written",
+  "firstHeadingIsTitle": true,
+  "math": false
+}

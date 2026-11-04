@@ -41,15 +41,16 @@ The line between a good and a bad future with **synthetic intelligence** (the di
 - `archive/pilot-2026-11-02/`: the removed pilot chapter and its draft pre-registration protocol, kept for a future experimental design.
 - `exports/`: the current MD, PDF and DOCX of each of the three papers, each under its own title with no version suffix (a colon in a title becomes " - "). The versioned bundles they are copied from, with every past version archived, live in `D:\Projects\MindAttic\ePub\MindAttic\SET\`. `docs/`: the Markdown published to GitHub Pages.
 
-## The three papers
+## The papers
 
-They are one argument at three depths, and they must agree with each other: an edit to the theory's substance starts in the dissertation and is carried to the other two.
+They are one argument at different depths, and they must agree with each other: an edit to the theory's substance starts in the dissertation and is carried to the others.
 
 | Paper | Role | Source | Exports |
 |---|---|---|---|
 | *Synthetic Exchange Theory* | The whole idea, as an academic work | `chapters/` | `exports/Synthetic Exchange Theory.*` |
 | "What Neither Side Can Take by Force" | The popular-science article that draws readers in | `submissions/popular-science/` | `exports/What Neither Side Can Take by Force.*` |
 | "Terms, Not Character" | The philosophy paper for *Philosophy & Technology* | `submissions/philosophy-and-technology/` | `exports/Terms, Not Character - ….*` (the anonymized manuscript) |
+| "What Freedom Fair Exchange Requires" | The philosophy paper on free will and morality: voluntary consent under dependence, domination, responsibility, moral status under uncertainty | `submissions/free-will-and-morality/` | `exports/What Freedom Fair Exchange Requires - ….*` |
 - `export.json` and `scripts/export.ps1`: the export definition and its runner.
 
 ## Exporting
