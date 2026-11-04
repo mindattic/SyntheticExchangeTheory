@@ -2,6 +2,8 @@
 
 ### A new theory argues that a peaceful future with artificial intelligence hinges not on how well-behaved machines are, but on what each side can refuse, and what neither side can seize from the other.
 
+**By MindAttic**
+
 Picture two people, a decade or two from now, who depend on an identical piece of medical technology.
 
 The first has a chronic illness managed almost entirely by an implanted system. Sensors read her body around the clock; a model trained on millions of other patients adjusts her treatment hour by hour. She pays for this care with her data, and she knows exactly what that means: what is collected, why, and what she gets back. If she wanted to switch to a rival clinic tomorrow, she could — her records would go with her.
@@ -102,3 +104,7 @@ Whether or not its specific proposals survive contact with reality, that's a sha
 - Weston, D. (2024, July 20). Helping our customers through the CrowdStrike outage. *The Official Microsoft Blog*.
 
 *This article draws on a longer theoretical dissertation, Synthetic Exchange Theory, which states its claims in full, with complete citations and the qualifications a popular treatment must compress.*
+
+### Version history
+
+*V1 is the initial draft; it has no entry below. Each later version adds one entry here describing what changed, so the current version number is always the count of entries below, plus one.*

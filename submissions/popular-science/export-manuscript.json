@@ -1,0 +1,21 @@
+{
+  "title": "What Neither Side Can Take by Force",
+  "subtitle": "A new theory argues that a peaceful future with artificial intelligence hinges not on how well-behaved machines are, but on what each side can refuse, and what neither side can seize from the other",
+  "author": "MindAttic",
+  "sources": [
+    "manuscript.md"
+  ],
+  "outputDirectory": "D:\\Projects\\MindAttic\\ePub\\MindAttic\\SET\\Popular Science",
+  "fileBaseName": "What Neither Side Can Take by Force",
+  "formats": [
+    "pdf",
+    "docx"
+  ],
+  "sidecars": false,
+  "profile": "letter",
+  "toc": false,
+  "docxPageNumbers": true,
+  "headingStyle": "as-written",
+  "firstHeadingIsTitle": true,
+  "math": false
+}
