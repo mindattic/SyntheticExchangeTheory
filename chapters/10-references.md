@@ -496,4 +496,4 @@ Zhao, W., Queralta, J. P., & Westerlund, T. (2020). Sim-to-real transfer in deep
 
 Zuboff, S. (2019). *The age of surveillance capitalism: The fight for a human future at the new frontier of power*. PublicAffairs.
 
-Zwolinski, M., Ferguson, B., & Wertheimer, A. (2022). Exploitation. In E. N. Zalta & U. Nodelman (Eds.), *The Stanford encyclopedia of philosophy* (Winter 2022 ed.). https://plato.stanford.edu/entries/exploitation/
+Zwolinski, M., Ferguson, B., & Wertheimer, A. (2022). Exploitation. In E. N. Zalta & U. Nodelman (Eds.), *The Stanford encyclopedia of philosophy* (Winter 2022 ed.). https://plato.stanford.edu/archives/win2022/entries/exploitation/

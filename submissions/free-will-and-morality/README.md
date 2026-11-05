@@ -22,7 +22,7 @@ To re-export after an edit, run this from this folder (PowerShell; Git Bash mang
 dotnet run --project ..\..\..\MindAttic.Export\MindAttic.Export.Cli -c Release -- --config export-manuscript.json
 ```
 
-Then copy `manuscript.md` and the new `V<N>.pdf`/`.docx` from the `ePub` folder over the three files in `exports/` (the colon in the title becomes " - " in the file name). Versions are whole numbers; the manuscript's "Version history" section is the changelog, and the current version is the number of entries plus one. As committed, the export is **V1**.
+Then copy `manuscript.md` and the new `V<N>.pdf`/`.docx` from the `ePub` folder over the three files in `exports/` (the colon in the title becomes " - " in the file name). Versions are whole numbers; the manuscript's "Version history" section is the changelog, and the current version is the number of entries plus one. As committed, the export is **V2**.
 
 ## Open items
 
