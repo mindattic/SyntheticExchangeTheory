@@ -78,6 +78,9 @@ def main():
     print(f"  detect a {delta:.2f} difference in the weaker party's share (assumed SD {sd_share}), d = {d4:.3f},")
     print(f"  three planned contrasts, Bonferroni alpha {alpha4:.4f}, power .90: {n4} pairs per arm, {4 * n4} pairs in all")
     print(f"  simulated power at n = {n4}, d = {d4:.3f}, alpha {alpha4:.4f}: {simulate_power(n4, d4, alpha=alpha4, rng=rng):.3f}")
+    za, m4 = Z.inv_cdf(1 - alpha4), d4
+    tost4 = 2 * Z.cdf(m4 / math.sqrt(2 / n4) - za) - 1
+    print(f"  equivalence within +/- {delta:.2f} (d = {m4:.3f}) at n = {n4}, TOST alpha {alpha4:.4f}: power {max(tost4, 0):.3f} (normal approximation)")
 
     print("Study 5: blind convention (groups are the unit; 2 x 2: concealment x form)")
     d5 = 0.50
