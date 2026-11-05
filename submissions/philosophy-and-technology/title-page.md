@@ -12,9 +12,9 @@ Corresponding author: Ryan DeBraal, [corresponding email address]
 
 ## Word counts
 
-- Abstract: 247 words
-- Main text (excluding abstract, references and appendix): approximately 7,700 words
-- Appendix: approximately 900 words
+- Abstract: 249 words
+- Main text (excluding abstract, references and appendix): approximately 8,400 words
+- Appendix: approximately 800 words
 - References: 38
 
 ## Declarations

@@ -80,7 +80,7 @@ PLACEMENTS = [
      "Figure 12 contrasts the two rules under illustrative growth.",
      "A Fixed Quantity of Compute Loses Real Value as Compute Grows Abundant; a Share Tracks the Real Purchasing Power of All Compute",
      "Two curves over ten years: the real value of a fixed quantity of compute declining, and the real value of a fixed share of compute rising.",
-     "Illustrative: capacity doubles every two years, the goods price of a unit of compute rises 20 percent a year, and population is constant. A fixed quantity's real value is proportional to 1/p and falls; a fixed share's real value is proportional to C/p and rises while capacity grows faster than its relative price falls (Appendix A.2). The two-year doubling is the order of magnitude Hobbhahn et al. (2023) report for price-performance; the price path is an assumption."),
+     "Illustrative: capacity doubles every two years, the goods price of a unit of compute falls 20 percent a year (equivalently, p, the price of goods in compute units, rises 25 percent a year), and population is constant. A fixed quantity's real value is proportional to 1/p and falls; a fixed share's real value is proportional to C/p and rises while capacity grows faster than its relative price falls (Appendix A.2). The two-year doubling is the order of magnitude Hobbhahn et al. (2023) report for price-performance; the price path is an assumption."),
     ("survival-share-binding-minimum", "04-economic-layer.md", "Chapter 5 returns to the governance of the floor standard, and Chapter 7 records it as a limitation.", "after",
      "Figure 13 plots the rule.",
      "The Survival Share Is a Percentage With a Binding Physical Minimum",
