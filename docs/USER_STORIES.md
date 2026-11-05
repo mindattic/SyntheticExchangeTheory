@@ -61,4 +61,5 @@ updated: 2026-10-13
 | SET-T36 | 2026-11-04 | fix | closed | Sixth whole-manuscript review pass: check prior passes' edits, logic, unsupported claims, citations, cross-references | — |
 | SET-T37 | 2026-11-04 | fix | closed | Put the Philosophy & Technology paper's exports in exports/ and make the three papers (SET, popular-science article, P&T paper) consistent and informing each other | — |
 | SET-T38 | 2026-11-04 | feature | closed | Write a new philosophy paper on free will and morality in Synthetic Exchange Theory (voluntary consent under dependence, domination, responsibility, moral status under uncertainty) | — |
-| SET-T39 | 2026-11-04 | fix | open | Fix the two stale points in the Philosophy & Technology paper | — |
+| SET-T39 | 2026-11-04 | fix | closed | Fix the two stale points in the Philosophy & Technology paper | — |
+| SET-T40 | 2026-11-04 | fix | open | Retitle the Philosophy & Technology paper to '...Between People and Synthetic Intelligence' | — |

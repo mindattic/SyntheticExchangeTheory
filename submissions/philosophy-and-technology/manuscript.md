@@ -1,4 +1,4 @@
-# Terms, Not Character: The Priority of Exit in Exchange Between People and Artificial Systems
+# Terms, Not Character: The Priority of Exit in Exchange Between People and Synthetic Intelligence
 
 ## Abstract
 
