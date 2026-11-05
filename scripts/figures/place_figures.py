@@ -182,7 +182,7 @@ def list_of_figures():
     entries = sorted(((NUMBERS[s], t) for s, _, _, _, _, t, _, _ in PLACEMENTS))
     body = nl.join(f"{n}. {t}" for n, t in entries)
     new = re.sub(r"(# List of Figures\s+).*?(?=(\r?\n# |\Z))", lambda m: m.group(1) + body + nl, text, count=1, flags=re.S)
-    if new == text:
+    if not re.search(r"# List of Figures\s", text):
         raise SystemExit("List of Figures heading not found in 00-front-matter.md")
     with open(path, "w", encoding="utf-8", newline="") as f:
         f.write(new)

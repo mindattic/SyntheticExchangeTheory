@@ -10,7 +10,7 @@ Terms are defined as they are used in this dissertation. Where a term has a wide
 
 **Consent.** The condition that a party has access to an accurate account of the flows the exchange involves, including their informational shadows, in a form it can understand; can refuse the exchange, entering no other in its place, without falling below its floor; and can revoke its participation at a cost bounded by the value of what it has already received (Condition C, Chapter 3). The second clause is where consent depends on exit, and it requires a disagreement payoff at the floor, not merely an alternative provider.
 
-**Convergent remediation.** The process, described in Chapter 6, by which many organizations remediate the same class of flaw in code they maintain themselves using fixes proposed and checked by the same small set of foundation models, so that the diversity of their fixes falls while the number of systems that depend on them does not.
+**Convergent remediation.** The process, described in Chapter 6, by which many organizations remediate the same class of flaw in code they maintain themselves using fixes proposed and checked by the same small set of foundation models and deployed without independent testing, so that the diversity of their fixes falls while the number of systems that depend on them does not.
 
 **Correlated-patch catastrophe.** The candidate acute trigger of Chapter 6: the exploitation or manifestation of a defect that convergent remediation has reproduced across many organizations' code, so that failures which would have been only partly correlated become one shared exposure, in systems critical enough, and failing fast enough, that the event is not absorbed.
 
@@ -52,7 +52,7 @@ Terms are defined as they are used in this dissertation. Where a term has a wide
 
 **Marketplace of the desperate (regime).** An exchange regime in which value flows both ways and can be seen to, but the weaker party's disagreement payoff lies below its floor, so that it cannot afford to refuse and the division of the surplus fails the fairness clause.
 
-**Model collapse.** The degradation of generative models trained recursively on data produced by earlier models, characterized by loss of the tails of the original distribution and reduced variance.
+**Model collapse.** The degradation of generative models trained recursively on data produced by earlier models, characterized by loss of the tails of the original distribution and reduced variance. It is observed when each generation's synthetic data replaces the data before it; when real data is kept and synthetic data accumulates alongside it, the degradation has been found to be bounded or gradual (Chapters 2 and 7).
 
 **Partnership (regime).** An exchange regime in which exit, consent and reciprocity all hold. The target of the framework.
 

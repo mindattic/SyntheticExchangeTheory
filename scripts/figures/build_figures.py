@@ -519,15 +519,15 @@ def fig09():
 def fig10():
     s = SVG(W, 310, "A fixed quantity of compute loses real value as compute grows abundant; a share tracks the real purchasing power of all compute",
             "Real value of the allocation over time under illustrative growth: capacity C doubles every two years "
-            "and the goods price of compute p falls by 30 percent a year while population is flat. A fixed "
+            "and the goods price of a unit of compute falls 20 percent a year (p, the price of goods in compute, rises 25 percent) while population is flat. A fixed "
             "quantity's real value falls with 1 over p; a fixed share's real value tracks C over p, which rises "
             "while capacity grows faster than its relative price falls.")
     g_C = math.log(2) / 2.0      # capacity doubles every two years
-    g_p = math.log(1 / 0.8)      # the goods price of a unit of compute rises 20%/yr
+    g_p = math.log(1 / 0.8)      # the goods price of a unit of compute falls 20%/yr, so p rises 25%/yr
     ax = Axes(s, 70, 36, 440, 210, 0, 10, 0, 4)
     ax.frame(xticks=(0, 2, 4, 6, 8, 10), yticks=(0, 1, 2, 3, 4), size=9,
              xlabel="years", ylabel="real value of the allocation (year 0 = 1)", grid=True)
-    # fixed quantity: value ∝ 1/p ... wait: real value of a fixed quantity = q / p(t) where p is goods price in compute units;
+    # real value of a fixed quantity = q / p(t), where p is the price of goods in compute units;
     # p RISES as compute becomes abundant (goods cost more compute). Model p(t) = e^{g_p t}: value = e^{-g_p t}.
     ax.curve(lambda t: math.exp(-g_p * t), xmin=0, xmax=10, stroke=WARN, width=1.8)
     ax.curve(lambda t: math.exp((g_C - g_p) * t), xmin=0, xmax=10, stroke=ACCENT, width=1.8)
@@ -537,7 +537,7 @@ def fig10():
     ax.label(10, math.exp(-g_p * 10), "", dx=-4, dy=-8, anchor="end", fill=WARN,
              runs=[("fixed quantity: real value ∝ 1/", ""), ("p", "i")])
     s.text(ax.X(0.3), ax.Y(3.8), "Illustrative: capacity doubles every two years;", size=8, fill=DARK)
-    s.text(ax.X(0.3), ax.Y(3.5), "the goods price of a unit of compute rises 20 percent a year;", size=8, fill=DARK)
+    s.text(ax.X(0.3), ax.Y(3.5), "the goods price of a unit of compute falls 20 percent a year;", size=8, fill=DARK)
     s.text(ax.X(0.3), ax.Y(3.2), "population constant.", size=8, fill=DARK)
     s.height = 282
     save(s, 10, "share-vs-fixed-quantity")
