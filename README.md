@@ -39,6 +39,7 @@ The line between a good and a bad future with **synthetic intelligence** (the di
 - `transcripts/`: the working-session history that produced the original draft.
 - `archive/working-draft-2026-10-03/`: the original working draft (nine short chapters and its exports), kept for comparison.
 - `archive/pilot-2026-11-02/`: the removed pilot chapter and its draft pre-registration protocol, kept for a future experimental design.
+- `research/experiment-design/`: the empirical program, separate from the dissertation: six staged studies that test the theory's empirical premises (the archived pilot is the last), a pre-registration draft for the first, and a reproducible power analysis. Nothing is registered or run.
 - `exports/`: the current MD, PDF and DOCX of each of the three papers, each under its own title with no version suffix (a colon in a title becomes " - "). The versioned bundles they are copied from, with every past version archived, live in `D:\Projects\MindAttic\ePub\MindAttic\SET\`. `docs/`: the Markdown published to GitHub Pages.
 
 ## The papers

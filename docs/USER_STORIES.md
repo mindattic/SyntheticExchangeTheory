@@ -68,3 +68,4 @@ updated: 2026-10-13
 | SET-T43 | 2026-11-05 | fix | closed | Second accuracy pass: verify SET-T42 edits, second audit of the free-will paper, carry dissertation corrections into the Philosophy & Technology paper | — |
 | SET-T44 | 2026-11-05 | fix | closed | Reproducibility pass: figures regenerate identically, stated counts hold, every citation and section cross-reference resolves in all four documents; untrack compiled .pyc that blocks rebases | — |
 | SET-T45 | 2026-11-05 | fix | closed | Final fresh-eyes re-audit of all four manuscripts after SET-T42-T44 edits; fix anything untrue, overstated, uncited or untestable-as-stated | — |
+| SET-T46 | 2026-11-05 | feature | open | Design the empirical test of Synthetic Exchange Theory as a separate pre-registration draft (hypotheses, failure thresholds, power analysis), from archive/pilot-2026-11-02 and Ch. 7.5/9.3; dissertation stays theoretical | — |

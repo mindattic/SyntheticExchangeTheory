@@ -44,7 +44,7 @@ These were open items or gaps. They were resolved in the text to complete the ma
 2. Appendix C.5 records the bibliographic checks closed in the final pass; the open verification items (page ranges and research-note entries) are listed at the end of Appendix C.10 (C.11 and C.12 add none).
 3. Degree program, institution, committee and formatting requirements are unknown. Ask Ryan before formatting for submission.
 4. The earlier ethics paper this work grew from is not in the repo. Ask Ryan whether it should be cited or acknowledged.
-5. The experimental design is future work. When Ryan starts it, begin from `archive/pilot-2026-11-02/` and from Ch. 7.5 and Ch. 9.3, which list what the test must contain.
+5. The experimental design was started on 2026-11-05 at Ryan's request (SET-T46) in `research/experiment-design/`, separate from the dissertation, which stays theoretical: a staged program of six studies (cheap tests of the separable empirical premises first, the archived settlement pilot last and conditional), a full pre-registration draft for Study 1, and a reproducible power analysis (`power.py`). Studies 2 to 5 still need full pre-registrations; nothing is registered, funded or ethics-approved.
 
 ## How we work
 
