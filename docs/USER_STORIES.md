@@ -63,4 +63,4 @@ updated: 2026-10-13
 | SET-T38 | 2026-11-04 | feature | closed | Write a new philosophy paper on free will and morality in Synthetic Exchange Theory (voluntary consent under dependence, domination, responsibility, moral status under uncertainty) | — |
 | SET-T39 | 2026-11-04 | fix | closed | Fix the two stale points in the Philosophy & Technology paper | — |
 | SET-T40 | 2026-11-04 | fix | closed | Retitle the Philosophy & Technology paper to '...Between People and Synthetic Intelligence' | — |
-| SET-T41 | 2026-11-04 | fix | open | Retitle the Philosophy & Technology paper 'The Right of Abstention: Fair Exchange Between People and Synthetic Intelligence' | — |
+| SET-T41 | 2026-11-04 | fix | closed | Retitle the Philosophy & Technology paper 'The Right of Abstention: Fair Exchange Between People and Synthetic Intelligence' | — |
