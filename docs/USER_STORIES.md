@@ -66,3 +66,4 @@ updated: 2026-10-13
 | SET-T41 | 2026-11-04 | fix | closed | Retitle the Philosophy & Technology paper 'The Right of Abstention: Fair Exchange Between People and Synthetic Intelligence' | — |
 | SET-T42 | 2026-11-05 | fix | closed | Audit dissertation, popular-science article and free-will-and-morality paper so every scientific claim and rhetorical claim is true, cited, testable and consistent across papers | — |
 | SET-T43 | 2026-11-05 | fix | closed | Second accuracy pass: verify SET-T42 edits, second audit of the free-will paper, carry dissertation corrections into the Philosophy & Technology paper | — |
+| SET-T44 | 2026-11-05 | fix | open | Reproducibility pass: figures regenerate identically, stated counts hold, every citation and section cross-reference resolves in all four documents; untrack compiled .pyc that blocks rebases | — |

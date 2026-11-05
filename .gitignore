@@ -1,3 +1,7 @@
 # Quicksave transcripts (session-local; archived, never deleted)
 .claude/quicksave.md
 .claude/quicksave.md.*
+
+# Python bytecode
+__pycache__/
+*.pyc
