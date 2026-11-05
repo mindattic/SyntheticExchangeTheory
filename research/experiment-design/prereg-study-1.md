@@ -69,7 +69,7 @@ All tests are two-sided at α = .05 unless stated. Effects on reliability are ex
 - **H2 (withdrawal window).** Reliability is higher with a continuing withdrawal window than with a window closed at submission.
 - **H3 (exploratory).** The two effects interact.
 
-**Decision rules for H1 and H2, fixed in advance.**
+**Decision rules for H1 and H2, fixed in advance.** The margin of ±0.20 is stated here in the units of the power analysis, one score per participant; after the pilot and before registration it will be re-expressed in the units of the multilevel model, with the conversion recorded.
 - *Supported:* the estimated effect is positive and its 95 percent interval excludes zero.
 - *Not supported:* the 90 percent interval lies entirely within ±0.20 (equivalence by two one-sided tests at α = .05), or the effect is negative with its 95 percent interval excluding zero. A negative effect supports the incentive prediction.
 - *Inconclusive:* neither of the above.
@@ -80,11 +80,11 @@ For the research program, only the *Not supported* outcome for H1 counts against
 
 **Primary model.** A linear mixed model of the second-presentation response on the first-presentation response, with the first-presentation response interacted with F and R, random intercepts and random first-presentation slopes for participants, and random intercepts for items. The interaction terms estimate how F and R change the agreement between presentations, which is the reliability effect. The same model with an indicator for whether the second presentation fell in the middle or the final third is reported as a check that early stopping does not drive the result.
 
-**Selection by completion.** If completion differs between the F arms by more than two percentage points, the F effect on reliability is reported with trimming bounds that assume, in turn, that the participants lost from the arm with lower completion were the most and the least reliable in it. The same bounds are applied to withdrawal under R.
+**Selection into the reliability analysis.** Participants with fewer than four retest pairs have no reliability estimate. If the share of participants with an estimate differs between the F arms by more than two percentage points, the F effect on reliability is reported with trimming bounds that assume, in turn, that the participants missing from the arm with the lower share were the most and the least reliable in it. Completion is analyzed separately as a co-primary outcome. The same bounds are applied to withdrawal under R.
 
 **Secondary outcomes** are analyzed with models of the same structure (logistic for completion and withdrawal), with a Holm correction across the five secondary outcomes.
 
-**Exclusions, fixed in advance.** Participants who fail both attention items, or whose session time is less than one third of the median for their arm, are excluded from the primary analysis; the analysis is repeated without exclusions and both results are reported.
+**Exclusions, fixed in advance.** Participants who fail both attention items, or whose median time per item answered is less than one third of the median for their arm, are excluded (time per item, not session time, so that participants who stop early are not excluded for stopping) from the primary analysis; the analysis is repeated without exclusions and both results are reported.
 
 **Openness.** The anonymized data (excluding withdrawn contributions), the materials, the coding scheme and the analysis code will be published with the results.
 
