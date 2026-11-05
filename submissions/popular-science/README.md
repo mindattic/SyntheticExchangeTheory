@@ -8,7 +8,7 @@
 
 | File | Purpose | Exported to |
 |---|---|---|
-| `manuscript.md` | The article: title, deck, byline, body (about 3,500 words), a further-reading list, and a version history. | `ePub\MindAttic\SET\Popular Science\`, and committed as `exports/What Neither Side Can Take by Force.md` |
+| `manuscript.md` | The article: title, deck, byline, body (about 4,300 words), a further-reading list, and a version history. | `ePub\MindAttic\SET\Popular Science\`, and committed as `exports/What Neither Side Can Take by Force.md` |
 | `export-manuscript.json` | MindAttic.Export config (pdf and docx) | |
 
 To re-export after an edit, run this from this folder:

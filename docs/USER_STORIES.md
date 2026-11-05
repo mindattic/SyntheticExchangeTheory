@@ -64,3 +64,4 @@ updated: 2026-10-13
 | SET-T39 | 2026-11-04 | fix | closed | Fix the two stale points in the Philosophy & Technology paper | — |
 | SET-T40 | 2026-11-04 | fix | closed | Retitle the Philosophy & Technology paper to '...Between People and Synthetic Intelligence' | — |
 | SET-T41 | 2026-11-04 | fix | closed | Retitle the Philosophy & Technology paper 'The Right of Abstention: Fair Exchange Between People and Synthetic Intelligence' | — |
+| SET-T42 | 2026-11-05 | fix | open | Audit dissertation, popular-science article and free-will-and-morality paper so every scientific claim and rhetorical claim is true, cited, testable and consistent across papers | — |
