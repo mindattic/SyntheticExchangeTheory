@@ -1,4 +1,4 @@
-# Terms, Not Character: The Priority of Exit in Exchange Between People and Synthetic Intelligence
+# The Right of Abstention: Fair Exchange Between People and Synthetic Intelligence
 
 ## Abstract
 

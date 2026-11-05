@@ -49,7 +49,7 @@ They are one argument at different depths, and they must agree with each other: 
 |---|---|---|---|
 | *Synthetic Exchange Theory* | The whole idea, as an academic work | `chapters/` | `exports/Synthetic Exchange Theory.*` |
 | "What Neither Side Can Take by Force" | The popular-science article that draws readers in | `submissions/popular-science/` | `exports/What Neither Side Can Take by Force.*` |
-| "Terms, Not Character" | The philosophy paper for *Philosophy & Technology* | `submissions/philosophy-and-technology/` | `exports/Terms, Not Character - ….*` (the anonymized manuscript) |
+| "The Right of Abstention" | The philosophy paper for *Philosophy & Technology* | `submissions/philosophy-and-technology/` | `exports/The Right of Abstention - ….*` (the anonymized manuscript) |
 | "What Freedom Fair Exchange Requires" | The philosophy paper on free will and morality: voluntary consent under dependence, domination, responsibility, moral status under uncertainty | `submissions/free-will-and-morality/` | `exports/What Freedom Fair Exchange Requires - ….*` |
 - `export.json` and `scripts/export.ps1`: the export definition and its runner.
 

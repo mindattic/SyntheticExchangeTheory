@@ -1,7 +1,7 @@
 # Philosophy paper: "What Freedom Fair Exchange Requires"
 
 **Article:** "What Freedom Fair Exchange Requires: Voluntariness, Domination and Responsibility Between People and Synthetic Intelligence".
-**Role among the papers:** the dissertation states the whole idea; the popular-science article draws readers in; "Terms, Not Character" (`submissions/philosophy-and-technology/`) is the formal core (exit priority, bargaining); this paper takes the philosophical questions those leave: what freedom consent requires, when a choice made under dependence is voluntary, what domination means, who is responsible for what a synthetic system does, and what is owed to parties of uncertain moral status. It summarizes the dissertation's formal argument where it needs it and does not repeat the bargaining analysis.
+**Role among the papers:** the dissertation states the whole idea; the popular-science article draws readers in; "The Right of Abstention" (`submissions/philosophy-and-technology/`) is the formal core (exit priority, bargaining); this paper takes the philosophical questions those leave: what freedom consent requires, when a choice made under dependence is voluntary, what domination means, who is responsible for what a synthetic system does, and what is owed to parties of uncertain moral status. It summarizes the dissertation's formal argument where it needs it and does not repeat the bargaining analysis.
 **Byline:** MindAttic (Ryan's choice of author for these pieces, 2026-11-04).
 **Length:** about 7,900 words of main text, abstract 245 words, six keywords.
 

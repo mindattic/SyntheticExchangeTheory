@@ -7,7 +7,7 @@ The Editors
 
 Dear Editors,
 
-I am pleased to submit the original research article "Terms, Not Character: The Priority of Exit in Exchange Between People and Synthetic Intelligence" for consideration in *Philosophy & Technology*.
+I am pleased to submit the original research article "The Right of Abstention: Fair Exchange Between People and Synthetic Intelligence" for consideration in *Philosophy & Technology*.
 
 Discussion of advanced artificial intelligence asks, above all, whether the systems will be good. The article argues that this question is insufficient, and develops a complementary account centred on the terms of exchange between people and the systems they depend on. Drawing on power-dependence theory, it defines three conditions of fair exchange (consent, reciprocal value and real exit) and shows that they are ordered by priority. Voluntary consent presupposes the ability to refuse without falling below a survival floor, and exit bounds reciprocity from below. Exit alone can neither inform a party nor make terms fair. A bargaining analysis explains why such a floor should be an inalienable disagreement payoff rather than an outside option, and corrects a common overstatement of what a floor does to the division of surplus. The article also shows that the dependence of synthetic systems on human input makes fair terms only conditionally self-enforcing, and that, when this dependence is shared among many systems, it becomes a commons.
 
