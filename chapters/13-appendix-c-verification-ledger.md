@@ -177,3 +177,7 @@ A ninth pass (SET-T45, 5 November 2026) re-read every manuscript whole after the
 An independent check of these edits found no substantive error; it led to three wording repairs (the abstract now says that the empirical premises, not all claims, are stated so they can be tested; a doubled "secure" in Section 5.2 and an unclear pronoun in the Philosophy & Technology article were removed) and to Chapter 7 carrying all three conditions of Proposition 4.
 
 A closing re-verification of all four manuscripts at their then-current versions found one remaining overclaim of testability in Chapter 1 (now limited to the empirical premises) and two summaries of the self-enforcement argument in Chapters 7 and 9 that omitted the conditions of Proposition 4 (now stated by reference); the Philosophy & Technology article, the popular-science article and the free will and morality article were corrected or found clean in the same check.
+
+## C.17 Second practitioner vignette
+
+At the author's request (SET-T48, 6 November 2026), Section 1.7 gained a second disclosed vignette: the author's use of a large language model to build a pre-registered trading study, read against clauses R(i) and E(iii) and the first thesis of Section 3.8. It is the author's own observation, cites no source, and is marked as a single case in which the author is a party; it changes no proposition, definition or empirical premise, so the other papers were not changed.
