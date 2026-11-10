@@ -72,4 +72,5 @@ updated: 2026-10-13
 | SET-T47 | 2026-11-05 | feature | closed | Pre-registration drafts for Studies 2-5 of the experiment design (dependence, correlated remediation, floor vs outside option, blind convention), in the form of prereg-study-1.md | — |
 | SET-T48 | 2026-11-06 | docs | closed | Add the IdiotProof gapper-study collaboration as a second disclosed vignette (Section 1.7): mutual benefit secured by terms (pre-registration, locked holdout, paper gate, portable artifacts) rather than by the model's character, with its limits stated | — |
 | SET-T49 | 2026-11-10 | chore | closed | Crash recovery: commit the command-catalog sync (.agent/commands/*.md) and regenerated docs/USER_STORIES.md left uncommitted by the session crash | — |
-| SET-T50 | 2026-11-10 | chore | open | Crash recovery: commit the command-catalog sync (.agent/commands/*.md) and regenerated docs/USER_STORIES.md left uncommitted by the session crash | — |
+| SET-T50 | 2026-11-10 | chore | closed | Crash recovery: commit the command-catalog sync (.agent/commands/*.md) and regenerated docs/USER_STORIES.md left uncommitted by the session crash | — |
+| SET-T51 | 2026-11-10 | chore | open | Crash recovery / fleet sync: commit the regenerated docs/USER_STORIES.md left uncommitted after other tickets closed elsewhere | — |
